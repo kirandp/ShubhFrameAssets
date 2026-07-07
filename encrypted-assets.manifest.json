@@ -1,15 +1,20 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-07T04:46:47.927Z",
+  "generatedAt": "2026-07-07T08:06:14.242Z",
+  "root": ".",
   "encryption": {
     "algorithm": "AES-256-GCM",
     "kdf": "PBKDF2-SHA256",
-    "iterations": 150000
+    "iterations": 150000,
+    "encoding": "base64url"
   },
-  "root": ".",
+  "thumbnail": {
+    "width": 360,
+    "lottieFramePercent": 0.3
+  },
   "assets": [
     {
-      "id": "frames-DS-Store",
+      "id": "frames",
       "name": ".DS_Store",
       "type": "file",
       "mimeType": "application/octet-stream",
@@ -17,307 +22,155 @@
       "originalPath": "frames/.DS_Store",
       "encryptedFile": "frames/.DS_Store.enc.json",
       "thumbnail": null,
-      "size": 10244
+      "size": 12292,
+      "encryptedSize": 16748
     },
     {
-      "id": "frames-business-automotive-frame00001-webp",
-      "name": "frame00001",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00001.webp",
-      "originalPath": "frames/business/automotive/frame00001.webp",
-      "encryptedFile": "frames/business/automotive/frame00001.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/automotive/frame00001.webp",
-      "size": 109366
+      "id": "frames-business",
+      "name": ".DS_Store",
+      "type": "file",
+      "mimeType": "application/octet-stream",
+      "originalFileName": ".DS_Store",
+      "originalPath": "frames/business/.DS_Store",
+      "encryptedFile": "frames/business/.DS_Store.enc.json",
+      "thumbnail": null,
+      "size": 30724,
+      "encryptedSize": 41333
     },
     {
-      "id": "frames-business-automotive-frame00014-webp",
-      "name": "frame00014",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00014.webp",
-      "originalPath": "frames/business/automotive/frame00014.webp",
-      "encryptedFile": "frames/business/automotive/frame00014.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/automotive/frame00014.webp",
-      "size": 119640
+      "id": "frames-business-automotive",
+      "name": ".DS_Store",
+      "type": "file",
+      "mimeType": "application/octet-stream",
+      "originalFileName": ".DS_Store",
+      "originalPath": "frames/business/automotive/.DS_Store",
+      "encryptedFile": "frames/business/automotive/.DS_Store.enc.json",
+      "thumbnail": null,
+      "size": 6148,
+      "encryptedSize": 8575
     },
     {
-      "id": "frames-business-education-frame00003-webp",
-      "name": "frame00003",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00003.webp",
-      "originalPath": "frames/business/education/frame00003.webp",
-      "encryptedFile": "frames/business/education/frame00003.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/education/frame00003.webp",
-      "size": 168912
+      "id": "frames-business-education",
+      "name": ".DS_Store",
+      "type": "file",
+      "mimeType": "application/octet-stream",
+      "originalFileName": ".DS_Store",
+      "originalPath": "frames/business/education/.DS_Store",
+      "encryptedFile": "frames/business/education/.DS_Store.enc.json",
+      "thumbnail": null,
+      "size": 6148,
+      "encryptedSize": 8574
     },
     {
-      "id": "frames-business-education-frame00004-webp",
-      "name": "frame00004",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00004.webp",
-      "originalPath": "frames/business/education/frame00004.webp",
-      "encryptedFile": "frames/business/education/frame00004.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/education/frame00004.webp",
-      "size": 109864
+      "id": "frames-business-electronics",
+      "name": ".DS_Store",
+      "type": "file",
+      "mimeType": "application/octet-stream",
+      "originalFileName": ".DS_Store",
+      "originalPath": "frames/business/electronics/.DS_Store",
+      "encryptedFile": "frames/business/electronics/.DS_Store.enc.json",
+      "thumbnail": null,
+      "size": 6148,
+      "encryptedSize": 8576
     },
     {
-      "id": "frames-business-education-frame00016-webp",
-      "name": "frame00016",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00016.webp",
-      "originalPath": "frames/business/education/frame00016.webp",
-      "encryptedFile": "frames/business/education/frame00016.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/education/frame00016.webp",
-      "size": 141920
+      "id": "frames-business-fashion",
+      "name": ".DS_Store",
+      "type": "file",
+      "mimeType": "application/octet-stream",
+      "originalFileName": ".DS_Store",
+      "originalPath": "frames/business/fashion/.DS_Store",
+      "encryptedFile": "frames/business/fashion/.DS_Store.enc.json",
+      "thumbnail": null,
+      "size": 6148,
+      "encryptedSize": 8572
     },
     {
-      "id": "frames-business-education-frame00017-webp",
-      "name": "frame00017",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00017.webp",
-      "originalPath": "frames/business/education/frame00017.webp",
-      "encryptedFile": "frames/business/education/frame00017.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/education/frame00017.webp",
-      "size": 90794
+      "id": "frames-business-furniture",
+      "name": ".DS_Store",
+      "type": "file",
+      "mimeType": "application/octet-stream",
+      "originalFileName": ".DS_Store",
+      "originalPath": "frames/business/furniture/.DS_Store",
+      "encryptedFile": "frames/business/furniture/.DS_Store.enc.json",
+      "thumbnail": null,
+      "size": 6148,
+      "encryptedSize": 8574
     },
     {
-      "id": "frames-business-electronics-frame00018-webp",
-      "name": "frame00018",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00018.webp",
-      "originalPath": "frames/business/electronics/frame00018.webp",
-      "encryptedFile": "frames/business/electronics/frame00018.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/electronics/frame00018.webp",
-      "size": 120394
+      "id": "frames-business-grocery",
+      "name": ".DS_Store",
+      "type": "file",
+      "mimeType": "application/octet-stream",
+      "originalFileName": ".DS_Store",
+      "originalPath": "frames/business/grocery/.DS_Store",
+      "encryptedFile": "frames/business/grocery/.DS_Store.enc.json",
+      "thumbnail": null,
+      "size": 6148,
+      "encryptedSize": 8572
     },
     {
-      "id": "frames-business-fashion-frame00002-webp",
-      "name": "frame00002",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00002.webp",
-      "originalPath": "frames/business/fashion/frame00002.webp",
-      "encryptedFile": "frames/business/fashion/frame00002.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/fashion/frame00002.webp",
-      "size": 102182
+      "id": "frames-business-jewelry",
+      "name": ".DS_Store",
+      "type": "file",
+      "mimeType": "application/octet-stream",
+      "originalFileName": ".DS_Store",
+      "originalPath": "frames/business/jewelry/.DS_Store",
+      "encryptedFile": "frames/business/jewelry/.DS_Store.enc.json",
+      "thumbnail": null,
+      "size": 6148,
+      "encryptedSize": 8572
     },
     {
-      "id": "frames-business-fashion-frame00005-webp",
-      "name": "frame00005",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00005.webp",
-      "originalPath": "frames/business/fashion/frame00005.webp",
-      "encryptedFile": "frames/business/fashion/frame00005.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/fashion/frame00005.webp",
-      "size": 118980
+      "id": "frames-business-pharmacy",
+      "name": ".DS_Store",
+      "type": "file",
+      "mimeType": "application/octet-stream",
+      "originalFileName": ".DS_Store",
+      "originalPath": "frames/business/pharmacy/.DS_Store",
+      "encryptedFile": "frames/business/pharmacy/.DS_Store.enc.json",
+      "thumbnail": null,
+      "size": 6148,
+      "encryptedSize": 8573
     },
     {
-      "id": "frames-business-fashion-frame00006-webp",
-      "name": "frame00006",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00006.webp",
-      "originalPath": "frames/business/fashion/frame00006.webp",
-      "encryptedFile": "frames/business/fashion/frame00006.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/fashion/frame00006.webp",
-      "size": 83524
+      "id": "frames-business-realestate",
+      "name": ".DS_Store",
+      "type": "file",
+      "mimeType": "application/octet-stream",
+      "originalFileName": ".DS_Store",
+      "originalPath": "frames/business/realestate/.DS_Store",
+      "encryptedFile": "frames/business/realestate/.DS_Store.enc.json",
+      "thumbnail": null,
+      "size": 6148,
+      "encryptedSize": 8575
     },
     {
-      "id": "frames-business-fashion-frame00015-webp",
-      "name": "frame00015",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00015.webp",
-      "originalPath": "frames/business/fashion/frame00015.webp",
-      "encryptedFile": "frames/business/fashion/frame00015.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/fashion/frame00015.webp",
-      "size": 128698
+      "id": "frames-business-restaurant",
+      "name": ".DS_Store",
+      "type": "file",
+      "mimeType": "application/octet-stream",
+      "originalFileName": ".DS_Store",
+      "originalPath": "frames/business/restaurant/.DS_Store",
+      "encryptedFile": "frames/business/restaurant/.DS_Store.enc.json",
+      "thumbnail": null,
+      "size": 6148,
+      "encryptedSize": 8575
     },
     {
-      "id": "frames-business-fashion-frame00019-webp",
-      "name": "frame00019",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00019.webp",
-      "originalPath": "frames/business/fashion/frame00019.webp",
-      "encryptedFile": "frames/business/fashion/frame00019.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/fashion/frame00019.webp",
-      "size": 94550
+      "id": "frames-business-sports",
+      "name": ".DS_Store",
+      "type": "file",
+      "mimeType": "application/octet-stream",
+      "originalFileName": ".DS_Store",
+      "originalPath": "frames/business/sports/.DS_Store",
+      "encryptedFile": "frames/business/sports/.DS_Store.enc.json",
+      "thumbnail": null,
+      "size": 6148,
+      "encryptedSize": 8571
     },
     {
-      "id": "frames-business-furniture-frame00001-webp",
-      "name": "frame00001",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00001.webp",
-      "originalPath": "frames/business/furniture/frame00001.webp",
-      "encryptedFile": "frames/business/furniture/frame00001.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/furniture/frame00001.webp",
-      "size": 154926
-    },
-    {
-      "id": "frames-business-furniture-frame00002-webp",
-      "name": "frame00002",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00002.webp",
-      "originalPath": "frames/business/furniture/frame00002.webp",
-      "encryptedFile": "frames/business/furniture/frame00002.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/furniture/frame00002.webp",
-      "size": 134770
-    },
-    {
-      "id": "frames-business-furniture-frame00003-webp",
-      "name": "frame00003",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00003.webp",
-      "originalPath": "frames/business/furniture/frame00003.webp",
-      "encryptedFile": "frames/business/furniture/frame00003.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/furniture/frame00003.webp",
-      "size": 179578
-    },
-    {
-      "id": "frames-business-furniture-frame00008-webp",
-      "name": "frame00008",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00008.webp",
-      "originalPath": "frames/business/furniture/frame00008.webp",
-      "encryptedFile": "frames/business/furniture/frame00008.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/furniture/frame00008.webp",
-      "size": 110142
-    },
-    {
-      "id": "frames-business-furniture-frame00021-webp",
-      "name": "frame00021",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00021.webp",
-      "originalPath": "frames/business/furniture/frame00021.webp",
-      "encryptedFile": "frames/business/furniture/frame00021.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/furniture/frame00021.webp",
-      "size": 128646
-    },
-    {
-      "id": "frames-business-furniture-frame1-webp",
-      "name": "frame1",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame1.webp",
-      "originalPath": "frames/business/furniture/frame1.webp",
-      "encryptedFile": "frames/business/furniture/frame1.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/furniture/frame1.webp",
-      "size": 103518
-    },
-    {
-      "id": "frames-business-grocery-frame00007-webp",
-      "name": "frame00007",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00007.webp",
-      "originalPath": "frames/business/grocery/frame00007.webp",
-      "encryptedFile": "frames/business/grocery/frame00007.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/grocery/frame00007.webp",
-      "size": 168538
-    },
-    {
-      "id": "frames-business-grocery-frame00020-webp",
-      "name": "frame00020",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00020.webp",
-      "originalPath": "frames/business/grocery/frame00020.webp",
-      "encryptedFile": "frames/business/grocery/frame00020.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/grocery/frame00020.webp",
-      "size": 164600
-    },
-    {
-      "id": "frames-business-jewelry-frame00009-webp",
-      "name": "frame00009",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00009.webp",
-      "originalPath": "frames/business/jewelry/frame00009.webp",
-      "encryptedFile": "frames/business/jewelry/frame00009.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/jewelry/frame00009.webp",
-      "size": 148060
-    },
-    {
-      "id": "frames-business-jewelry-frame00022-webp",
-      "name": "frame00022",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00022.webp",
-      "originalPath": "frames/business/jewelry/frame00022.webp",
-      "encryptedFile": "frames/business/jewelry/frame00022.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/jewelry/frame00022.webp",
-      "size": 182978
-    },
-    {
-      "id": "frames-business-pharmacy-frame00010-webp",
-      "name": "frame00010",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00010.webp",
-      "originalPath": "frames/business/pharmacy/frame00010.webp",
-      "encryptedFile": "frames/business/pharmacy/frame00010.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/pharmacy/frame00010.webp",
-      "size": 99294
-    },
-    {
-      "id": "frames-business-pharmacy-frame00023-webp",
-      "name": "frame00023",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00023.webp",
-      "originalPath": "frames/business/pharmacy/frame00023.webp",
-      "encryptedFile": "frames/business/pharmacy/frame00023.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/pharmacy/frame00023.webp",
-      "size": 91140
-    },
-    {
-      "id": "frames-business-realestate-frame00011-webp",
-      "name": "frame00011",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00011.webp",
-      "originalPath": "frames/business/realestate/frame00011.webp",
-      "encryptedFile": "frames/business/realestate/frame00011.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/realestate/frame00011.webp",
-      "size": 142290
-    },
-    {
-      "id": "frames-business-restaurant-frame00012-webp",
-      "name": "frame00012",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00012.webp",
-      "originalPath": "frames/business/restaurant/frame00012.webp",
-      "encryptedFile": "frames/business/restaurant/frame00012.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/restaurant/frame00012.webp",
-      "size": 145660
-    },
-    {
-      "id": "frames-business-sports-frame00013-webp",
-      "name": "frame00013",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00013.webp",
-      "originalPath": "frames/business/sports/frame00013.webp",
-      "encryptedFile": "frames/business/sports/frame00013.webp.enc.json",
-      "thumbnail": "thumbnails/frames/business/sports/frame00013.webp",
-      "size": 151694
-    },
-    {
-      "id": "frames-lottie-DS-Store",
+      "id": "frames-lottie",
       "name": ".DS_Store",
       "type": "file",
       "mimeType": "application/octet-stream",
@@ -325,175 +178,11 @@
       "originalPath": "frames/lottie/.DS_Store",
       "encryptedFile": "frames/lottie/.DS_Store.enc.json",
       "thumbnail": null,
-      "size": 8196
+      "size": 6148,
+      "encryptedSize": 8562
     },
     {
-      "id": "frames-lottie-LottieEffect-1-jso",
-      "name": "LottieEffect-1",
-      "type": "lottie",
-      "mimeType": "application/json",
-      "originalFileName": "LottieEffect-1.jso",
-      "originalPath": "frames/lottie/LottieEffect-1.jso",
-      "encryptedFile": "frames/lottie/LottieEffect-1.jso.enc.json",
-      "thumbnail": null,
-      "size": 245054
-    },
-    {
-      "id": "frames-lottie-LottieEffect-2-jso",
-      "name": "LottieEffect-2",
-      "type": "lottie",
-      "mimeType": "application/json",
-      "originalFileName": "LottieEffect-2.jso",
-      "originalPath": "frames/lottie/LottieEffect-2.jso",
-      "encryptedFile": "frames/lottie/LottieEffect-2.jso.enc.json",
-      "thumbnail": null,
-      "size": 211867
-    },
-    {
-      "id": "frames-lottie-ashaadhi-ekadashi-1-json",
-      "name": "ashaadhi-ekadashi-1",
-      "type": "lottie",
-      "mimeType": "application/json",
-      "originalFileName": "ashaadhi-ekadashi-1.json",
-      "originalPath": "frames/lottie/ashaadhi-ekadashi-1.json",
-      "encryptedFile": "frames/lottie/ashaadhi-ekadashi-1.json.enc.json",
-      "thumbnail": null,
-      "size": 566789
-    },
-    {
-      "id": "frames-lottie-ashaadhi-ekadashi-2-json",
-      "name": "ashaadhi-ekadashi-2",
-      "type": "lottie",
-      "mimeType": "application/json",
-      "originalFileName": "ashaadhi-ekadashi-2.json",
-      "originalPath": "frames/lottie/ashaadhi-ekadashi-2.json",
-      "encryptedFile": "frames/lottie/ashaadhi-ekadashi-2.json.enc.json",
-      "thumbnail": null,
-      "size": 365946
-    },
-    {
-      "id": "frames-lottie-ashaadhi-ekadashi-3-json",
-      "name": "ashaadhi-ekadashi-3",
-      "type": "lottie",
-      "mimeType": "application/json",
-      "originalFileName": "ashaadhi-ekadashi-3.json",
-      "originalPath": "frames/lottie/ashaadhi-ekadashi-3.json",
-      "encryptedFile": "frames/lottie/ashaadhi-ekadashi-3.json.enc.json",
-      "thumbnail": null,
-      "size": 7221965
-    },
-    {
-      "id": "frames-lottie-ashaadhi-ekadashi-4-json",
-      "name": "ashaadhi-ekadashi-4",
-      "type": "lottie",
-      "mimeType": "application/json",
-      "originalFileName": "ashaadhi-ekadashi-4.json",
-      "originalPath": "frames/lottie/ashaadhi-ekadashi-4.json",
-      "encryptedFile": "frames/lottie/ashaadhi-ekadashi-4.json.enc.json",
-      "thumbnail": null,
-      "size": 2095341
-    },
-    {
-      "id": "frames-lottie-ashaadhi-ekadashi-5-json",
-      "name": "ashaadhi-ekadashi-5",
-      "type": "lottie",
-      "mimeType": "application/json",
-      "originalFileName": "ashaadhi-ekadashi-5.json",
-      "originalPath": "frames/lottie/ashaadhi-ekadashi-5.json",
-      "encryptedFile": "frames/lottie/ashaadhi-ekadashi-5.json.enc.json",
-      "thumbnail": null,
-      "size": 703669
-    },
-    {
-      "id": "frames-lottie-independence-day-1-json",
-      "name": "independence_day_1",
-      "type": "lottie",
-      "mimeType": "application/json",
-      "originalFileName": "independence_day_1.json",
-      "originalPath": "frames/lottie/independence_day_1.json",
-      "encryptedFile": "frames/lottie/independence_day_1.json.enc.json",
-      "thumbnail": null,
-      "size": 234045
-    },
-    {
-      "id": "frames-lottie-independence-day-2-json",
-      "name": "independence_day_2",
-      "type": "lottie",
-      "mimeType": "application/json",
-      "originalFileName": "independence_day_2.json",
-      "originalPath": "frames/lottie/independence_day_2.json",
-      "encryptedFile": "frames/lottie/independence_day_2.json.enc.json",
-      "thumbnail": null,
-      "size": 306910
-    },
-    {
-      "id": "frames-lottie-independence-day-3-json",
-      "name": "independence_day_3",
-      "type": "lottie",
-      "mimeType": "application/json",
-      "originalFileName": "independence_day_3.json",
-      "originalPath": "frames/lottie/independence_day_3.json",
-      "encryptedFile": "frames/lottie/independence_day_3.json.enc.json",
-      "thumbnail": null,
-      "size": 263302
-    },
-    {
-      "id": "frames-lottie-independence-day-4-json",
-      "name": "independence_day_4",
-      "type": "lottie",
-      "mimeType": "application/json",
-      "originalFileName": "independence_day_4.json",
-      "originalPath": "frames/lottie/independence_day_4.json",
-      "encryptedFile": "frames/lottie/independence_day_4.json.enc.json",
-      "thumbnail": null,
-      "size": 276113
-    },
-    {
-      "id": "frames-lottie-independence-day-5-json",
-      "name": "independence_day_5",
-      "type": "lottie",
-      "mimeType": "application/json",
-      "originalFileName": "independence_day_5.json",
-      "originalPath": "frames/lottie/independence_day_5.json",
-      "encryptedFile": "frames/lottie/independence_day_5.json.enc.json",
-      "thumbnail": null,
-      "size": 651308
-    },
-    {
-      "id": "frames-lottie-independence-day-6-json",
-      "name": "independence_day_6",
-      "type": "lottie",
-      "mimeType": "application/json",
-      "originalFileName": "independence_day_6.json",
-      "originalPath": "frames/lottie/independence_day_6.json",
-      "encryptedFile": "frames/lottie/independence_day_6.json.enc.json",
-      "thumbnail": null,
-      "size": 253382
-    },
-    {
-      "id": "frames-lottie-independence-day-7-json",
-      "name": "independence_day_7",
-      "type": "lottie",
-      "mimeType": "application/json",
-      "originalFileName": "independence_day_7.json",
-      "originalPath": "frames/lottie/independence_day_7.json",
-      "encryptedFile": "frames/lottie/independence_day_7.json.enc.json",
-      "thumbnail": null,
-      "size": 371103
-    },
-    {
-      "id": "frames-lottie-independence-day-8-json",
-      "name": "independence_day_8",
-      "type": "lottie",
-      "mimeType": "application/json",
-      "originalFileName": "independence_day_8.json",
-      "originalPath": "frames/lottie/independence_day_8.json",
-      "encryptedFile": "frames/lottie/independence_day_8.json.enc.json",
-      "thumbnail": null,
-      "size": 21084
-    },
-    {
-      "id": "frames-personal-DS-Store",
+      "id": "frames-personal",
       "name": ".DS_Store",
       "type": "file",
       "mimeType": "application/octet-stream",
@@ -501,142 +190,23 @@
       "originalPath": "frames/personal/.DS_Store",
       "encryptedFile": "frames/personal/.DS_Store.enc.json",
       "thumbnail": null,
-      "size": 8196
+      "size": 22532,
+      "encryptedSize": 30410
     },
     {
-      "id": "frames-personal-Artboard-1-json",
-      "name": "Artboard 1",
-      "type": "lottie",
-      "mimeType": "application/json",
-      "originalFileName": "Artboard 1.json",
-      "originalPath": "frames/personal/Artboard 1.json",
-      "encryptedFile": "frames/personal/Artboard 1.json.enc.json",
+      "id": "frames-personal-anniversary",
+      "name": ".DS_Store",
+      "type": "file",
+      "mimeType": "application/octet-stream",
+      "originalFileName": ".DS_Store",
+      "originalPath": "frames/personal/anniversary/.DS_Store",
+      "encryptedFile": "frames/personal/anniversary/.DS_Store.enc.json",
       "thumbnail": null,
-      "size": 3201
+      "size": 6148,
+      "encryptedSize": 8576
     },
     {
-      "id": "frames-personal-anniversary-frame00001-webp",
-      "name": "frame00001",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00001.webp",
-      "originalPath": "frames/personal/anniversary/frame00001.webp",
-      "encryptedFile": "frames/personal/anniversary/frame00001.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/anniversary/frame00001.webp",
-      "size": 130086
-    },
-    {
-      "id": "frames-personal-anniversary-frame00002-webp",
-      "name": "frame00002",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00002.webp",
-      "originalPath": "frames/personal/anniversary/frame00002.webp",
-      "encryptedFile": "frames/personal/anniversary/frame00002.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/anniversary/frame00002.webp",
-      "size": 151858
-    },
-    {
-      "id": "frames-personal-anniversary-frame00003-webp",
-      "name": "frame00003",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00003.webp",
-      "originalPath": "frames/personal/anniversary/frame00003.webp",
-      "encryptedFile": "frames/personal/anniversary/frame00003.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/anniversary/frame00003.webp",
-      "size": 154750
-    },
-    {
-      "id": "frames-personal-anniversary-frame00004-webp",
-      "name": "frame00004",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00004.webp",
-      "originalPath": "frames/personal/anniversary/frame00004.webp",
-      "encryptedFile": "frames/personal/anniversary/frame00004.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/anniversary/frame00004.webp",
-      "size": 59280
-    },
-    {
-      "id": "frames-personal-anniversary-frame00005-webp",
-      "name": "frame00005",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00005.webp",
-      "originalPath": "frames/personal/anniversary/frame00005.webp",
-      "encryptedFile": "frames/personal/anniversary/frame00005.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/anniversary/frame00005.webp",
-      "size": 199420
-    },
-    {
-      "id": "frames-personal-anniversary-frame00006-webp",
-      "name": "frame00006",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00006.webp",
-      "originalPath": "frames/personal/anniversary/frame00006.webp",
-      "encryptedFile": "frames/personal/anniversary/frame00006.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/anniversary/frame00006.webp",
-      "size": 171032
-    },
-    {
-      "id": "frames-personal-anniversary-frame00007-webp",
-      "name": "frame00007",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00007.webp",
-      "originalPath": "frames/personal/anniversary/frame00007.webp",
-      "encryptedFile": "frames/personal/anniversary/frame00007.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/anniversary/frame00007.webp",
-      "size": 163394
-    },
-    {
-      "id": "frames-personal-anniversary-frame00008-webp",
-      "name": "frame00008",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00008.webp",
-      "originalPath": "frames/personal/anniversary/frame00008.webp",
-      "encryptedFile": "frames/personal/anniversary/frame00008.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/anniversary/frame00008.webp",
-      "size": 131002
-    },
-    {
-      "id": "frames-personal-anniversary-frame00009-webp",
-      "name": "frame00009",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00009.webp",
-      "originalPath": "frames/personal/anniversary/frame00009.webp",
-      "encryptedFile": "frames/personal/anniversary/frame00009.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/anniversary/frame00009.webp",
-      "size": 151498
-    },
-    {
-      "id": "frames-personal-anniversary-frame00010-webp",
-      "name": "frame00010",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00010.webp",
-      "originalPath": "frames/personal/anniversary/frame00010.webp",
-      "encryptedFile": "frames/personal/anniversary/frame00010.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/anniversary/frame00010.webp",
-      "size": 213698
-    },
-    {
-      "id": "frames-personal-anniversary-frame00011-webp",
-      "name": "frame00011",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00011.webp",
-      "originalPath": "frames/personal/anniversary/frame00011.webp",
-      "encryptedFile": "frames/personal/anniversary/frame00011.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/anniversary/frame00011.webp",
-      "size": 185332
-    },
-    {
-      "id": "frames-personal-ashaadhi-ekadashi-DS-Store",
+      "id": "frames-personal-ashaadhi-ekadashi",
       "name": ".DS_Store",
       "type": "file",
       "mimeType": "application/octet-stream",
@@ -644,21 +214,11 @@
       "originalPath": "frames/personal/ashaadhi-ekadashi/.DS_Store",
       "encryptedFile": "frames/personal/ashaadhi-ekadashi/.DS_Store.enc.json",
       "thumbnail": null,
-      "size": 6148
+      "size": 6148,
+      "encryptedSize": 8582
     },
     {
-      "id": "frames-personal-ashaadhi-ekadashi-frame-1-json",
-      "name": "frame-1",
-      "type": "lottie",
-      "mimeType": "application/json",
-      "originalFileName": "frame-1.json",
-      "originalPath": "frames/personal/ashaadhi-ekadashi/frame-1.json",
-      "encryptedFile": "frames/personal/ashaadhi-ekadashi/frame-1.json.enc.json",
-      "thumbnail": null,
-      "size": 3201
-    },
-    {
-      "id": "frames-personal-birthday-frame00001-webp",
+      "id": "frames-personal-birthday-frame00001",
       "name": "frame00001",
       "type": "image",
       "mimeType": "image/webp",
@@ -666,10 +226,13 @@
       "originalPath": "frames/personal/birthday/frame00001.webp",
       "encryptedFile": "frames/personal/birthday/frame00001.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00001.webp",
-      "size": 130304
+      "size": 130304,
+      "encryptedSize": 174114,
+      "width": 941,
+      "height": 1672
     },
     {
-      "id": "frames-personal-birthday-frame00002-webp",
+      "id": "frames-personal-birthday-frame00002",
       "name": "frame00002",
       "type": "image",
       "mimeType": "image/webp",
@@ -677,10 +240,13 @@
       "originalPath": "frames/personal/birthday/frame00002.webp",
       "encryptedFile": "frames/personal/birthday/frame00002.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00002.webp",
-      "size": 227210
+      "size": 227210,
+      "encryptedSize": 303322,
+      "width": 1081,
+      "height": 1920
     },
     {
-      "id": "frames-personal-birthday-frame00003-webp",
+      "id": "frames-personal-birthday-frame00003",
       "name": "frame00003",
       "type": "image",
       "mimeType": "image/webp",
@@ -688,10 +254,13 @@
       "originalPath": "frames/personal/birthday/frame00003.webp",
       "encryptedFile": "frames/personal/birthday/frame00003.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00003.webp",
-      "size": 289706
+      "size": 289706,
+      "encryptedSize": 386650,
+      "width": 1081,
+      "height": 1920
     },
     {
-      "id": "frames-personal-birthday-frame00004-webp",
+      "id": "frames-personal-birthday-frame00004",
       "name": "frame00004",
       "type": "image",
       "mimeType": "image/webp",
@@ -699,10 +268,13 @@
       "originalPath": "frames/personal/birthday/frame00004.webp",
       "encryptedFile": "frames/personal/birthday/frame00004.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00004.webp",
-      "size": 256080
+      "size": 256080,
+      "encryptedSize": 341815,
+      "width": 1081,
+      "height": 1920
     },
     {
-      "id": "frames-personal-birthday-frame00005-webp",
+      "id": "frames-personal-birthday-frame00005",
       "name": "frame00005",
       "type": "image",
       "mimeType": "image/webp",
@@ -710,10 +282,13 @@
       "originalPath": "frames/personal/birthday/frame00005.webp",
       "encryptedFile": "frames/personal/birthday/frame00005.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00005.webp",
-      "size": 231604
+      "size": 231604,
+      "encryptedSize": 309181,
+      "width": 1537,
+      "height": 1920
     },
     {
-      "id": "frames-personal-birthday-frame00007-webp",
+      "id": "frames-personal-birthday-frame00007",
       "name": "frame00007",
       "type": "image",
       "mimeType": "image/webp",
@@ -721,10 +296,13 @@
       "originalPath": "frames/personal/birthday/frame00007.webp",
       "encryptedFile": "frames/personal/birthday/frame00007.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00007.webp",
-      "size": 260944
+      "size": 260944,
+      "encryptedSize": 348301,
+      "width": 1072,
+      "height": 1920
     },
     {
-      "id": "frames-personal-birthday-frame00008-webp",
+      "id": "frames-personal-birthday-frame00008",
       "name": "frame00008",
       "type": "image",
       "mimeType": "image/webp",
@@ -732,10 +310,13 @@
       "originalPath": "frames/personal/birthday/frame00008.webp",
       "encryptedFile": "frames/personal/birthday/frame00008.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00008.webp",
-      "size": 271990
+      "size": 271990,
+      "encryptedSize": 363029,
+      "width": 1072,
+      "height": 1920
     },
     {
-      "id": "frames-personal-birthday-frame00009-webp",
+      "id": "frames-personal-birthday-frame00009",
       "name": "frame00009",
       "type": "image",
       "mimeType": "image/webp",
@@ -743,10 +324,13 @@
       "originalPath": "frames/personal/birthday/frame00009.webp",
       "encryptedFile": "frames/personal/birthday/frame00009.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00009.webp",
-      "size": 254384
+      "size": 254384,
+      "encryptedSize": 339554,
+      "width": 1072,
+      "height": 1920
     },
     {
-      "id": "frames-personal-birthday-frame00010-webp",
+      "id": "frames-personal-birthday-frame00010",
       "name": "frame00010",
       "type": "image",
       "mimeType": "image/webp",
@@ -754,10 +338,13 @@
       "originalPath": "frames/personal/birthday/frame00010.webp",
       "encryptedFile": "frames/personal/birthday/frame00010.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00010.webp",
-      "size": 101774
+      "size": 101774,
+      "encryptedSize": 136074,
+      "width": 1280,
+      "height": 1920
     },
     {
-      "id": "frames-personal-birthday-frame00011-webp",
+      "id": "frames-personal-birthday-frame00011",
       "name": "frame00011",
       "type": "image",
       "mimeType": "image/webp",
@@ -765,10 +352,13 @@
       "originalPath": "frames/personal/birthday/frame00011.webp",
       "encryptedFile": "frames/personal/birthday/frame00011.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00011.webp",
-      "size": 83762
+      "size": 83762,
+      "encryptedSize": 112057,
+      "width": 1080,
+      "height": 1620
     },
     {
-      "id": "frames-personal-birthday-frame00012-webp",
+      "id": "frames-personal-birthday-frame00012",
       "name": "frame00012",
       "type": "image",
       "mimeType": "image/webp",
@@ -776,10 +366,13 @@
       "originalPath": "frames/personal/birthday/frame00012.webp",
       "encryptedFile": "frames/personal/birthday/frame00012.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00012.webp",
-      "size": 135482
+      "size": 135482,
+      "encryptedSize": 181018,
+      "width": 1280,
+      "height": 1920
     },
     {
-      "id": "frames-personal-birthday-frame00014-webp",
+      "id": "frames-personal-birthday-frame00014",
       "name": "frame00014",
       "type": "image",
       "mimeType": "image/webp",
@@ -787,10 +380,13 @@
       "originalPath": "frames/personal/birthday/frame00014.webp",
       "encryptedFile": "frames/personal/birthday/frame00014.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00014.webp",
-      "size": 175328
+      "size": 175328,
+      "encryptedSize": 234146,
+      "width": 1280,
+      "height": 1920
     },
     {
-      "id": "frames-personal-birthday-frame00016-webp",
+      "id": "frames-personal-birthday-frame00016",
       "name": "frame00016",
       "type": "image",
       "mimeType": "image/webp",
@@ -798,10 +394,13 @@
       "originalPath": "frames/personal/birthday/frame00016.webp",
       "encryptedFile": "frames/personal/birthday/frame00016.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00016.webp",
-      "size": 102560
+      "size": 102560,
+      "encryptedSize": 137122,
+      "width": 1080,
+      "height": 1620
     },
     {
-      "id": "frames-personal-birthday-frame00017-webp",
+      "id": "frames-personal-birthday-frame00017",
       "name": "frame00017",
       "type": "image",
       "mimeType": "image/webp",
@@ -809,10 +408,13 @@
       "originalPath": "frames/personal/birthday/frame00017.webp",
       "encryptedFile": "frames/personal/birthday/frame00017.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00017.webp",
-      "size": 135130
+      "size": 135130,
+      "encryptedSize": 180549,
+      "width": 1280,
+      "height": 1920
     },
     {
-      "id": "frames-personal-birthday-frame00018-webp",
+      "id": "frames-personal-birthday-frame00018",
       "name": "frame00018",
       "type": "image",
       "mimeType": "image/webp",
@@ -820,10 +422,13 @@
       "originalPath": "frames/personal/birthday/frame00018.webp",
       "encryptedFile": "frames/personal/birthday/frame00018.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00018.webp",
-      "size": 125912
+      "size": 125912,
+      "encryptedSize": 168258,
+      "width": 1080,
+      "height": 1919
     },
     {
-      "id": "frames-personal-birthday-frame00019-webp",
+      "id": "frames-personal-birthday-frame00019",
       "name": "frame00019",
       "type": "image",
       "mimeType": "image/webp",
@@ -831,10 +436,13 @@
       "originalPath": "frames/personal/birthday/frame00019.webp",
       "encryptedFile": "frames/personal/birthday/frame00019.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00019.webp",
-      "size": 190714
+      "size": 190714,
+      "encryptedSize": 254661,
+      "width": 1080,
+      "height": 1919
     },
     {
-      "id": "frames-personal-birthday-frame00020-webp",
+      "id": "frames-personal-birthday-frame00020",
       "name": "frame00020",
       "type": "image",
       "mimeType": "image/webp",
@@ -842,10 +450,13 @@
       "originalPath": "frames/personal/birthday/frame00020.webp",
       "encryptedFile": "frames/personal/birthday/frame00020.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00020.webp",
-      "size": 129408
+      "size": 129408,
+      "encryptedSize": 172919,
+      "width": 1080,
+      "height": 1919
     },
     {
-      "id": "frames-personal-birthday-frame00021-webp",
+      "id": "frames-personal-birthday-frame00021",
       "name": "frame00021",
       "type": "image",
       "mimeType": "image/webp",
@@ -853,10 +464,13 @@
       "originalPath": "frames/personal/birthday/frame00021.webp",
       "encryptedFile": "frames/personal/birthday/frame00021.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00021.webp",
-      "size": 284938
+      "size": 284938,
+      "encryptedSize": 380293,
+      "width": 1080,
+      "height": 1919
     },
     {
-      "id": "frames-personal-birthday-frame00022-webp",
+      "id": "frames-personal-birthday-frame00022",
       "name": "frame00022",
       "type": "image",
       "mimeType": "image/webp",
@@ -864,10 +478,13 @@
       "originalPath": "frames/personal/birthday/frame00022.webp",
       "encryptedFile": "frames/personal/birthday/frame00022.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00022.webp",
-      "size": 99558
+      "size": 99558,
+      "encryptedSize": 133118,
+      "width": 1080,
+      "height": 1919
     },
     {
-      "id": "frames-personal-birthday-frame00023-webp",
+      "id": "frames-personal-birthday-frame00023",
       "name": "frame00023",
       "type": "image",
       "mimeType": "image/webp",
@@ -875,10 +492,13 @@
       "originalPath": "frames/personal/birthday/frame00023.webp",
       "encryptedFile": "frames/personal/birthday/frame00023.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00023.webp",
-      "size": 290376
+      "size": 290376,
+      "encryptedSize": 387543,
+      "width": 1080,
+      "height": 1919
     },
     {
-      "id": "frames-personal-birthday-frame00024-webp",
+      "id": "frames-personal-birthday-frame00024",
       "name": "frame00024",
       "type": "image",
       "mimeType": "image/webp",
@@ -886,10 +506,13 @@
       "originalPath": "frames/personal/birthday/frame00024.webp",
       "encryptedFile": "frames/personal/birthday/frame00024.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00024.webp",
-      "size": 274970
+      "size": 274970,
+      "encryptedSize": 367002,
+      "width": 1080,
+      "height": 1919
     },
     {
-      "id": "frames-personal-birthday-frame00025-webp",
+      "id": "frames-personal-birthday-frame00025",
       "name": "frame00025",
       "type": "image",
       "mimeType": "image/webp",
@@ -897,10 +520,13 @@
       "originalPath": "frames/personal/birthday/frame00025.webp",
       "encryptedFile": "frames/personal/birthday/frame00025.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00025.webp",
-      "size": 208454
+      "size": 208454,
+      "encryptedSize": 278314,
+      "width": 1080,
+      "height": 1919
     },
     {
-      "id": "frames-personal-birthday-frame00026-webp",
+      "id": "frames-personal-birthday-frame00026",
       "name": "frame00026",
       "type": "image",
       "mimeType": "image/webp",
@@ -908,10 +534,13 @@
       "originalPath": "frames/personal/birthday/frame00026.webp",
       "encryptedFile": "frames/personal/birthday/frame00026.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00026.webp",
-      "size": 187872
+      "size": 187872,
+      "encryptedSize": 250871,
+      "width": 1080,
+      "height": 1919
     },
     {
-      "id": "frames-personal-birthday-frame00027-webp",
+      "id": "frames-personal-birthday-frame00027",
       "name": "frame00027",
       "type": "image",
       "mimeType": "image/webp",
@@ -919,10 +548,13 @@
       "originalPath": "frames/personal/birthday/frame00027.webp",
       "encryptedFile": "frames/personal/birthday/frame00027.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00027.webp",
-      "size": 102600
+      "size": 102600,
+      "encryptedSize": 137175,
+      "width": 1080,
+      "height": 1919
     },
     {
-      "id": "frames-personal-birthday-frame00028-webp",
+      "id": "frames-personal-birthday-frame00028",
       "name": "frame00028",
       "type": "image",
       "mimeType": "image/webp",
@@ -930,10 +562,13 @@
       "originalPath": "frames/personal/birthday/frame00028.webp",
       "encryptedFile": "frames/personal/birthday/frame00028.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/birthday/frame00028.webp",
-      "size": 158804
+      "size": 158804,
+      "encryptedSize": 212114,
+      "width": 1081,
+      "height": 1920
     },
     {
-      "id": "frames-personal-family-frame00001-webp",
+      "id": "frames-personal-family-frame00001",
       "name": "frame00001",
       "type": "image",
       "mimeType": "image/webp",
@@ -941,21 +576,30 @@
       "originalPath": "frames/personal/family/frame00001.webp",
       "encryptedFile": "frames/personal/family/frame00001.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/family/frame00001.webp",
-      "size": 115082
+      "size": 115082,
+      "encryptedSize": 153816,
+      "width": 1081,
+      "height": 1920
     },
     {
-      "id": "frames-personal-festive-independence-day-1-json",
+      "id": "frames-personal-festive-independence-day-1",
       "name": "independence_day_1",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "independence_day_1.json",
       "originalPath": "frames/personal/festive/independence_day_1.json",
       "encryptedFile": "frames/personal/festive/independence_day_1.json.enc.json",
-      "thumbnail": null,
-      "size": 96749
+      "thumbnail": "thumbnails/frames/personal/festive/independence_day_1.webp",
+      "size": 96749,
+      "encryptedSize": 129394,
+      "width": 1080,
+      "height": 1920,
+      "frameRate": 100,
+      "inPoint": 0,
+      "outPoint": 350
     },
     {
-      "id": "frames-personal-festive-independence-day-1-webp",
+      "id": "frames-personal-festive-independence-day-1",
       "name": "independence_day_1",
       "type": "image",
       "mimeType": "image/webp",
@@ -963,483 +607,85 @@
       "originalPath": "frames/personal/festive/independence_day_1.webp",
       "encryptedFile": "frames/personal/festive/independence_day_1.webp.enc.json",
       "thumbnail": "thumbnails/frames/personal/festive/independence_day_1.webp",
-      "size": 16910
+      "size": 16910,
+      "encryptedSize": 22936,
+      "width": 360,
+      "height": 640
     },
     {
-      "id": "frames-personal-graduation-frame00001-webp",
-      "name": "frame00001",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00001.webp",
-      "originalPath": "frames/personal/graduation/frame00001.webp",
-      "encryptedFile": "frames/personal/graduation/frame00001.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/graduation/frame00001.webp",
-      "size": 128328
+      "id": "frames-personal-graduation",
+      "name": ".DS_Store",
+      "type": "file",
+      "mimeType": "application/octet-stream",
+      "originalFileName": ".DS_Store",
+      "originalPath": "frames/personal/graduation/.DS_Store",
+      "encryptedFile": "frames/personal/graduation/.DS_Store.enc.json",
+      "thumbnail": null,
+      "size": 6148,
+      "encryptedSize": 8575
     },
     {
-      "id": "frames-personal-graduation-frame00002-webp",
-      "name": "frame00002",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00002.webp",
-      "originalPath": "frames/personal/graduation/frame00002.webp",
-      "encryptedFile": "frames/personal/graduation/frame00002.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/graduation/frame00002.webp",
-      "size": 115930
+      "id": "frames-personal-makar-sankranti",
+      "name": ".DS_Store",
+      "type": "file",
+      "mimeType": "application/octet-stream",
+      "originalFileName": ".DS_Store",
+      "originalPath": "frames/personal/makar_sankranti/.DS_Store",
+      "encryptedFile": "frames/personal/makar_sankranti/.DS_Store.enc.json",
+      "thumbnail": null,
+      "size": 6148,
+      "encryptedSize": 8580
     },
     {
-      "id": "frames-personal-graduation-frame00003-webp",
-      "name": "frame00003",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00003.webp",
-      "originalPath": "frames/personal/graduation/frame00003.webp",
-      "encryptedFile": "frames/personal/graduation/frame00003.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/graduation/frame00003.webp",
-      "size": 60458
+      "id": "frames-personal-newborn",
+      "name": ".DS_Store",
+      "type": "file",
+      "mimeType": "application/octet-stream",
+      "originalFileName": ".DS_Store",
+      "originalPath": "frames/personal/newborn/.DS_Store",
+      "encryptedFile": "frames/personal/newborn/.DS_Store.enc.json",
+      "thumbnail": null,
+      "size": 6148,
+      "encryptedSize": 8572
     },
     {
-      "id": "frames-personal-graduation-frame00004-webp",
-      "name": "frame00004",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00004.webp",
-      "originalPath": "frames/personal/graduation/frame00004.webp",
-      "encryptedFile": "frames/personal/graduation/frame00004.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/graduation/frame00004.webp",
-      "size": 173396
+      "id": "frames-personal-travel",
+      "name": ".DS_Store",
+      "type": "file",
+      "mimeType": "application/octet-stream",
+      "originalFileName": ".DS_Store",
+      "originalPath": "frames/personal/travel/.DS_Store",
+      "encryptedFile": "frames/personal/travel/.DS_Store.enc.json",
+      "thumbnail": null,
+      "size": 6148,
+      "encryptedSize": 8571
     },
     {
-      "id": "frames-personal-graduation-frame00005-webp",
-      "name": "frame00005",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00005.webp",
-      "originalPath": "frames/personal/graduation/frame00005.webp",
-      "encryptedFile": "frames/personal/graduation/frame00005.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/graduation/frame00005.webp",
-      "size": 128470
+      "id": "frames-personal-vatpornima",
+      "name": ".DS_Store",
+      "type": "file",
+      "mimeType": "application/octet-stream",
+      "originalFileName": ".DS_Store",
+      "originalPath": "frames/personal/vatpornima/.DS_Store",
+      "encryptedFile": "frames/personal/vatpornima/.DS_Store.enc.json",
+      "thumbnail": null,
+      "size": 6148,
+      "encryptedSize": 8575
     },
     {
-      "id": "frames-personal-graduation-frame00006-webp",
-      "name": "frame00006",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00006.webp",
-      "originalPath": "frames/personal/graduation/frame00006.webp",
-      "encryptedFile": "frames/personal/graduation/frame00006.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/graduation/frame00006.webp",
-      "size": 184470
+      "id": "frames-personal-wedding",
+      "name": ".DS_Store",
+      "type": "file",
+      "mimeType": "application/octet-stream",
+      "originalFileName": ".DS_Store",
+      "originalPath": "frames/personal/wedding/.DS_Store",
+      "encryptedFile": "frames/personal/wedding/.DS_Store.enc.json",
+      "thumbnail": null,
+      "size": 6148,
+      "encryptedSize": 8572
     },
     {
-      "id": "frames-personal-graduation-frame00007-webp",
-      "name": "frame00007",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00007.webp",
-      "originalPath": "frames/personal/graduation/frame00007.webp",
-      "encryptedFile": "frames/personal/graduation/frame00007.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/graduation/frame00007.webp",
-      "size": 164104
-    },
-    {
-      "id": "frames-personal-graduation-frame00008-webp",
-      "name": "frame00008",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00008.webp",
-      "originalPath": "frames/personal/graduation/frame00008.webp",
-      "encryptedFile": "frames/personal/graduation/frame00008.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/graduation/frame00008.webp",
-      "size": 185198
-    },
-    {
-      "id": "frames-personal-graduation-frame00009-webp",
-      "name": "frame00009",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00009.webp",
-      "originalPath": "frames/personal/graduation/frame00009.webp",
-      "encryptedFile": "frames/personal/graduation/frame00009.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/graduation/frame00009.webp",
-      "size": 182124
-    },
-    {
-      "id": "frames-personal-graduation-frame00010-webp",
-      "name": "frame00010",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00010.webp",
-      "originalPath": "frames/personal/graduation/frame00010.webp",
-      "encryptedFile": "frames/personal/graduation/frame00010.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/graduation/frame00010.webp",
-      "size": 190306
-    },
-    {
-      "id": "frames-personal-graduation-frame00011-webp",
-      "name": "frame00011",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00011.webp",
-      "originalPath": "frames/personal/graduation/frame00011.webp",
-      "encryptedFile": "frames/personal/graduation/frame00011.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/graduation/frame00011.webp",
-      "size": 82476
-    },
-    {
-      "id": "frames-personal-makar-sankranti-frame00001-webp",
-      "name": "frame00001",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00001.webp",
-      "originalPath": "frames/personal/makar_sankranti/frame00001.webp",
-      "encryptedFile": "frames/personal/makar_sankranti/frame00001.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/makar_sankranti/frame00001.webp",
-      "size": 185140
-    },
-    {
-      "id": "frames-personal-makar-sankranti-frame00002-webp",
-      "name": "frame00002",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00002.webp",
-      "originalPath": "frames/personal/makar_sankranti/frame00002.webp",
-      "encryptedFile": "frames/personal/makar_sankranti/frame00002.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/makar_sankranti/frame00002.webp",
-      "size": 192300
-    },
-    {
-      "id": "frames-personal-makar-sankranti-frame00003-webp",
-      "name": "frame00003",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00003.webp",
-      "originalPath": "frames/personal/makar_sankranti/frame00003.webp",
-      "encryptedFile": "frames/personal/makar_sankranti/frame00003.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/makar_sankranti/frame00003.webp",
-      "size": 96206
-    },
-    {
-      "id": "frames-personal-makar-sankranti-frame00004-webp",
-      "name": "frame00004",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00004.webp",
-      "originalPath": "frames/personal/makar_sankranti/frame00004.webp",
-      "encryptedFile": "frames/personal/makar_sankranti/frame00004.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/makar_sankranti/frame00004.webp",
-      "size": 169910
-    },
-    {
-      "id": "frames-personal-makar-sankranti-frame00005-webp",
-      "name": "frame00005",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00005.webp",
-      "originalPath": "frames/personal/makar_sankranti/frame00005.webp",
-      "encryptedFile": "frames/personal/makar_sankranti/frame00005.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/makar_sankranti/frame00005.webp",
-      "size": 203748
-    },
-    {
-      "id": "frames-personal-makar-sankranti-frame00006-webp",
-      "name": "frame00006",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00006.webp",
-      "originalPath": "frames/personal/makar_sankranti/frame00006.webp",
-      "encryptedFile": "frames/personal/makar_sankranti/frame00006.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/makar_sankranti/frame00006.webp",
-      "size": 281448
-    },
-    {
-      "id": "frames-personal-makar-sankranti-frame00007-webp",
-      "name": "frame00007",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00007.webp",
-      "originalPath": "frames/personal/makar_sankranti/frame00007.webp",
-      "encryptedFile": "frames/personal/makar_sankranti/frame00007.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/makar_sankranti/frame00007.webp",
-      "size": 132362
-    },
-    {
-      "id": "frames-personal-makar-sankranti-frame00008-webp",
-      "name": "frame00008",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00008.webp",
-      "originalPath": "frames/personal/makar_sankranti/frame00008.webp",
-      "encryptedFile": "frames/personal/makar_sankranti/frame00008.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/makar_sankranti/frame00008.webp",
-      "size": 207992
-    },
-    {
-      "id": "frames-personal-makar-sankranti-frame00009-webp",
-      "name": "frame00009",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00009.webp",
-      "originalPath": "frames/personal/makar_sankranti/frame00009.webp",
-      "encryptedFile": "frames/personal/makar_sankranti/frame00009.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/makar_sankranti/frame00009.webp",
-      "size": 60376
-    },
-    {
-      "id": "frames-personal-makar-sankranti-frame00010-webp",
-      "name": "frame00010",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00010.webp",
-      "originalPath": "frames/personal/makar_sankranti/frame00010.webp",
-      "encryptedFile": "frames/personal/makar_sankranti/frame00010.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/makar_sankranti/frame00010.webp",
-      "size": 150876
-    },
-    {
-      "id": "frames-personal-newborn-frame00001-webp",
-      "name": "frame00001",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00001.webp",
-      "originalPath": "frames/personal/newborn/frame00001.webp",
-      "encryptedFile": "frames/personal/newborn/frame00001.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/newborn/frame00001.webp",
-      "size": 89578
-    },
-    {
-      "id": "frames-personal-travel-frame00001-webp",
-      "name": "frame00001",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00001.webp",
-      "originalPath": "frames/personal/travel/frame00001.webp",
-      "encryptedFile": "frames/personal/travel/frame00001.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/travel/frame00001.webp",
-      "size": 139238
-    },
-    {
-      "id": "frames-personal-vatpornima-frame00001-webp",
-      "name": "frame00001",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00001.webp",
-      "originalPath": "frames/personal/vatpornima/frame00001.webp",
-      "encryptedFile": "frames/personal/vatpornima/frame00001.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/vatpornima/frame00001.webp",
-      "size": 286856
-    },
-    {
-      "id": "frames-personal-vatpornima-frame00002-webp",
-      "name": "frame00002",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00002.webp",
-      "originalPath": "frames/personal/vatpornima/frame00002.webp",
-      "encryptedFile": "frames/personal/vatpornima/frame00002.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/vatpornima/frame00002.webp",
-      "size": 230394
-    },
-    {
-      "id": "frames-personal-vatpornima-frame00003-webp",
-      "name": "frame00003",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00003.webp",
-      "originalPath": "frames/personal/vatpornima/frame00003.webp",
-      "encryptedFile": "frames/personal/vatpornima/frame00003.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/vatpornima/frame00003.webp",
-      "size": 209050
-    },
-    {
-      "id": "frames-personal-vatpornima-frame00004-webp",
-      "name": "frame00004",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00004.webp",
-      "originalPath": "frames/personal/vatpornima/frame00004.webp",
-      "encryptedFile": "frames/personal/vatpornima/frame00004.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/vatpornima/frame00004.webp",
-      "size": 133280
-    },
-    {
-      "id": "frames-personal-vatpornima-frame00005-webp",
-      "name": "frame00005",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00005.webp",
-      "originalPath": "frames/personal/vatpornima/frame00005.webp",
-      "encryptedFile": "frames/personal/vatpornima/frame00005.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/vatpornima/frame00005.webp",
-      "size": 352826
-    },
-    {
-      "id": "frames-personal-vatpornima-frame00006-webp",
-      "name": "frame00006",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00006.webp",
-      "originalPath": "frames/personal/vatpornima/frame00006.webp",
-      "encryptedFile": "frames/personal/vatpornima/frame00006.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/vatpornima/frame00006.webp",
-      "size": 235058
-    },
-    {
-      "id": "frames-personal-vatpornima-frame00007-webp",
-      "name": "frame00007",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00007.webp",
-      "originalPath": "frames/personal/vatpornima/frame00007.webp",
-      "encryptedFile": "frames/personal/vatpornima/frame00007.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/vatpornima/frame00007.webp",
-      "size": 314020
-    },
-    {
-      "id": "frames-personal-vatpornima-frame00008-webp",
-      "name": "frame00008",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00008.webp",
-      "originalPath": "frames/personal/vatpornima/frame00008.webp",
-      "encryptedFile": "frames/personal/vatpornima/frame00008.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/vatpornima/frame00008.webp",
-      "size": 274854
-    },
-    {
-      "id": "frames-personal-vatpornima-frame00009-webp",
-      "name": "frame00009",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00009.webp",
-      "originalPath": "frames/personal/vatpornima/frame00009.webp",
-      "encryptedFile": "frames/personal/vatpornima/frame00009.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/vatpornima/frame00009.webp",
-      "size": 179290
-    },
-    {
-      "id": "frames-personal-vatpornima-frame00010-webp",
-      "name": "frame00010",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00010.webp",
-      "originalPath": "frames/personal/vatpornima/frame00010.webp",
-      "encryptedFile": "frames/personal/vatpornima/frame00010.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/vatpornima/frame00010.webp",
-      "size": 284210
-    },
-    {
-      "id": "frames-personal-vatpornima-frame00011-webp",
-      "name": "frame00011",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00011.webp",
-      "originalPath": "frames/personal/vatpornima/frame00011.webp",
-      "encryptedFile": "frames/personal/vatpornima/frame00011.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/vatpornima/frame00011.webp",
-      "size": 247772
-    },
-    {
-      "id": "frames-personal-vatpornima-frame00012-webp",
-      "name": "frame00012",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00012.webp",
-      "originalPath": "frames/personal/vatpornima/frame00012.webp",
-      "encryptedFile": "frames/personal/vatpornima/frame00012.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/vatpornima/frame00012.webp",
-      "size": 267716
-    },
-    {
-      "id": "frames-personal-vatpornima-frame00013-webp",
-      "name": "frame00013",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00013.webp",
-      "originalPath": "frames/personal/vatpornima/frame00013.webp",
-      "encryptedFile": "frames/personal/vatpornima/frame00013.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/vatpornima/frame00013.webp",
-      "size": 330188
-    },
-    {
-      "id": "frames-personal-vatpornima-frame00014-webp",
-      "name": "frame00014",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00014.webp",
-      "originalPath": "frames/personal/vatpornima/frame00014.webp",
-      "encryptedFile": "frames/personal/vatpornima/frame00014.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/vatpornima/frame00014.webp",
-      "size": 271042
-    },
-    {
-      "id": "frames-personal-vatpornima-frame00015-webp",
-      "name": "frame00015",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00015.webp",
-      "originalPath": "frames/personal/vatpornima/frame00015.webp",
-      "encryptedFile": "frames/personal/vatpornima/frame00015.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/vatpornima/frame00015.webp",
-      "size": 329562
-    },
-    {
-      "id": "frames-personal-vatpornima-frame00016-webp",
-      "name": "frame00016",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00016.webp",
-      "originalPath": "frames/personal/vatpornima/frame00016.webp",
-      "encryptedFile": "frames/personal/vatpornima/frame00016.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/vatpornima/frame00016.webp",
-      "size": 274894
-    },
-    {
-      "id": "frames-personal-vatpornima-frame00017-webp",
-      "name": "frame00017",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00017.webp",
-      "originalPath": "frames/personal/vatpornima/frame00017.webp",
-      "encryptedFile": "frames/personal/vatpornima/frame00017.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/vatpornima/frame00017.webp",
-      "size": 252836
-    },
-    {
-      "id": "frames-personal-vatpornima-frame00018-webp",
-      "name": "frame00018",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00018.webp",
-      "originalPath": "frames/personal/vatpornima/frame00018.webp",
-      "encryptedFile": "frames/personal/vatpornima/frame00018.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/vatpornima/frame00018.webp",
-      "size": 284660
-    },
-    {
-      "id": "frames-personal-vatpornima-frame00019-webp",
-      "name": "frame00019",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00019.webp",
-      "originalPath": "frames/personal/vatpornima/frame00019.webp",
-      "encryptedFile": "frames/personal/vatpornima/frame00019.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/vatpornima/frame00019.webp",
-      "size": 284660
-    },
-    {
-      "id": "frames-personal-wedding-frame00001-webp",
-      "name": "frame00001",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00001.webp",
-      "originalPath": "frames/personal/wedding/frame00001.webp",
-      "encryptedFile": "frames/personal/wedding/frame00001.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/wedding/frame00001.webp",
-      "size": 137208
-    },
-    {
-      "id": "lottie-DS-Store",
+      "id": "lottie",
       "name": ".DS_Store",
       "type": "file",
       "mimeType": "application/octet-stream",
@@ -1447,307 +693,470 @@
       "originalPath": "lottie/.DS_Store",
       "encryptedFile": "lottie/.DS_Store.enc.json",
       "thumbnail": null,
-      "size": 6148
+      "size": 6148,
+      "encryptedSize": 8555
     },
     {
-      "id": "lottie-animated-tiger-json",
+      "id": "lottie-animated-tiger",
       "name": "animated-tiger",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "animated-tiger.json",
       "originalPath": "lottie/animated-tiger.json",
       "encryptedFile": "lottie/animated-tiger.json.enc.json",
-      "thumbnail": null,
-      "size": 5674572
+      "thumbnail": "thumbnails/lottie/animated-tiger.webp",
+      "size": 5674572,
+      "encryptedSize": 7566468,
+      "width": 512,
+      "height": 288,
+      "frameRate": 12,
+      "inPoint": 0,
+      "outPoint": 63
     },
     {
-      "id": "lottie-bat-json",
+      "id": "lottie-bat",
       "name": "bat",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "bat.json",
       "originalPath": "lottie/bat.json",
       "encryptedFile": "lottie/bat.json.enc.json",
-      "thumbnail": null,
-      "size": 33394
+      "thumbnail": "thumbnails/lottie/bat.webp",
+      "size": 33394,
+      "encryptedSize": 44874,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 60
     },
     {
-      "id": "lottie-bee-json",
+      "id": "lottie-bee",
       "name": "bee",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "bee.json",
       "originalPath": "lottie/bee.json",
       "encryptedFile": "lottie/bee.json.enc.json",
-      "thumbnail": null,
-      "size": 482250
+      "thumbnail": "thumbnails/lottie/bee.webp",
+      "size": 482250,
+      "encryptedSize": 643349,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 330
     },
     {
-      "id": "lottie-bird-json",
+      "id": "lottie-bird",
       "name": "bird",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "bird.json",
       "originalPath": "lottie/bird.json",
       "encryptedFile": "lottie/bird.json.enc.json",
-      "thumbnail": null,
-      "size": 141824
+      "thumbnail": "thumbnails/lottie/bird.webp",
+      "size": 141824,
+      "encryptedSize": 189450,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 202
     },
     {
-      "id": "lottie-blowfish-json",
+      "id": "lottie-blowfish",
       "name": "blowfish",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "blowfish.json",
       "originalPath": "lottie/blowfish.json",
       "encryptedFile": "lottie/blowfish.json.enc.json",
-      "thumbnail": null,
-      "size": 124208
+      "thumbnail": "thumbnails/lottie/blowfish.webp",
+      "size": 124208,
+      "encryptedSize": 165970,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 168
     },
     {
-      "id": "lottie-chipmunk-json",
+      "id": "lottie-chipmunk",
       "name": "chipmunk",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "chipmunk.json",
       "originalPath": "lottie/chipmunk.json",
       "encryptedFile": "lottie/chipmunk.json.enc.json",
-      "thumbnail": null,
-      "size": 144799
+      "thumbnail": "thumbnails/lottie/chipmunk.webp",
+      "size": 144799,
+      "encryptedSize": 193425,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 184
     },
     {
-      "id": "lottie-cockroach-json",
+      "id": "lottie-cockroach",
       "name": "cockroach",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "cockroach.json",
       "originalPath": "lottie/cockroach.json",
       "encryptedFile": "lottie/cockroach.json.enc.json",
-      "thumbnail": null,
-      "size": 82405
+      "thumbnail": "thumbnails/lottie/cockroach.webp",
+      "size": 82405,
+      "encryptedSize": 110234,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 132
     },
     {
-      "id": "lottie-crab-json",
+      "id": "lottie-crab",
       "name": "crab",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "crab.json",
       "originalPath": "lottie/crab.json",
       "encryptedFile": "lottie/crab.json.enc.json",
-      "thumbnail": null,
-      "size": 160764
+      "thumbnail": "thumbnails/lottie/crab.webp",
+      "size": 160764,
+      "encryptedSize": 214703,
+      "width": 512,
+      "height": 512,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 138
     },
     {
-      "id": "lottie-cute-cat-json",
+      "id": "lottie-cute-cat",
       "name": "cute-cat",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "cute-cat.json",
       "originalPath": "lottie/cute-cat.json",
       "encryptedFile": "lottie/cute-cat.json.enc.json",
-      "thumbnail": null,
-      "size": 83465
+      "thumbnail": "thumbnails/lottie/cute-cat.webp",
+      "size": 83465,
+      "encryptedSize": 111645,
+      "width": 800,
+      "height": 800,
+      "frameRate": 25,
+      "inPoint": 0,
+      "outPoint": 127
     },
     {
-      "id": "lottie-dinosaur-json",
+      "id": "lottie-dinosaur",
       "name": "dinosaur",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "dinosaur.json",
       "originalPath": "lottie/dinosaur.json",
       "encryptedFile": "lottie/dinosaur.json.enc.json",
-      "thumbnail": null,
-      "size": 238651
+      "thumbnail": "thumbnails/lottie/dinosaur.webp",
+      "size": 238651,
+      "encryptedSize": 318561,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 202
     },
     {
-      "id": "lottie-dog-json",
+      "id": "lottie-dog",
       "name": "dog",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "dog.json",
       "originalPath": "lottie/dog.json",
       "encryptedFile": "lottie/dog.json.enc.json",
-      "thumbnail": null,
-      "size": 98235
+      "thumbnail": "thumbnails/lottie/dog.webp",
+      "size": 98235,
+      "encryptedSize": 131328,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 146
     },
     {
-      "id": "lottie-dolphin-json",
+      "id": "lottie-dolphin",
       "name": "dolphin",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "dolphin.json",
       "originalPath": "lottie/dolphin.json",
       "encryptedFile": "lottie/dolphin.json.enc.json",
-      "thumbnail": null,
-      "size": 81544
+      "thumbnail": "thumbnails/lottie/dolphin.webp",
+      "size": 81544,
+      "encryptedSize": 109082,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 110
     },
     {
-      "id": "lottie-dragon-json",
+      "id": "lottie-dragon",
       "name": "dragon",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "dragon.json",
       "originalPath": "lottie/dragon.json",
       "encryptedFile": "lottie/dragon.json.enc.json",
-      "thumbnail": null,
-      "size": 258884
+      "thumbnail": "thumbnails/lottie/dragon.webp",
+      "size": 258884,
+      "encryptedSize": 345534,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 120
     },
     {
-      "id": "lottie-fire-json",
+      "id": "lottie-fire",
       "name": "fire",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "fire.json",
       "originalPath": "lottie/fire.json",
       "encryptedFile": "lottie/fire.json.enc.json",
-      "thumbnail": null,
-      "size": 29358
+      "thumbnail": "thumbnails/lottie/fire.webp",
+      "size": 29358,
+      "encryptedSize": 39494,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 65
     },
     {
-      "id": "lottie-globe-showing-americas-json",
+      "id": "lottie-globe-showing-americas",
       "name": "globe-showing-americas",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "globe-showing-americas.json",
       "originalPath": "lottie/globe-showing-americas.json",
       "encryptedFile": "lottie/globe-showing-americas.json.enc.json",
-      "thumbnail": null,
-      "size": 192486
+      "thumbnail": "thumbnails/lottie/globe-showing-americas.webp",
+      "size": 192486,
+      "encryptedSize": 257035,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 162
     },
     {
-      "id": "lottie-jellyfish-json",
+      "id": "lottie-jellyfish",
       "name": "jellyfish",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "jellyfish.json",
       "originalPath": "lottie/jellyfish.json",
       "encryptedFile": "lottie/jellyfish.json.enc.json",
-      "thumbnail": null,
-      "size": 97671
+      "thumbnail": "thumbnails/lottie/jellyfish.webp",
+      "size": 97671,
+      "encryptedSize": 130588,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 152
     },
     {
-      "id": "lottie-lady-bug-json",
+      "id": "lottie-lady-bug",
       "name": "lady-bug",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "lady-bug.json",
       "originalPath": "lottie/lady-bug.json",
       "encryptedFile": "lottie/lady-bug.json.enc.json",
-      "thumbnail": null,
-      "size": 158159
+      "thumbnail": "thumbnails/lottie/lady-bug.webp",
+      "size": 158159,
+      "encryptedSize": 211238,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 354
     },
     {
-      "id": "lottie-lizard-json",
+      "id": "lottie-lizard",
       "name": "lizard",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "lizard.json",
       "originalPath": "lottie/lizard.json",
       "encryptedFile": "lottie/lizard.json.enc.json",
-      "thumbnail": null,
-      "size": 104721
+      "thumbnail": "thumbnails/lottie/lizard.webp",
+      "size": 104721,
+      "encryptedSize": 139983,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 102
     },
     {
-      "id": "lottie-lobster-json",
+      "id": "lottie-lobster",
       "name": "lobster",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "lobster.json",
       "originalPath": "lottie/lobster.json",
       "encryptedFile": "lottie/lobster.json.enc.json",
-      "thumbnail": null,
-      "size": 116289
+      "thumbnail": "thumbnails/lottie/lobster.webp",
+      "size": 116289,
+      "encryptedSize": 155409,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 110
     },
     {
-      "id": "lottie-rabbit-json",
+      "id": "lottie-rabbit",
       "name": "rabbit",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "rabbit.json",
       "originalPath": "lottie/rabbit.json",
       "encryptedFile": "lottie/rabbit.json.enc.json",
-      "thumbnail": null,
-      "size": 81000
+      "thumbnail": "thumbnails/lottie/rabbit.webp",
+      "size": 81000,
+      "encryptedSize": 108354,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 80
     },
     {
-      "id": "lottie-rat-json",
+      "id": "lottie-rat",
       "name": "rat",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "rat.json",
       "originalPath": "lottie/rat.json",
       "encryptedFile": "lottie/rat.json.enc.json",
-      "thumbnail": null,
-      "size": 124290
+      "thumbnail": "thumbnails/lottie/rat.webp",
+      "size": 124290,
+      "encryptedSize": 166069,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 158
     },
     {
-      "id": "lottie-rocket-moving-json",
+      "id": "lottie-rocket-moving",
       "name": "rocket-moving",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "rocket-moving.json",
       "originalPath": "lottie/rocket-moving.json",
       "encryptedFile": "lottie/rocket-moving.json.enc.json",
-      "thumbnail": null,
-      "size": 126679
+      "thumbnail": "thumbnails/lottie/rocket-moving.webp",
+      "size": 126679,
+      "encryptedSize": 169275,
+      "width": 1080,
+      "height": 1920,
+      "frameRate": 100,
+      "inPoint": 0,
+      "outPoint": 1021
     },
     {
-      "id": "lottie-rocket-json",
+      "id": "lottie-rocket",
       "name": "rocket",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "rocket.json",
       "originalPath": "lottie/rocket.json",
       "encryptedFile": "lottie/rocket.json.enc.json",
-      "thumbnail": null,
-      "size": 81575
+      "thumbnail": "thumbnails/lottie/rocket.webp",
+      "size": 81575,
+      "encryptedSize": 109121,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 40
     },
     {
-      "id": "lottie-rooster-json",
+      "id": "lottie-rooster",
       "name": "rooster",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "rooster.json",
       "originalPath": "lottie/rooster.json",
       "encryptedFile": "lottie/rooster.json.enc.json",
-      "thumbnail": null,
-      "size": 88968
+      "thumbnail": "thumbnails/lottie/rooster.webp",
+      "size": 88968,
+      "encryptedSize": 118980,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 171
     },
     {
-      "id": "lottie-shark-json",
+      "id": "lottie-shark",
       "name": "shark",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "shark.json",
       "originalPath": "lottie/shark.json",
       "encryptedFile": "lottie/shark.json.enc.json",
-      "thumbnail": null,
-      "size": 118243
+      "thumbnail": "thumbnails/lottie/shark.webp",
+      "size": 118243,
+      "encryptedSize": 158011,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 30,
+      "inPoint": 0,
+      "outPoint": 96
     },
     {
-      "id": "lottie-trophy-json",
+      "id": "lottie-trophy",
       "name": "trophy",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "trophy.json",
       "originalPath": "lottie/trophy.json",
       "encryptedFile": "lottie/trophy.json.enc.json",
-      "thumbnail": null,
-      "size": 79233
+      "thumbnail": "thumbnails/lottie/trophy.webp",
+      "size": 79233,
+      "encryptedSize": 105998,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 136
     },
     {
-      "id": "lottie-turtle-json",
+      "id": "lottie-turtle",
       "name": "turtle",
       "type": "lottie",
       "mimeType": "application/json",
       "originalFileName": "turtle.json",
       "originalPath": "lottie/turtle.json",
       "encryptedFile": "lottie/turtle.json.enc.json",
-      "thumbnail": null,
-      "size": 55887
+      "thumbnail": "thumbnails/lottie/turtle.webp",
+      "size": 55887,
+      "encryptedSize": 74870,
+      "width": 1024,
+      "height": 1024,
+      "frameRate": 60,
+      "inPoint": 0,
+      "outPoint": 204
     },
     {
-      "id": "masks-arch-mask-png",
+      "id": "masks-arch-mask",
       "name": "arch-mask",
       "type": "image",
       "mimeType": "image/png",
@@ -1755,10 +1164,13 @@
       "originalPath": "masks/arch-mask.png",
       "encryptedFile": "masks/arch-mask.png.enc.json",
       "thumbnail": "thumbnails/masks/arch-mask.webp",
-      "size": 67637
+      "size": 67637,
+      "encryptedSize": 90533,
+      "width": 1254,
+      "height": 1254
     },
     {
-      "id": "masks-circle-frame-mask-png",
+      "id": "masks-circle-frame-mask",
       "name": "circle-frame-mask",
       "type": "image",
       "mimeType": "image/png",
@@ -1766,10 +1178,13 @@
       "originalPath": "masks/circle-frame-mask.png",
       "encryptedFile": "masks/circle-frame-mask.png.enc.json",
       "thumbnail": "thumbnails/masks/circle-frame-mask.webp",
-      "size": 464245
+      "size": 464245,
+      "encryptedSize": 619361,
+      "width": 1254,
+      "height": 1254
     },
     {
-      "id": "masks-circle-mask-png",
+      "id": "masks-circle-mask",
       "name": "circle-mask",
       "type": "image",
       "mimeType": "image/png",
@@ -1777,10 +1192,13 @@
       "originalPath": "masks/circle-mask.png",
       "encryptedFile": "masks/circle-mask.png.enc.json",
       "thumbnail": "thumbnails/masks/circle-mask.webp",
-      "size": 464245
+      "size": 464245,
+      "encryptedSize": 619349,
+      "width": 1254,
+      "height": 1254
     },
     {
-      "id": "masks-cloud-mask-png",
+      "id": "masks-cloud-mask",
       "name": "cloud-mask",
       "type": "image",
       "mimeType": "image/png",
@@ -1788,10 +1206,13 @@
       "originalPath": "masks/cloud-mask.png",
       "encryptedFile": "masks/cloud-mask.png.enc.json",
       "thumbnail": "thumbnails/masks/cloud-mask.webp",
-      "size": 731919
+      "size": 731919,
+      "encryptedSize": 976245,
+      "width": 1254,
+      "height": 1254
     },
     {
-      "id": "masks-diamond-mask-png",
+      "id": "masks-diamond-mask",
       "name": "diamond-mask",
       "type": "image",
       "mimeType": "image/png",
@@ -1799,10 +1220,13 @@
       "originalPath": "masks/diamond-mask.png",
       "encryptedFile": "masks/diamond-mask.png.enc.json",
       "thumbnail": "thumbnails/masks/diamond-mask.webp",
-      "size": 467779
+      "size": 467779,
+      "encryptedSize": 624063,
+      "width": 1254,
+      "height": 1254
     },
     {
-      "id": "masks-flower-mask-png",
+      "id": "masks-flower-mask",
       "name": "flower-mask",
       "type": "image",
       "mimeType": "image/png",
@@ -1810,10 +1234,13 @@
       "originalPath": "masks/flower-mask.png",
       "encryptedFile": "masks/flower-mask.png.enc.json",
       "thumbnail": "thumbnails/masks/flower-mask.webp",
-      "size": 549184
+      "size": 549184,
+      "encryptedSize": 732601,
+      "width": 1254,
+      "height": 1254
     },
     {
-      "id": "masks-heart-mask-png",
+      "id": "masks-heart-mask",
       "name": "heart-mask",
       "type": "image",
       "mimeType": "image/png",
@@ -1821,10 +1248,13 @@
       "originalPath": "masks/heart-mask.png",
       "encryptedFile": "masks/heart-mask.png.enc.json",
       "thumbnail": "thumbnails/masks/heart-mask.webp",
-      "size": 738434
+      "size": 738434,
+      "encryptedSize": 984932,
+      "width": 1254,
+      "height": 1254
     },
     {
-      "id": "masks-rectangle-mask-png",
+      "id": "masks-rectangle-mask",
       "name": "rectangle-mask",
       "type": "image",
       "mimeType": "image/png",
@@ -1832,10 +1262,13 @@
       "originalPath": "masks/rectangle-mask.png",
       "encryptedFile": "masks/rectangle-mask.png.enc.json",
       "thumbnail": "thumbnails/masks/rectangle-mask.webp",
-      "size": 409972
+      "size": 409972,
+      "encryptedSize": 546991,
+      "width": 1254,
+      "height": 1254
     },
     {
-      "id": "masks-square-mask-png",
+      "id": "masks-square-mask",
       "name": "square-mask",
       "type": "image",
       "mimeType": "image/png",
@@ -1843,10 +1276,13 @@
       "originalPath": "masks/square-mask.png",
       "encryptedFile": "masks/square-mask.png.enc.json",
       "thumbnail": "thumbnails/masks/square-mask.webp",
-      "size": 382129
+      "size": 382129,
+      "encryptedSize": 509861,
+      "width": 1254,
+      "height": 1254
     },
     {
-      "id": "masks-star-mask-png",
+      "id": "masks-star-mask",
       "name": "star-mask",
       "type": "image",
       "mimeType": "image/png",
@@ -1854,10 +1290,13 @@
       "originalPath": "masks/star-mask.png",
       "encryptedFile": "masks/star-mask.png.enc.json",
       "thumbnail": "thumbnails/masks/star-mask.webp",
-      "size": 476120
+      "size": 476120,
+      "encryptedSize": 635178,
+      "width": 1254,
+      "height": 1254
     },
     {
-      "id": "music-DS-Store",
+      "id": "music",
       "name": ".DS_Store",
       "type": "file",
       "mimeType": "application/octet-stream",
@@ -1865,10 +1304,11 @@
       "originalPath": "music/.DS_Store",
       "encryptedFile": "music/.DS_Store.enc.json",
       "thumbnail": null,
-      "size": 10244
+      "size": 10244,
+      "encryptedSize": 14016
     },
     {
-      "id": "music-01-Monk-Turner-Fascinoma-Its-Your-Birthday-chosic-com-mp3",
+      "id": "music-01-monk-turner-fascinoma-its-your-birthday-chosic-com",
       "name": "01-Monk-Turner-Fascinoma-Its-Your-Birthday(chosic.com)",
       "type": "audio",
       "mimeType": "audio/mpeg",
@@ -1876,10 +1316,11 @@
       "originalPath": "music/01-Monk-Turner-Fascinoma-Its-Your-Birthday(chosic.com).mp3",
       "encryptedFile": "music/01-Monk-Turner-Fascinoma-Its-Your-Birthday(chosic.com).mp3.enc.json",
       "thumbnail": null,
-      "size": 1156598
+      "size": 1156598,
+      "encryptedSize": 1542574
     },
     {
-      "id": "music-124-Mark-Humble-Free-Happy-Birthday-chosic-com-mp3",
+      "id": "music-124-mark-humble-free-happy-birthday-chosic-com",
       "name": "124-Mark-Humble-Free-Happy-Birthday(chosic.com)",
       "type": "audio",
       "mimeType": "audio/mpeg",
@@ -1887,10 +1328,11 @@
       "originalPath": "music/124-Mark-Humble-Free-Happy-Birthday(chosic.com).mp3",
       "encryptedFile": "music/124-Mark-Humble-Free-Happy-Birthday(chosic.com).mp3.enc.json",
       "thumbnail": null,
-      "size": 389037
+      "size": 389037,
+      "encryptedSize": 519144
     },
     {
-      "id": "music-38-Michael-Riepen-Happy-Birthday-chosic-com-mp3",
+      "id": "music-38-michael-riepen-happy-birthday-chosic-com",
       "name": "38-Michael-Riepen-Happy-Birthday(chosic.com)",
       "type": "audio",
       "mimeType": "audio/mpeg",
@@ -1898,10 +1340,11 @@
       "originalPath": "music/38-Michael-Riepen-Happy-Birthday(chosic.com).mp3",
       "encryptedFile": "music/38-Michael-Riepen-Happy-Birthday(chosic.com).mp3.enc.json",
       "thumbnail": null,
-      "size": 1402032
+      "size": 1402032,
+      "encryptedSize": 1869799
     },
     {
-      "id": "music-Dreaming-Under-The-Stars-MP3-chosic-com-mp3",
+      "id": "music-dreaming-under-the-stars-mp3-chosic-com",
       "name": "Dreaming-Under-The-Stars-MP3(chosic.com)",
       "type": "audio",
       "mimeType": "audio/mpeg",
@@ -1909,10 +1352,11 @@
       "originalPath": "music/Dreaming-Under-The-Stars-MP3(chosic.com).mp3",
       "encryptedFile": "music/Dreaming-Under-The-Stars-MP3(chosic.com).mp3.enc.json",
       "thumbnail": null,
-      "size": 4364160
+      "size": 4364160,
+      "encryptedSize": 5819295
     },
     {
-      "id": "music-Ghostrifter-Official-Purple-Dream-chosic-com-mp3",
+      "id": "music-ghostrifter-official-purple-dream-chosic-com",
       "name": "Ghostrifter-Official-Purple-Dream(chosic.com)",
       "type": "audio",
       "mimeType": "audio/mpeg",
@@ -1920,10 +1364,11 @@
       "originalPath": "music/Ghostrifter-Official-Purple-Dream(chosic.com).mp3",
       "encryptedFile": "music/Ghostrifter-Official-Purple-Dream(chosic.com).mp3.enc.json",
       "thumbnail": null,
-      "size": 5397141
+      "size": 5397141,
+      "encryptedSize": 7196613
     },
     {
-      "id": "music-Guitar-Gentle-chosic-com-mp3",
+      "id": "music-guitar-gentle-chosic-com",
       "name": "Guitar-Gentle(chosic.com)",
       "type": "audio",
       "mimeType": "audio/mpeg",
@@ -1931,10 +1376,11 @@
       "originalPath": "music/Guitar-Gentle(chosic.com).mp3",
       "encryptedFile": "music/Guitar-Gentle(chosic.com).mp3.enc.json",
       "thumbnail": null,
-      "size": 4516533
+      "size": 4516533,
+      "encryptedSize": 6022429
     },
     {
-      "id": "music-Happy-birthday-to-you-MIDI-chosic-com-mp3",
+      "id": "music-happy-birthday-to-you-midi-chosic-com",
       "name": "Happy_birthday_to_you_MIDI(chosic.com)",
       "type": "audio",
       "mimeType": "audio/mpeg",
@@ -1942,131 +1388,11 @@
       "originalPath": "music/Happy_birthday_to_you_MIDI(chosic.com).mp3",
       "encryptedFile": "music/Happy_birthday_to_you_MIDI(chosic.com).mp3.enc.json",
       "thumbnail": null,
-      "size": 725578
+      "size": 725578,
+      "encryptedSize": 967848
     },
     {
-      "id": "music-Lights-chosic-com-mp3",
-      "name": "Lights(chosic.com)",
-      "type": "audio",
-      "mimeType": "audio/mpeg",
-      "originalFileName": "Lights(chosic.com).mp3",
-      "originalPath": "music/Lights(chosic.com).mp3",
-      "encryptedFile": "music/Lights(chosic.com).mp3.enc.json",
-      "thumbnail": null,
-      "size": 10159679
-    },
-    {
-      "id": "music-Magic-Valentines-chosic-com-mp3",
-      "name": "Magic-Valentines-chosic.com_",
-      "type": "audio",
-      "mimeType": "audio/mpeg",
-      "originalFileName": "Magic-Valentines-chosic.com_.mp3",
-      "originalPath": "music/Magic-Valentines-chosic.com_.mp3",
-      "encryptedFile": "music/Magic-Valentines-chosic.com_.mp3.enc.json",
-      "thumbnail": null,
-      "size": 4458095
-    },
-    {
-      "id": "music-One-Love-Emotional-Piano-Strings-chosic-com-mp3",
-      "name": "One-Love-Emotional-Piano-Strings(chosic.com)",
-      "type": "audio",
-      "mimeType": "audio/mpeg",
-      "originalFileName": "One-Love-Emotional-Piano-Strings(chosic.com).mp3",
-      "originalPath": "music/One-Love-Emotional-Piano-Strings(chosic.com).mp3",
-      "encryptedFile": "music/One-Love-Emotional-Piano-Strings(chosic.com).mp3.enc.json",
-      "thumbnail": null,
-      "size": 6687491
-    },
-    {
-      "id": "music-PerituneMaterial-Sakuya2-chosic-com-mp3",
-      "name": "PerituneMaterial_Sakuya2(chosic.com)",
-      "type": "audio",
-      "mimeType": "audio/mpeg",
-      "originalFileName": "PerituneMaterial_Sakuya2(chosic.com).mp3",
-      "originalPath": "music/PerituneMaterial_Sakuya2(chosic.com).mp3",
-      "encryptedFile": "music/PerituneMaterial_Sakuya2(chosic.com).mp3.enc.json",
-      "thumbnail": null,
-      "size": 4954696
-    },
-    {
-      "id": "music-Roa-Beloved-chosic-com-mp3",
-      "name": "Roa-Beloved(chosic.com)",
-      "type": "audio",
-      "mimeType": "audio/mpeg",
-      "originalFileName": "Roa-Beloved(chosic.com).mp3",
-      "originalPath": "music/Roa-Beloved(chosic.com).mp3",
-      "encryptedFile": "music/Roa-Beloved(chosic.com).mp3.enc.json",
-      "thumbnail": null,
-      "size": 8130290
-    },
-    {
-      "id": "music-Sonder-chosic-com-mp3",
-      "name": "Sonder(chosic.com)",
-      "type": "audio",
-      "mimeType": "audio/mpeg",
-      "originalFileName": "Sonder(chosic.com).mp3",
-      "originalPath": "music/Sonder(chosic.com).mp3",
-      "encryptedFile": "music/Sonder(chosic.com).mp3.enc.json",
-      "thumbnail": null,
-      "size": 7574630
-    },
-    {
-      "id": "music-Sweet-chosic-com-mp3",
-      "name": "Sweet(chosic.com)",
-      "type": "audio",
-      "mimeType": "audio/mpeg",
-      "originalFileName": "Sweet(chosic.com).mp3",
-      "originalPath": "music/Sweet(chosic.com).mp3",
-      "encryptedFile": "music/Sweet(chosic.com).mp3.enc.json",
-      "thumbnail": null,
-      "size": 4406192
-    },
-    {
-      "id": "music-Valetines-Day-chosic-com-mp3",
-      "name": "Valetines-Day(chosic.com)",
-      "type": "audio",
-      "mimeType": "audio/mpeg",
-      "originalFileName": "Valetines-Day(chosic.com).mp3",
-      "originalPath": "music/Valetines-Day(chosic.com).mp3",
-      "encryptedFile": "music/Valetines-Day(chosic.com).mp3.enc.json",
-      "thumbnail": null,
-      "size": 3773127
-    },
-    {
-      "id": "music-Walking-Home-chosic-com-mp3",
-      "name": "Walking-Home-chosic.com_",
-      "type": "audio",
-      "mimeType": "audio/mpeg",
-      "originalFileName": "Walking-Home-chosic.com_.mp3",
-      "originalPath": "music/Walking-Home-chosic.com_.mp3",
-      "encryptedFile": "music/Walking-Home-chosic.com_.mp3.enc.json",
-      "thumbnail": null,
-      "size": 6148284
-    },
-    {
-      "id": "music-Warm-Memories-Emotional-Inspiring-Piano-chosic-com-mp3",
-      "name": "Warm-Memories-Emotional-Inspiring-Piano(chosic.com)",
-      "type": "audio",
-      "mimeType": "audio/mpeg",
-      "originalFileName": "Warm-Memories-Emotional-Inspiring-Piano(chosic.com).mp3",
-      "originalPath": "music/Warm-Memories-Emotional-Inspiring-Piano(chosic.com).mp3",
-      "encryptedFile": "music/Warm-Memories-Emotional-Inspiring-Piano(chosic.com).mp3.enc.json",
-      "thumbnail": null,
-      "size": 9521412
-    },
-    {
-      "id": "music-Winter-Long-Version-chosic-com-mp3",
-      "name": "Winter-Long-Version(chosic.com)",
-      "type": "audio",
-      "mimeType": "audio/mpeg",
-      "originalFileName": "Winter-Long-Version(chosic.com).mp3",
-      "originalPath": "music/Winter-Long-Version(chosic.com).mp3",
-      "encryptedFile": "music/Winter-Long-Version(chosic.com).mp3.enc.json",
-      "thumbnail": null,
-      "size": 6652841
-    },
-    {
-      "id": "music-keys-of-moon-white-petals-chosic-com-mp3",
+      "id": "music-keys-of-moon-white-petals-chosic-com",
       "name": "keys-of-moon-white-petals(chosic.com)",
       "type": "audio",
       "mimeType": "audio/mpeg",
@@ -2074,10 +1400,47 @@
       "originalPath": "music/keys-of-moon-white-petals(chosic.com).mp3",
       "encryptedFile": "music/keys-of-moon-white-petals(chosic.com).mp3.enc.json",
       "thumbnail": null,
-      "size": 6798167
+      "size": 6798167,
+      "encryptedSize": 9064632
     },
     {
-      "id": "music-percy-duke-happy-birthday-music-box-chosic-com-mp3",
+      "id": "music-lights-chosic-com",
+      "name": "Lights(chosic.com)",
+      "type": "audio",
+      "mimeType": "audio/mpeg",
+      "originalFileName": "Lights(chosic.com).mp3",
+      "originalPath": "music/Lights(chosic.com).mp3",
+      "encryptedFile": "music/Lights(chosic.com).mp3.enc.json",
+      "thumbnail": null,
+      "size": 10159679,
+      "encryptedSize": 13546611
+    },
+    {
+      "id": "music-magic-valentines-chosic-com",
+      "name": "Magic-Valentines-chosic.com_",
+      "type": "audio",
+      "mimeType": "audio/mpeg",
+      "originalFileName": "Magic-Valentines-chosic.com_.mp3",
+      "originalPath": "music/Magic-Valentines-chosic.com_.mp3",
+      "encryptedFile": "music/Magic-Valentines-chosic.com_.mp3.enc.json",
+      "thumbnail": null,
+      "size": 4458095,
+      "encryptedSize": 5944518
+    },
+    {
+      "id": "music-one-love-emotional-piano-strings-chosic-com",
+      "name": "One-Love-Emotional-Piano-Strings(chosic.com)",
+      "type": "audio",
+      "mimeType": "audio/mpeg",
+      "originalFileName": "One-Love-Emotional-Piano-Strings(chosic.com).mp3",
+      "originalPath": "music/One-Love-Emotional-Piano-Strings(chosic.com).mp3",
+      "encryptedFile": "music/One-Love-Emotional-Piano-Strings(chosic.com).mp3.enc.json",
+      "thumbnail": null,
+      "size": 6687491,
+      "encryptedSize": 8917078
+    },
+    {
+      "id": "music-percy-duke-happy-birthday-music-box-chosic-com",
       "name": "percy-duke__happy-birthday-music-box(chosic.com)",
       "type": "audio",
       "mimeType": "audio/mpeg",
@@ -2085,10 +1448,23 @@
       "originalPath": "music/percy-duke__happy-birthday-music-box(chosic.com).mp3",
       "encryptedFile": "music/percy-duke__happy-birthday-music-box(chosic.com).mp3.enc.json",
       "thumbnail": null,
-      "size": 244968
+      "size": 244968,
+      "encryptedSize": 327054
     },
     {
-      "id": "music-precious-memories-chosic-com-mp3",
+      "id": "music-peritunematerial-sakuya2-chosic-com",
+      "name": "PerituneMaterial_Sakuya2(chosic.com)",
+      "type": "audio",
+      "mimeType": "audio/mpeg",
+      "originalFileName": "PerituneMaterial_Sakuya2(chosic.com).mp3",
+      "originalPath": "music/PerituneMaterial_Sakuya2(chosic.com).mp3",
+      "encryptedFile": "music/PerituneMaterial_Sakuya2(chosic.com).mp3.enc.json",
+      "thumbnail": null,
+      "size": 4954696,
+      "encryptedSize": 6606669
+    },
+    {
+      "id": "music-precious-memories-chosic-com",
       "name": "precious-memories(chosic.com)",
       "type": "audio",
       "mimeType": "audio/mpeg",
@@ -2096,10 +1472,47 @@
       "originalPath": "music/precious-memories(chosic.com).mp3",
       "encryptedFile": "music/precious-memories(chosic.com).mp3.enc.json",
       "thumbnail": null,
-      "size": 9557598
+      "size": 9557598,
+      "encryptedSize": 12743857
     },
     {
-      "id": "music-theuned-happy-birthday-crowd-chosic-com-mp3",
+      "id": "music-roa-beloved-chosic-com",
+      "name": "Roa-Beloved(chosic.com)",
+      "type": "audio",
+      "mimeType": "audio/mpeg",
+      "originalFileName": "Roa-Beloved(chosic.com).mp3",
+      "originalPath": "music/Roa-Beloved(chosic.com).mp3",
+      "encryptedFile": "music/Roa-Beloved(chosic.com).mp3.enc.json",
+      "thumbnail": null,
+      "size": 8130290,
+      "encryptedSize": 10840768
+    },
+    {
+      "id": "music-sonder-chosic-com",
+      "name": "Sonder(chosic.com)",
+      "type": "audio",
+      "mimeType": "audio/mpeg",
+      "originalFileName": "Sonder(chosic.com).mp3",
+      "originalPath": "music/Sonder(chosic.com).mp3",
+      "encryptedFile": "music/Sonder(chosic.com).mp3.enc.json",
+      "thumbnail": null,
+      "size": 7574630,
+      "encryptedSize": 10099878
+    },
+    {
+      "id": "music-sweet-chosic-com",
+      "name": "Sweet(chosic.com)",
+      "type": "audio",
+      "mimeType": "audio/mpeg",
+      "originalFileName": "Sweet(chosic.com).mp3",
+      "originalPath": "music/Sweet(chosic.com).mp3",
+      "encryptedFile": "music/Sweet(chosic.com).mp3.enc.json",
+      "thumbnail": null,
+      "size": 4406192,
+      "encryptedSize": 5875292
+    },
+    {
+      "id": "music-theuned-happy-birthday-crowd-chosic-com",
       "name": "theuned_happy-birthday-crowd(chosic.com)",
       "type": "audio",
       "mimeType": "audio/mpeg",
@@ -2107,10 +1520,59 @@
       "originalPath": "music/theuned_happy-birthday-crowd(chosic.com).mp3",
       "encryptedFile": "music/theuned_happy-birthday-crowd(chosic.com).mp3.enc.json",
       "thumbnail": null,
-      "size": 170573
+      "size": 170573,
+      "encryptedSize": 227845
     },
     {
-      "id": "stickers-vatpornima-sticker00001-png",
+      "id": "music-valetines-day-chosic-com",
+      "name": "Valetines-Day(chosic.com)",
+      "type": "audio",
+      "mimeType": "audio/mpeg",
+      "originalFileName": "Valetines-Day(chosic.com).mp3",
+      "originalPath": "music/Valetines-Day(chosic.com).mp3",
+      "encryptedFile": "music/Valetines-Day(chosic.com).mp3.enc.json",
+      "thumbnail": null,
+      "size": 3773127,
+      "encryptedSize": 5031221
+    },
+    {
+      "id": "music-walking-home-chosic-com",
+      "name": "Walking-Home-chosic.com_",
+      "type": "audio",
+      "mimeType": "audio/mpeg",
+      "originalFileName": "Walking-Home-chosic.com_.mp3",
+      "originalPath": "music/Walking-Home-chosic.com_.mp3",
+      "encryptedFile": "music/Walking-Home-chosic.com_.mp3.enc.json",
+      "thumbnail": null,
+      "size": 6148284,
+      "encryptedSize": 8198095
+    },
+    {
+      "id": "music-warm-memories-emotional-inspiring-piano-chosic-com",
+      "name": "Warm-Memories-Emotional-Inspiring-Piano(chosic.com)",
+      "type": "audio",
+      "mimeType": "audio/mpeg",
+      "originalFileName": "Warm-Memories-Emotional-Inspiring-Piano(chosic.com).mp3",
+      "originalPath": "music/Warm-Memories-Emotional-Inspiring-Piano(chosic.com).mp3",
+      "encryptedFile": "music/Warm-Memories-Emotional-Inspiring-Piano(chosic.com).mp3.enc.json",
+      "thumbnail": null,
+      "size": 9521412,
+      "encryptedSize": 12695653
+    },
+    {
+      "id": "music-winter-long-version-chosic-com",
+      "name": "Winter-Long-Version(chosic.com)",
+      "type": "audio",
+      "mimeType": "audio/mpeg",
+      "originalFileName": "Winter-Long-Version(chosic.com).mp3",
+      "originalPath": "music/Winter-Long-Version(chosic.com).mp3",
+      "encryptedFile": "music/Winter-Long-Version(chosic.com).mp3.enc.json",
+      "thumbnail": null,
+      "size": 6652841,
+      "encryptedSize": 8870852
+    },
+    {
+      "id": "stickers-vatpornima-sticker00001",
       "name": "sticker00001",
       "type": "image",
       "mimeType": "image/png",
@@ -2118,10 +1580,13 @@
       "originalPath": "stickers/vatpornima/sticker00001.png",
       "encryptedFile": "stickers/vatpornima/sticker00001.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00001.webp",
-      "size": 166779
+      "size": 166779,
+      "encryptedSize": 222743,
+      "width": 296,
+      "height": 324
     },
     {
-      "id": "stickers-vatpornima-sticker00002-png",
+      "id": "stickers-vatpornima-sticker00002",
       "name": "sticker00002",
       "type": "image",
       "mimeType": "image/png",
@@ -2129,10 +1594,13 @@
       "originalPath": "stickers/vatpornima/sticker00002.png",
       "encryptedFile": "stickers/vatpornima/sticker00002.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00002.webp",
-      "size": 119761
+      "size": 119761,
+      "encryptedSize": 160053,
+      "width": 304,
+      "height": 324
     },
     {
-      "id": "stickers-vatpornima-sticker00003-png",
+      "id": "stickers-vatpornima-sticker00003",
       "name": "sticker00003",
       "type": "image",
       "mimeType": "image/png",
@@ -2140,10 +1608,13 @@
       "originalPath": "stickers/vatpornima/sticker00003.png",
       "encryptedFile": "stickers/vatpornima/sticker00003.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00003.webp",
-      "size": 126039
+      "size": 126039,
+      "encryptedSize": 168423,
+      "width": 296,
+      "height": 324
     },
     {
-      "id": "stickers-vatpornima-sticker00004-png",
+      "id": "stickers-vatpornima-sticker00004",
       "name": "sticker00004",
       "type": "image",
       "mimeType": "image/png",
@@ -2151,10 +1622,13 @@
       "originalPath": "stickers/vatpornima/sticker00004.png",
       "encryptedFile": "stickers/vatpornima/sticker00004.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00004.webp",
-      "size": 122188
+      "size": 122188,
+      "encryptedSize": 163289,
+      "width": 289,
+      "height": 324
     },
     {
-      "id": "stickers-vatpornima-sticker00005-png",
+      "id": "stickers-vatpornima-sticker00005",
       "name": "sticker00005",
       "type": "image",
       "mimeType": "image/png",
@@ -2162,10 +1636,13 @@
       "originalPath": "stickers/vatpornima/sticker00005.png",
       "encryptedFile": "stickers/vatpornima/sticker00005.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00005.webp",
-      "size": 99739
+      "size": 99739,
+      "encryptedSize": 133356,
+      "width": 300,
+      "height": 324
     },
     {
-      "id": "stickers-vatpornima-sticker00006-png",
+      "id": "stickers-vatpornima-sticker00006",
       "name": "sticker00006",
       "type": "image",
       "mimeType": "image/png",
@@ -2173,10 +1650,13 @@
       "originalPath": "stickers/vatpornima/sticker00006.png",
       "encryptedFile": "stickers/vatpornima/sticker00006.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00006.webp",
-      "size": 124026
+      "size": 124026,
+      "encryptedSize": 165739,
+      "width": 296,
+      "height": 332
     },
     {
-      "id": "stickers-vatpornima-sticker00007-png",
+      "id": "stickers-vatpornima-sticker00007",
       "name": "sticker00007",
       "type": "image",
       "mimeType": "image/png",
@@ -2184,10 +1664,13 @@
       "originalPath": "stickers/vatpornima/sticker00007.png",
       "encryptedFile": "stickers/vatpornima/sticker00007.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00007.webp",
-      "size": 161433
+      "size": 161433,
+      "encryptedSize": 215615,
+      "width": 304,
+      "height": 332
     },
     {
-      "id": "stickers-vatpornima-sticker00008-png",
+      "id": "stickers-vatpornima-sticker00008",
       "name": "sticker00008",
       "type": "image",
       "mimeType": "image/png",
@@ -2195,10 +1678,13 @@
       "originalPath": "stickers/vatpornima/sticker00008.png",
       "encryptedFile": "stickers/vatpornima/sticker00008.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00008.webp",
-      "size": 163769
+      "size": 163769,
+      "encryptedSize": 218730,
+      "width": 296,
+      "height": 332
     },
     {
-      "id": "stickers-vatpornima-sticker00009-png",
+      "id": "stickers-vatpornima-sticker00009",
       "name": "sticker00009",
       "type": "image",
       "mimeType": "image/png",
@@ -2206,10 +1692,13 @@
       "originalPath": "stickers/vatpornima/sticker00009.png",
       "encryptedFile": "stickers/vatpornima/sticker00009.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00009.webp",
-      "size": 132920
+      "size": 132920,
+      "encryptedSize": 177598,
+      "width": 289,
+      "height": 332
     },
     {
-      "id": "stickers-vatpornima-sticker00010-png",
+      "id": "stickers-vatpornima-sticker00010",
       "name": "sticker00010",
       "type": "image",
       "mimeType": "image/png",
@@ -2217,10 +1706,13 @@
       "originalPath": "stickers/vatpornima/sticker00010.png",
       "encryptedFile": "stickers/vatpornima/sticker00010.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00010.webp",
-      "size": 146603
+      "size": 146603,
+      "encryptedSize": 195842,
+      "width": 300,
+      "height": 332
     },
     {
-      "id": "stickers-vatpornima-sticker00011-png",
+      "id": "stickers-vatpornima-sticker00011",
       "name": "sticker00011",
       "type": "image",
       "mimeType": "image/png",
@@ -2228,10 +1720,13 @@
       "originalPath": "stickers/vatpornima/sticker00011.png",
       "encryptedFile": "stickers/vatpornima/sticker00011.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00011.webp",
-      "size": 144726
+      "size": 144726,
+      "encryptedSize": 193339,
+      "width": 296,
+      "height": 321
     },
     {
-      "id": "stickers-vatpornima-sticker00012-png",
+      "id": "stickers-vatpornima-sticker00012",
       "name": "sticker00012",
       "type": "image",
       "mimeType": "image/png",
@@ -2239,10 +1734,13 @@
       "originalPath": "stickers/vatpornima/sticker00012.png",
       "encryptedFile": "stickers/vatpornima/sticker00012.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00012.webp",
-      "size": 155776
+      "size": 155776,
+      "encryptedSize": 208073,
+      "width": 304,
+      "height": 321
     },
     {
-      "id": "stickers-vatpornima-sticker00013-png",
+      "id": "stickers-vatpornima-sticker00013",
       "name": "sticker00013",
       "type": "image",
       "mimeType": "image/png",
@@ -2250,10 +1748,13 @@
       "originalPath": "stickers/vatpornima/sticker00013.png",
       "encryptedFile": "stickers/vatpornima/sticker00013.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00013.webp",
-      "size": 131691
+      "size": 131691,
+      "encryptedSize": 175959,
+      "width": 296,
+      "height": 321
     },
     {
-      "id": "stickers-vatpornima-sticker00014-png",
+      "id": "stickers-vatpornima-sticker00014",
       "name": "sticker00014",
       "type": "image",
       "mimeType": "image/png",
@@ -2261,10 +1762,13 @@
       "originalPath": "stickers/vatpornima/sticker00014.png",
       "encryptedFile": "stickers/vatpornima/sticker00014.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00014.webp",
-      "size": 117283
+      "size": 117283,
+      "encryptedSize": 156749,
+      "width": 289,
+      "height": 321
     },
     {
-      "id": "stickers-vatpornima-sticker00015-png",
+      "id": "stickers-vatpornima-sticker00015",
       "name": "sticker00015",
       "type": "image",
       "mimeType": "image/png",
@@ -2272,10 +1776,13 @@
       "originalPath": "stickers/vatpornima/sticker00015.png",
       "encryptedFile": "stickers/vatpornima/sticker00015.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00015.webp",
-      "size": 74624
+      "size": 74624,
+      "encryptedSize": 99869,
+      "width": 300,
+      "height": 321
     },
     {
-      "id": "stickers-vatpornima-sticker00016-png",
+      "id": "stickers-vatpornima-sticker00016",
       "name": "sticker00016",
       "type": "image",
       "mimeType": "image/png",
@@ -2283,10 +1790,13 @@
       "originalPath": "stickers/vatpornima/sticker00016.png",
       "encryptedFile": "stickers/vatpornima/sticker00016.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00016.webp",
-      "size": 195660
+      "size": 195660,
+      "encryptedSize": 261251,
+      "width": 400,
+      "height": 428
     },
     {
-      "id": "stickers-vatpornima-sticker00017-png",
+      "id": "stickers-vatpornima-sticker00017",
       "name": "sticker00017",
       "type": "image",
       "mimeType": "image/png",
@@ -2294,10 +1804,13 @@
       "originalPath": "stickers/vatpornima/sticker00017.png",
       "encryptedFile": "stickers/vatpornima/sticker00017.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00017.webp",
-      "size": 179914
+      "size": 179914,
+      "encryptedSize": 240257,
+      "width": 447,
+      "height": 428
     },
     {
-      "id": "stickers-vatpornima-sticker00018-png",
+      "id": "stickers-vatpornima-sticker00018",
       "name": "sticker00018",
       "type": "image",
       "mimeType": "image/png",
@@ -2305,10 +1818,13 @@
       "originalPath": "stickers/vatpornima/sticker00018.png",
       "encryptedFile": "stickers/vatpornima/sticker00018.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00018.webp",
-      "size": 230021
+      "size": 230021,
+      "encryptedSize": 307066,
+      "width": 405,
+      "height": 428
     },
     {
-      "id": "stickers-vatpornima-sticker00019-png",
+      "id": "stickers-vatpornima-sticker00019",
       "name": "sticker00019",
       "type": "image",
       "mimeType": "image/png",
@@ -2316,10 +1832,13 @@
       "originalPath": "stickers/vatpornima/sticker00019.png",
       "encryptedFile": "stickers/vatpornima/sticker00019.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00019.webp",
-      "size": 211264
+      "size": 211264,
+      "encryptedSize": 282057,
+      "width": 401,
+      "height": 418
     },
     {
-      "id": "stickers-vatpornima-sticker00020-png",
+      "id": "stickers-vatpornima-sticker00020",
       "name": "sticker00020",
       "type": "image",
       "mimeType": "image/png",
@@ -2327,10 +1846,13 @@
       "originalPath": "stickers/vatpornima/sticker00020.png",
       "encryptedFile": "stickers/vatpornima/sticker00020.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00020.webp",
-      "size": 97228
+      "size": 97228,
+      "encryptedSize": 130008,
+      "width": 404,
+      "height": 418
     },
     {
-      "id": "stickers-vatpornima-sticker00021-png",
+      "id": "stickers-vatpornima-sticker00021",
       "name": "sticker00021",
       "type": "image",
       "mimeType": "image/png",
@@ -2338,10 +1860,13 @@
       "originalPath": "stickers/vatpornima/sticker00021.png",
       "encryptedFile": "stickers/vatpornima/sticker00021.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00021.webp",
-      "size": 193729
+      "size": 193729,
+      "encryptedSize": 258677,
+      "width": 444,
+      "height": 418
     },
     {
-      "id": "stickers-vatpornima-sticker00022-png",
+      "id": "stickers-vatpornima-sticker00022",
       "name": "sticker00022",
       "type": "image",
       "mimeType": "image/png",
@@ -2349,10 +1874,13 @@
       "originalPath": "stickers/vatpornima/sticker00022.png",
       "encryptedFile": "stickers/vatpornima/sticker00022.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00022.webp",
-      "size": 234977
+      "size": 234977,
+      "encryptedSize": 313674,
+      "width": 401,
+      "height": 401
     },
     {
-      "id": "stickers-vatpornima-sticker00023-png",
+      "id": "stickers-vatpornima-sticker00023",
       "name": "sticker00023",
       "type": "image",
       "mimeType": "image/png",
@@ -2360,10 +1888,13 @@
       "originalPath": "stickers/vatpornima/sticker00023.png",
       "encryptedFile": "stickers/vatpornima/sticker00023.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00023.webp",
-      "size": 204155
+      "size": 204155,
+      "encryptedSize": 272578,
+      "width": 404,
+      "height": 401
     },
     {
-      "id": "stickers-vatpornima-sticker00024-png",
+      "id": "stickers-vatpornima-sticker00024",
       "name": "sticker00024",
       "type": "image",
       "mimeType": "image/png",
@@ -2371,10 +1902,13 @@
       "originalPath": "stickers/vatpornima/sticker00024.png",
       "encryptedFile": "stickers/vatpornima/sticker00024.png.enc.json",
       "thumbnail": "thumbnails/stickers/vatpornima/sticker00024.webp",
-      "size": 122534
+      "size": 122534,
+      "encryptedSize": 163750,
+      "width": 405,
+      "height": 401
     },
     {
-      "id": "video-intro-mp4",
+      "id": "video-intro",
       "name": "intro",
       "type": "video",
       "mimeType": "video/mp4",
@@ -2382,7 +1916,8 @@
       "originalPath": "video/intro.mp4",
       "encryptedFile": "video/intro.mp4.enc.json",
       "thumbnail": null,
-      "size": 2519501
+      "size": 2519501,
+      "encryptedSize": 3359679
     }
   ]
 }
