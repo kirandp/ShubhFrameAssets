@@ -1475,20 +1475,6 @@
       "height": 1920
     },
     {
-      "id": "frames-personal-festive-vatpornima-frame00008",
-      "name": "frame00008",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "frame00008.webp",
-      "originalPath": "frames/personal/festive/vatpornima/frame00008.webp",
-      "encryptedFile": "frames/personal/festive/vatpornima/frame00008.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/festive/vatpornima/frame00008.webp",
-      "size": 274854,
-      "encryptedSize": 366857,
-      "width": 1081,
-      "height": 1920
-    },
-    {
       "id": "frames-personal-festive-vatpornima-frame00009",
       "name": "frame00009",
       "type": "image",
