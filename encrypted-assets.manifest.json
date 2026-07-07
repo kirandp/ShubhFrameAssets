@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-07T09:38:01.015Z",
+  "generatedAt": "2026-07-07T10:14:17.647Z",
   "root": ".",
   "encryption": {
     "algorithm": "AES-256-GCM",
@@ -1116,20 +1116,6 @@
       "frameRate": 100,
       "inPoint": 0,
       "outPoint": 350
-    },
-    {
-      "id": "frames-personal-festive-independence-day-independence-day-1",
-      "name": "independence_day_1",
-      "type": "image",
-      "mimeType": "image/webp",
-      "originalFileName": "independence_day_1.webp",
-      "originalPath": "frames/personal/festive/independence-day/independence_day_1.webp",
-      "encryptedFile": "frames/personal/festive/independence-day/independence_day_1.webp.enc.json",
-      "thumbnail": "thumbnails/frames/personal/festive/independence-day/independence_day_1.webp",
-      "size": 16910,
-      "encryptedSize": 22953,
-      "width": 360,
-      "height": 640
     },
     {
       "id": "frames-personal-festive-independence-day-independence-day-2",
