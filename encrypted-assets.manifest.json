@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-07T13:50:35.753Z",
+  "generatedAt": "2026-07-09T16:17:55.344Z",
   "root": ".",
   "encryption": {
     "algorithm": "AES-256-GCM",
@@ -12,7 +12,233 @@
     "width": 360,
     "lottieFramePercent": 0.3
   },
+  "supportedAssetTypes": [
+    "image",
+    "lottie",
+    "audio",
+    "video",
+    "effect",
+    "json",
+    "file"
+  ],
   "assets": [
+    {
+      "id": "effects-balloons-effect",
+      "name": "balloons.effect",
+      "type": "effect",
+      "mimeType": "application/json",
+      "originalFileName": "balloons.effect.json",
+      "originalPath": "effects/balloons.effect.json",
+      "encryptedFile": "effects/balloons.effect.json.enc.json",
+      "thumbnail": "thumbnails/effects/balloons.effect.webp",
+      "size": 9940,
+      "byteLength": 9940,
+      "sha256": "fcd0a627295600f9a51f694aa8594ae98bd655a36abfc5028bc4cbb5fd1b51aa",
+      "encryptedSize": 13728,
+      "width": 1080,
+      "height": 1920,
+      "objectCount": 12,
+      "effectId": "balloons",
+      "effectVersion": 1,
+      "effectSchema": "shubhframe.fullscreen-effect.v1",
+      "effectRenderer": "svg-particles",
+      "effectAnimationType": "float-up",
+      "effectCategory": "fullscreen",
+      "effectTitle": "Colorful Balloons",
+      "effectTags": [
+        "balloons",
+        "fullscreen",
+        "svg-particles"
+      ],
+      "metadata": {
+        "effectId": "balloons",
+        "effectVersion": 1,
+        "effectSchema": "shubhframe.fullscreen-effect.v1",
+        "effectRenderer": "svg-particles",
+        "effectAnimationType": "float-up",
+        "effectCategory": "fullscreen",
+        "effectTitle": "Colorful Balloons",
+        "effectTags": [
+          "balloons",
+          "fullscreen",
+          "svg-particles"
+        ]
+      }
+    },
+    {
+      "id": "effects-butterflies-effect",
+      "name": "butterflies.effect",
+      "type": "effect",
+      "mimeType": "application/json",
+      "originalFileName": "butterflies.effect.json",
+      "originalPath": "effects/butterflies.effect.json",
+      "encryptedFile": "effects/butterflies.effect.json.enc.json",
+      "thumbnail": "thumbnails/effects/butterflies.effect.webp",
+      "size": 37763,
+      "byteLength": 37763,
+      "sha256": "dd94803287e48f5fb7b89033bd1ab4b28be0b7956bf5c91f59686f78209b5bff",
+      "encryptedSize": 50833,
+      "width": 1080,
+      "height": 1920,
+      "objectCount": 12,
+      "effectId": "butterflies",
+      "effectVersion": 1,
+      "effectSchema": "shubhframe.fullscreen-effect.v1",
+      "effectRenderer": "svg-particles",
+      "effectAnimationType": "float-up-flutter",
+      "effectCategory": "fullscreen",
+      "effectTitle": "Colorful Butterflies",
+      "effectTags": [
+        "butterflies",
+        "fullscreen",
+        "svg-particles"
+      ],
+      "metadata": {
+        "effectId": "butterflies",
+        "effectVersion": 1,
+        "effectSchema": "shubhframe.fullscreen-effect.v1",
+        "effectRenderer": "svg-particles",
+        "effectAnimationType": "float-up-flutter",
+        "effectCategory": "fullscreen",
+        "effectTitle": "Colorful Butterflies",
+        "effectTags": [
+          "butterflies",
+          "fullscreen",
+          "svg-particles"
+        ]
+      }
+    },
+    {
+      "id": "effects-cars-effect",
+      "name": "cars.effect",
+      "type": "effect",
+      "mimeType": "application/json",
+      "originalFileName": "cars.effect.json",
+      "originalPath": "effects/cars.effect.json",
+      "encryptedFile": "effects/cars.effect.json.enc.json",
+      "thumbnail": "thumbnails/effects/cars.effect.webp",
+      "size": 15421,
+      "byteLength": 15421,
+      "sha256": "8b20a0fc57239f09c0e7b7395ef1d8adc8406d14acbc706e8dde92f348d464f5",
+      "encryptedSize": 21030,
+      "width": 1080,
+      "height": 1920,
+      "objectCount": 6,
+      "effectId": "cars",
+      "effectVersion": 1,
+      "effectSchema": "shubhframe.fullscreen-effect.v1",
+      "effectRenderer": "svg-particles",
+      "effectAnimationType": "horizontal-drive",
+      "effectCategory": "fullscreen",
+      "effectTitle": "Colorful Cars",
+      "effectTags": [
+        "cars",
+        "fullscreen",
+        "svg-particles"
+      ],
+      "metadata": {
+        "effectId": "cars",
+        "effectVersion": 1,
+        "effectSchema": "shubhframe.fullscreen-effect.v1",
+        "effectRenderer": "svg-particles",
+        "effectAnimationType": "horizontal-drive",
+        "effectCategory": "fullscreen",
+        "effectTitle": "Colorful Cars",
+        "effectTags": [
+          "cars",
+          "fullscreen",
+          "svg-particles"
+        ]
+      }
+    },
+    {
+      "id": "effects-hearts-effect",
+      "name": "hearts.effect",
+      "type": "effect",
+      "mimeType": "application/json",
+      "originalFileName": "hearts.effect.json",
+      "originalPath": "effects/hearts.effect.json",
+      "encryptedFile": "effects/hearts.effect.json.enc.json",
+      "thumbnail": "thumbnails/effects/hearts.effect.webp",
+      "size": 18924,
+      "byteLength": 18924,
+      "sha256": "15fa7b7d58ad84298e242aae532186a59ea0147b4d2f99d92686d873670391c6",
+      "encryptedSize": 25704,
+      "width": 1080,
+      "height": 1920,
+      "objectCount": 12,
+      "effectId": "hearts",
+      "effectVersion": 1,
+      "effectSchema": "shubhframe.fullscreen-effect.v1",
+      "effectRenderer": "svg-particles",
+      "effectAnimationType": "float-up",
+      "effectCategory": "fullscreen",
+      "effectTitle": "Colorful Hearts",
+      "effectTags": [
+        "hearts",
+        "fullscreen",
+        "svg-particles"
+      ],
+      "metadata": {
+        "effectId": "hearts",
+        "effectVersion": 1,
+        "effectSchema": "shubhframe.fullscreen-effect.v1",
+        "effectRenderer": "svg-particles",
+        "effectAnimationType": "float-up",
+        "effectCategory": "fullscreen",
+        "effectTitle": "Colorful Hearts",
+        "effectTags": [
+          "hearts",
+          "fullscreen",
+          "svg-particles"
+        ]
+      }
+    },
+    {
+      "id": "effects-stars-effect",
+      "name": "stars.effect",
+      "type": "effect",
+      "mimeType": "application/json",
+      "originalFileName": "stars.effect.json",
+      "originalPath": "effects/stars.effect.json",
+      "encryptedFile": "effects/stars.effect.json.enc.json",
+      "thumbnail": "thumbnails/effects/stars.effect.webp",
+      "size": 15583,
+      "byteLength": 15583,
+      "sha256": "84265a015b596bfe30b19823bec3715c19abd3cc031589477242a2e34ae38681",
+      "encryptedSize": 21248,
+      "width": 1080,
+      "height": 1920,
+      "objectCount": 12,
+      "effectId": "stars",
+      "effectVersion": 1,
+      "effectSchema": "shubhframe.fullscreen-effect.v1",
+      "effectRenderer": "svg-particles",
+      "effectAnimationType": "float-up-spin",
+      "effectCategory": "fullscreen",
+      "effectTitle": "Colorful Stars",
+      "effectTags": [
+        "stars",
+        "colorful-stars",
+        "fullscreen",
+        "svg-particles"
+      ],
+      "metadata": {
+        "effectId": "stars",
+        "effectVersion": 1,
+        "effectSchema": "shubhframe.fullscreen-effect.v1",
+        "effectRenderer": "svg-particles",
+        "effectAnimationType": "float-up-spin",
+        "effectCategory": "fullscreen",
+        "effectTitle": "Colorful Stars",
+        "effectTags": [
+          "stars",
+          "colorful-stars",
+          "fullscreen",
+          "svg-particles"
+        ]
+      }
+    },
     {
       "id": "frames",
       "name": ".DS_Store",
@@ -53,7 +279,9 @@
       "size": 109366,
       "byteLength": 109366,
       "sha256": "61a7482a99eead64a033f6e235108a74aed75fbae00911d512baa84a5d68e0ac",
-      "encryptedSize": 146303
+      "encryptedSize": 146303,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-automotive-frame00014",
@@ -67,7 +295,9 @@
       "size": 119640,
       "byteLength": 119640,
       "sha256": "21af48cfa945cbb66acab6894ae0dbb35a193bc7a9fcaf6ff2913b5aba3d590e",
-      "encryptedSize": 160001
+      "encryptedSize": 160001,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-education-frame00003",
@@ -81,7 +311,9 @@
       "size": 168912,
       "byteLength": 168912,
       "sha256": "0cbb4e28caf53d452fc15238bb565db2d511c28962b3fe04bcacabc67bca9fb4",
-      "encryptedSize": 225696
+      "encryptedSize": 225696,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-education-frame00004",
@@ -95,7 +327,9 @@
       "size": 109864,
       "byteLength": 109864,
       "sha256": "18d17174ba03cd119725091ddc1f0d0304525d617a5d34f20dfe5ef990169a6c",
-      "encryptedSize": 146966
+      "encryptedSize": 146966,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-education-frame00016",
@@ -109,7 +343,9 @@
       "size": 141920,
       "byteLength": 141920,
       "sha256": "adbad6711e69c92b15b5f097e6c88b302f557237e0f284e56ad9ea293060d578",
-      "encryptedSize": 189707
+      "encryptedSize": 189707,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-education-frame00017",
@@ -123,7 +359,9 @@
       "size": 90794,
       "byteLength": 90794,
       "sha256": "f4929f7a34633cec1aaefe4a6d55a6929c4ff5e9ee5ea164e9985211ac6f511f",
-      "encryptedSize": 121537
+      "encryptedSize": 121537,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-electronics-frame00018",
@@ -137,7 +375,9 @@
       "size": 120394,
       "byteLength": 120394,
       "sha256": "7f90354325cfd6f699005e8100d5343e621cf44d02122e606f6f2c930612f761",
-      "encryptedSize": 161008
+      "encryptedSize": 161008,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-fashion-frame00002",
@@ -151,7 +391,9 @@
       "size": 102182,
       "byteLength": 102182,
       "sha256": "432b3f84bf16ff86f1c94b96bbe76887faf701254f4e09638fe18671796e0a74",
-      "encryptedSize": 136721
+      "encryptedSize": 136721,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-fashion-frame00005",
@@ -165,7 +407,9 @@
       "size": 118980,
       "byteLength": 118980,
       "sha256": "8133f92e2fb386fe6a9c3c3e3984bf7d789a71b7b19764913ec7dbcfd12257f4",
-      "encryptedSize": 159118
+      "encryptedSize": 159118,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-fashion-frame00006",
@@ -179,7 +423,9 @@
       "size": 83524,
       "byteLength": 83524,
       "sha256": "ad358799e56deb317c0882c2aef7a6bf13dfd5f79bc194040e7c974125a00030",
-      "encryptedSize": 111842
+      "encryptedSize": 111842,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-fashion-frame00015",
@@ -193,7 +439,9 @@
       "size": 128698,
       "byteLength": 128698,
       "sha256": "3e053f4f70b5c06aa35116a5c5ddfa4310ba6c5edf08fff37085dd82f4609de2",
-      "encryptedSize": 172076
+      "encryptedSize": 172076,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-fashion-frame00019",
@@ -207,7 +455,9 @@
       "size": 94550,
       "byteLength": 94550,
       "sha256": "fbe370fb562d5feec1adacef0e44e4ce87d54e6e61791c1855e617b2aa92f455",
-      "encryptedSize": 126543
+      "encryptedSize": 126543,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-furniture-frame00001",
@@ -221,7 +471,9 @@
       "size": 154926,
       "byteLength": 154926,
       "sha256": "2ee07fe3c3ab2cf91bd87334a99fe44810d25463e993a58dca39620fea502217",
-      "encryptedSize": 207048
+      "encryptedSize": 207048,
+      "width": 1080,
+      "height": 1935
     },
     {
       "id": "frames-business-furniture-frame00002",
@@ -235,7 +487,9 @@
       "size": 134770,
       "byteLength": 134770,
       "sha256": "e9640f0999d6e94a66fd6ed38c412363a22729dc594850b7004ce4905b0d6988",
-      "encryptedSize": 180174
+      "encryptedSize": 180174,
+      "width": 1080,
+      "height": 1935
     },
     {
       "id": "frames-business-furniture-frame00003",
@@ -249,7 +503,9 @@
       "size": 179578,
       "byteLength": 179578,
       "sha256": "0e2e5139a043ed816cc789f6721c6dde4d297b4a601e665b0e28a33cb34f3298",
-      "encryptedSize": 239918
+      "encryptedSize": 239918,
+      "width": 1080,
+      "height": 1935
     },
     {
       "id": "frames-business-furniture-frame00008",
@@ -263,7 +519,9 @@
       "size": 110142,
       "byteLength": 110142,
       "sha256": "7ac3d2071741f487695e7968bf096d852cf600016081c046d2e1353a2e86c58e",
-      "encryptedSize": 147336
+      "encryptedSize": 147336,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-furniture-frame00021",
@@ -277,7 +535,9 @@
       "size": 128646,
       "byteLength": 128646,
       "sha256": "67d331ea8374faa1e7c413f619f2cabff96d146e1029879fd5eb7cc9ae4ebac1",
-      "encryptedSize": 172008
+      "encryptedSize": 172008,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-furniture-frame1",
@@ -291,7 +551,9 @@
       "size": 103518,
       "byteLength": 103518,
       "sha256": "0dd5759a1f6cfb953565ae76bb5941ff7f448f9ea2d845356ca535a369d5b884",
-      "encryptedSize": 138496
+      "encryptedSize": 138496,
+      "width": 1122,
+      "height": 1402
     },
     {
       "id": "frames-business-grocery-frame00007",
@@ -305,7 +567,9 @@
       "size": 168538,
       "byteLength": 168538,
       "sha256": "32fc6a02a114b0e563e11402c3d999ff08fc47465e4b7b9190433080945939ab",
-      "encryptedSize": 225196
+      "encryptedSize": 225196,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-grocery-frame00020",
@@ -319,7 +583,9 @@
       "size": 164600,
       "byteLength": 164600,
       "sha256": "1fb83f1457b749a718be0a2a48ab4e1f1bf8ba167520d509c10eece0a56dc4ea",
-      "encryptedSize": 219945
+      "encryptedSize": 219945,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-jewelry-frame00009",
@@ -333,7 +599,9 @@
       "size": 148060,
       "byteLength": 148060,
       "sha256": "d8606256af0735d1a7bf1eb42aec733a026a14ad4852a390a262e5398db2460f",
-      "encryptedSize": 197892
+      "encryptedSize": 197892,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-jewelry-frame00022",
@@ -347,7 +615,9 @@
       "size": 182978,
       "byteLength": 182978,
       "sha256": "8cc7cb0a6b110d6257d72922b7470b48fe45fde9821be7d38598289353b8e9cc",
-      "encryptedSize": 244449
+      "encryptedSize": 244449,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-pharmacy-frame00010",
@@ -361,7 +631,9 @@
       "size": 99294,
       "byteLength": 99294,
       "sha256": "b0ff9a8ce7be91d5c8dba6cf58672785f07bcf4577e184857e6580e8112f643b",
-      "encryptedSize": 132869
+      "encryptedSize": 132869,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-pharmacy-frame00023",
@@ -375,7 +647,9 @@
       "size": 91140,
       "byteLength": 91140,
       "sha256": "b5749953588e6bfe5e59ecb0701fbfae92f3b4a7b55e9e667d9740e8df38282a",
-      "encryptedSize": 121997
+      "encryptedSize": 121997,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-realestate-frame00011",
@@ -389,7 +663,9 @@
       "size": 142290,
       "byteLength": 142290,
       "sha256": "aeaaaac62c03f1f4e1694124155dc55e026b04682b7b7d2e5074c57bd0f70066",
-      "encryptedSize": 190201
+      "encryptedSize": 190201,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-restaurant-frame00012",
@@ -403,7 +679,9 @@
       "size": 145660,
       "byteLength": 145660,
       "sha256": "89acdce44bb669751d963f9d18920931c254f13eaa7314e5195a72986fe6be45",
-      "encryptedSize": 194695
+      "encryptedSize": 194695,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-business-sports-frame00013",
@@ -417,7 +695,9 @@
       "size": 151694,
       "byteLength": 151694,
       "sha256": "ab3676ea557c0e9d9eaf662053e8e00990532ac2eba2f4cf3dacfcaa768f6e3b",
-      "encryptedSize": 202736
+      "encryptedSize": 202736,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-lottie",
@@ -441,7 +721,7 @@
       "originalFileName": "LottieEffect-1.jso",
       "originalPath": "frames/lottie/LottieEffect-1.jso",
       "encryptedFile": "frames/lottie/LottieEffect-1.jso.enc.json",
-      "thumbnail": "thumbnails/frames/lottie/LottieEffect-1.png",
+      "thumbnail": "thumbnails/frames/lottie/LottieEffect-1.webp",
       "size": 245054,
       "byteLength": 245054,
       "sha256": "f796fdf0250879a0b3ee0b33654eaa7d3d8f04732d088b59f2607c995c3ffcdb",
@@ -460,7 +740,7 @@
       "originalFileName": "LottieEffect-2.jso",
       "originalPath": "frames/lottie/LottieEffect-2.jso",
       "encryptedFile": "frames/lottie/LottieEffect-2.jso.enc.json",
-      "thumbnail": "thumbnails/frames/lottie/LottieEffect-2.png",
+      "thumbnail": "thumbnails/frames/lottie/LottieEffect-2.webp",
       "size": 211867,
       "byteLength": 211867,
       "sha256": "730dd131f569951a0f559195a66fad4954713239e18439aae7ff9237cc1ddab9",
@@ -497,7 +777,9 @@
       "size": 130086,
       "byteLength": 130086,
       "sha256": "49f15648457b3c0eb0f743a0a2efd40f689a8da96f7298c9e586ae795cff1c4f",
-      "encryptedSize": 173930
+      "encryptedSize": 173930,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-anniversary-frame00002",
@@ -511,7 +793,9 @@
       "size": 151858,
       "byteLength": 151858,
       "sha256": "1a663cd36b072891494ca905237637436960a9668474cba609aa02d762b22958",
-      "encryptedSize": 202960
+      "encryptedSize": 202960,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-anniversary-frame00003",
@@ -525,7 +809,9 @@
       "size": 154750,
       "byteLength": 154750,
       "sha256": "d368e78920bb018987b10fb888de641e9d0703a68ad7955e5fbd4b62e819ea05",
-      "encryptedSize": 206816
+      "encryptedSize": 206816,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-anniversary-frame00004",
@@ -539,7 +825,9 @@
       "size": 59280,
       "byteLength": 59280,
       "sha256": "551c3162bee226871057fcac4c17344304b955e482deda583f56458cc282c891",
-      "encryptedSize": 79520
+      "encryptedSize": 79520,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-anniversary-frame00005",
@@ -553,7 +841,9 @@
       "size": 199420,
       "byteLength": 199420,
       "sha256": "5b8f28737020b6f3e85c6a93153a606d7a1ef1e9d1b35ca22dfde0f1e856e921",
-      "encryptedSize": 266376
+      "encryptedSize": 266376,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-anniversary-frame00006",
@@ -567,7 +857,9 @@
       "size": 171032,
       "byteLength": 171032,
       "sha256": "6b337382d833fb44863a72fba7c0f23238d7f5fda6f910f948a046b977656308",
-      "encryptedSize": 228525
+      "encryptedSize": 228525,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-anniversary-frame00007",
@@ -581,7 +873,9 @@
       "size": 163394,
       "byteLength": 163394,
       "sha256": "65d570017842a27affa48e8b22b659d33f5601c9c5002f2af5609c340a7e176a",
-      "encryptedSize": 218341
+      "encryptedSize": 218341,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-anniversary-frame00008",
@@ -595,7 +889,9 @@
       "size": 131002,
       "byteLength": 131002,
       "sha256": "bddf45dc592a4f90b9179569b6f67891f83d8180143026e2234a6d68b6926a5b",
-      "encryptedSize": 175152
+      "encryptedSize": 175152,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-anniversary-frame00009",
@@ -609,7 +905,9 @@
       "size": 151498,
       "byteLength": 151498,
       "sha256": "3909180ef864ce598e00ff33605c57b923028e2e5870c3cf81a5487b101a0915",
-      "encryptedSize": 202480
+      "encryptedSize": 202480,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-anniversary-frame00010",
@@ -623,7 +921,9 @@
       "size": 213698,
       "byteLength": 213698,
       "sha256": "5266d5592556df2228aa0e42dcf49890de4b1dd92d42d4d7073f148927bb850c",
-      "encryptedSize": 285413
+      "encryptedSize": 285413,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-anniversary-frame00011",
@@ -637,7 +937,9 @@
       "size": 185332,
       "byteLength": 185332,
       "sha256": "a4e71d3b1e17d0951005a91a0fa5c499f831b83fa90c039dd9e9ff4baa2848cb",
-      "encryptedSize": 247592
+      "encryptedSize": 247592,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-birthday-frame00001",
@@ -651,7 +953,9 @@
       "size": 130304,
       "byteLength": 130304,
       "sha256": "c3257cfc7703e1eceb1c97a0c3de1f5a864eb68205e73f7942c1d2be99d0a9bc",
-      "encryptedSize": 174218
+      "encryptedSize": 174218,
+      "width": 941,
+      "height": 1672
     },
     {
       "id": "frames-personal-birthday-frame00002",
@@ -665,7 +969,9 @@
       "size": 227210,
       "byteLength": 227210,
       "sha256": "1d530df2699be4e487d44d9aeaba0e1aeee1dd93f729d5da78d8a06a41d832ad",
-      "encryptedSize": 303426
+      "encryptedSize": 303426,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-birthday-frame00003",
@@ -679,7 +985,9 @@
       "size": 289706,
       "byteLength": 289706,
       "sha256": "f0c73bd4f84a75b42adf84df33aff8cee864da3800f6a4383597ca858db2f798",
-      "encryptedSize": 386754
+      "encryptedSize": 386754,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-birthday-frame00004",
@@ -693,7 +1001,9 @@
       "size": 256080,
       "byteLength": 256080,
       "sha256": "b39a3a453ac64336d33fe4f8dd2c315f9a5f468d0d61334f1d72369db1a7a018",
-      "encryptedSize": 341919
+      "encryptedSize": 341919,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-birthday-frame00005",
@@ -707,7 +1017,9 @@
       "size": 231604,
       "byteLength": 231604,
       "sha256": "273436afcf331a10d12fbdef42bf97acd8f6ffbb0c2f3fc5e73c18d555bc5435",
-      "encryptedSize": 309285
+      "encryptedSize": 309285,
+      "width": 1537,
+      "height": 1920
     },
     {
       "id": "frames-personal-birthday-frame00007",
@@ -721,7 +1033,9 @@
       "size": 260944,
       "byteLength": 260944,
       "sha256": "643c8d49f898acf4aa2c49d4e7f3999338e9aefda455f7505ef4899d5549f830",
-      "encryptedSize": 348405
+      "encryptedSize": 348405,
+      "width": 1072,
+      "height": 1920
     },
     {
       "id": "frames-personal-birthday-frame00008",
@@ -735,7 +1049,9 @@
       "size": 271990,
       "byteLength": 271990,
       "sha256": "ebf70a7e5d4f512a72c91c822fb04c27e34e853d79b0b6a87c5883fca7701a71",
-      "encryptedSize": 363133
+      "encryptedSize": 363133,
+      "width": 1072,
+      "height": 1920
     },
     {
       "id": "frames-personal-birthday-frame00009",
@@ -749,7 +1065,9 @@
       "size": 254384,
       "byteLength": 254384,
       "sha256": "94978088ab802c83baac925679565d6961f9c2a185424c9c12d403e6e2779f79",
-      "encryptedSize": 339658
+      "encryptedSize": 339658,
+      "width": 1072,
+      "height": 1920
     },
     {
       "id": "frames-personal-birthday-frame00010",
@@ -763,7 +1081,9 @@
       "size": 101774,
       "byteLength": 101774,
       "sha256": "aec4e2a131bbbda37bc94d567ef3dfd1d933ed42164ee8410f902cc74350835c",
-      "encryptedSize": 136178
+      "encryptedSize": 136178,
+      "width": 1280,
+      "height": 1920
     },
     {
       "id": "frames-personal-birthday-frame00011",
@@ -777,7 +1097,9 @@
       "size": 83762,
       "byteLength": 83762,
       "sha256": "f8c6c47eb80dd8292dc17cec6c399d31e9db83b3d7dde48746b73a5405c8c009",
-      "encryptedSize": 112160
+      "encryptedSize": 112160,
+      "width": 1080,
+      "height": 1620
     },
     {
       "id": "frames-personal-birthday-frame00012",
@@ -791,7 +1113,9 @@
       "size": 135482,
       "byteLength": 135482,
       "sha256": "05c2d41b6047b185f7807dbadd81afad74d871a7cc662535d106df6209aad7b6",
-      "encryptedSize": 181122
+      "encryptedSize": 181122,
+      "width": 1280,
+      "height": 1920
     },
     {
       "id": "frames-personal-birthday-frame00014",
@@ -805,7 +1129,9 @@
       "size": 175328,
       "byteLength": 175328,
       "sha256": "24fdf0aa5c27b18932fe2489eb9cbb73a8b89f960a901d8b3638c01a0d075e73",
-      "encryptedSize": 234250
+      "encryptedSize": 234250,
+      "width": 1280,
+      "height": 1920
     },
     {
       "id": "frames-personal-birthday-frame00016",
@@ -819,7 +1145,9 @@
       "size": 102560,
       "byteLength": 102560,
       "sha256": "8084dd46ecb3700063b2885b40243abf9474851a3c40c35ac42e6ae0bb6d6192",
-      "encryptedSize": 137226
+      "encryptedSize": 137226,
+      "width": 1080,
+      "height": 1620
     },
     {
       "id": "frames-personal-birthday-frame00017",
@@ -833,7 +1161,9 @@
       "size": 135130,
       "byteLength": 135130,
       "sha256": "4eb83023d5d34ec847ca3f9b42ac5e6739a4003d0446baff309b505b9da5fdac",
-      "encryptedSize": 180653
+      "encryptedSize": 180653,
+      "width": 1280,
+      "height": 1920
     },
     {
       "id": "frames-personal-birthday-frame00018",
@@ -847,7 +1177,9 @@
       "size": 125912,
       "byteLength": 125912,
       "sha256": "75e234697f484a513402ba08e2224c71e725c3a2b55aaf5cb2e18014c5816f67",
-      "encryptedSize": 168362
+      "encryptedSize": 168362,
+      "width": 1080,
+      "height": 1919
     },
     {
       "id": "frames-personal-birthday-frame00019",
@@ -861,7 +1193,9 @@
       "size": 190714,
       "byteLength": 190714,
       "sha256": "86bd5045623c39bc343983b63d966394f47bdf21073d4b96bbbc56de299d70a2",
-      "encryptedSize": 254765
+      "encryptedSize": 254765,
+      "width": 1080,
+      "height": 1919
     },
     {
       "id": "frames-personal-birthday-frame00020",
@@ -875,7 +1209,9 @@
       "size": 129408,
       "byteLength": 129408,
       "sha256": "51b9a88ade037e4b318078b8dbea8aa8f61882b831b9423915efb6e28542386e",
-      "encryptedSize": 173023
+      "encryptedSize": 173023,
+      "width": 1080,
+      "height": 1919
     },
     {
       "id": "frames-personal-birthday-frame00021",
@@ -889,7 +1225,9 @@
       "size": 284938,
       "byteLength": 284938,
       "sha256": "0089de073b259a705077807335899b2c77b6307f16abec56c3fccbb615929134",
-      "encryptedSize": 380397
+      "encryptedSize": 380397,
+      "width": 1080,
+      "height": 1919
     },
     {
       "id": "frames-personal-birthday-frame00022",
@@ -903,7 +1241,9 @@
       "size": 99558,
       "byteLength": 99558,
       "sha256": "0b4c1271f2df0897fe202441d125c1638bb953e7d94bb8231c1c918c7b4bab18",
-      "encryptedSize": 133221
+      "encryptedSize": 133221,
+      "width": 1080,
+      "height": 1919
     },
     {
       "id": "frames-personal-birthday-frame00023",
@@ -917,7 +1257,9 @@
       "size": 290376,
       "byteLength": 290376,
       "sha256": "0fad45b0d0d6116817bb0b677ebbcb679073f4a747eab05a266de152cefe26be",
-      "encryptedSize": 387647
+      "encryptedSize": 387647,
+      "width": 1080,
+      "height": 1919
     },
     {
       "id": "frames-personal-birthday-frame00024",
@@ -931,7 +1273,9 @@
       "size": 274970,
       "byteLength": 274970,
       "sha256": "a0cebedcfeaf9508d07b71caea4917d0d3a4c02a990ded8c0cdb76e6ffd97f99",
-      "encryptedSize": 367106
+      "encryptedSize": 367106,
+      "width": 1080,
+      "height": 1919
     },
     {
       "id": "frames-personal-birthday-frame00025",
@@ -945,7 +1289,9 @@
       "size": 208454,
       "byteLength": 208454,
       "sha256": "8a769e5986b01f305e4b6445f593c8babaf15e060d69ed42518e5e587148298f",
-      "encryptedSize": 278418
+      "encryptedSize": 278418,
+      "width": 1080,
+      "height": 1919
     },
     {
       "id": "frames-personal-birthday-frame00026",
@@ -959,7 +1305,9 @@
       "size": 187872,
       "byteLength": 187872,
       "sha256": "89cbe7ee32538f92dc340b36576df99e5b8379d2f3614ca1ce4f6edfe9f2bf34",
-      "encryptedSize": 250975
+      "encryptedSize": 250975,
+      "width": 1080,
+      "height": 1919
     },
     {
       "id": "frames-personal-birthday-frame00027",
@@ -973,7 +1321,9 @@
       "size": 102600,
       "byteLength": 102600,
       "sha256": "52ecb746a33ed8a47cc7097a84d0f910d48854f74a82c1d0f28f686dd330a4d1",
-      "encryptedSize": 137279
+      "encryptedSize": 137279,
+      "width": 1080,
+      "height": 1919
     },
     {
       "id": "frames-personal-birthday-frame00028",
@@ -987,7 +1337,9 @@
       "size": 158804,
       "byteLength": 158804,
       "sha256": "1cba9e98f8236018e1303138ed8686683ac46da99da6d6a290a530df02a5562d",
-      "encryptedSize": 212218
+      "encryptedSize": 212218,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-family-frame00001",
@@ -1001,7 +1353,9 @@
       "size": 115082,
       "byteLength": 115082,
       "sha256": "fca9ade9b53db6a869d39278cadac5183ce3eba07254a583072b2c5dafe9036f",
-      "encryptedSize": 153920
+      "encryptedSize": 153920,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive",
@@ -1025,7 +1379,7 @@
       "originalFileName": "ashaadhi-ekadashi-1.json",
       "originalPath": "frames/personal/festive/ashadhi-ekadashi/ashaadhi-ekadashi-1.json",
       "encryptedFile": "frames/personal/festive/ashadhi-ekadashi/ashaadhi-ekadashi-1.json.enc.json",
-      "thumbnail": "thumbnails/frames/personal/festive/ashadhi-ekadashi/ashaadhi-ekadashi-1.png",
+      "thumbnail": "thumbnails/frames/personal/festive/ashadhi-ekadashi/ashaadhi-ekadashi-1.webp",
       "size": 566789,
       "byteLength": 566789,
       "sha256": "4a7eeea62a2d906ce1da107b37d8c1fff1023809ed0ae5ec87c541834aca0bdf",
@@ -1044,7 +1398,7 @@
       "originalFileName": "ashaadhi-ekadashi-2.json",
       "originalPath": "frames/personal/festive/ashadhi-ekadashi/ashaadhi-ekadashi-2.json",
       "encryptedFile": "frames/personal/festive/ashadhi-ekadashi/ashaadhi-ekadashi-2.json.enc.json",
-      "thumbnail": "thumbnails/frames/personal/festive/ashadhi-ekadashi/ashaadhi-ekadashi-2.png",
+      "thumbnail": "thumbnails/frames/personal/festive/ashadhi-ekadashi/ashaadhi-ekadashi-2.webp",
       "size": 365946,
       "byteLength": 365946,
       "sha256": "6318cd1a728af47b4d939afe6890c2f4c04114b42f6d7caf89b1a10417960539",
@@ -1063,7 +1417,7 @@
       "originalFileName": "ashaadhi-ekadashi-3.json",
       "originalPath": "frames/personal/festive/ashadhi-ekadashi/ashaadhi-ekadashi-3.json",
       "encryptedFile": "frames/personal/festive/ashadhi-ekadashi/ashaadhi-ekadashi-3.json.enc.json",
-      "thumbnail": "thumbnails/frames/personal/festive/ashadhi-ekadashi/ashaadhi-ekadashi-3.png",
+      "thumbnail": "thumbnails/frames/personal/festive/ashadhi-ekadashi/ashaadhi-ekadashi-3.webp",
       "size": 7221965,
       "byteLength": 7221965,
       "sha256": "83bb1e0534e2d61111edab8ad4be6f56c698da52998a8ce061c55185e8ebbf3d",
@@ -1082,7 +1436,7 @@
       "originalFileName": "ashaadhi-ekadashi-4.json",
       "originalPath": "frames/personal/festive/ashadhi-ekadashi/ashaadhi-ekadashi-4.json",
       "encryptedFile": "frames/personal/festive/ashadhi-ekadashi/ashaadhi-ekadashi-4.json.enc.json",
-      "thumbnail": "thumbnails/frames/personal/festive/ashadhi-ekadashi/ashaadhi-ekadashi-4.png",
+      "thumbnail": "thumbnails/frames/personal/festive/ashadhi-ekadashi/ashaadhi-ekadashi-4.webp",
       "size": 2095341,
       "byteLength": 2095341,
       "sha256": "7d20920c3cfc8e676ff3418e1ec84c432c93fb3ad82942c1ab5aa93d4959b91a",
@@ -1101,7 +1455,7 @@
       "originalFileName": "ashaadhi-ekadashi-5.json",
       "originalPath": "frames/personal/festive/ashadhi-ekadashi/ashaadhi-ekadashi-5.json",
       "encryptedFile": "frames/personal/festive/ashadhi-ekadashi/ashaadhi-ekadashi-5.json.enc.json",
-      "thumbnail": "thumbnails/frames/personal/festive/ashadhi-ekadashi/ashaadhi-ekadashi-5.png",
+      "thumbnail": "thumbnails/frames/personal/festive/ashadhi-ekadashi/ashaadhi-ekadashi-5.webp",
       "size": 703669,
       "byteLength": 703669,
       "sha256": "b1b2a2b77bbc1d4c81e70048fb4678024a432307605015b07c2ca4ede397de97",
@@ -1134,7 +1488,7 @@
       "originalFileName": "independence_day_1.json",
       "originalPath": "frames/personal/festive/independence-day/independence_day_1.json",
       "encryptedFile": "frames/personal/festive/independence-day/independence_day_1.json.enc.json",
-      "thumbnail": "thumbnails/frames/personal/festive/independence-day/independence_day_1.png",
+      "thumbnail": "thumbnails/frames/personal/festive/independence-day/independence_day_1.webp",
       "size": 96749,
       "byteLength": 96749,
       "sha256": "2d2832777aba98d58112b2b7203b333d3b1647b4e8c1d0aa9576cb6c1b51de3c",
@@ -1153,7 +1507,7 @@
       "originalFileName": "independence_day_2.json",
       "originalPath": "frames/personal/festive/independence-day/independence_day_2.json",
       "encryptedFile": "frames/personal/festive/independence-day/independence_day_2.json.enc.json",
-      "thumbnail": "thumbnails/frames/personal/festive/independence-day/independence_day_2.png",
+      "thumbnail": "thumbnails/frames/personal/festive/independence-day/independence_day_2.webp",
       "size": 306910,
       "byteLength": 306910,
       "sha256": "cd4af30cd2f24fdb5e824579e33155c2b586ef919f189c4bf55dc0999c89640b",
@@ -1172,7 +1526,7 @@
       "originalFileName": "independence_day_3.json",
       "originalPath": "frames/personal/festive/independence-day/independence_day_3.json",
       "encryptedFile": "frames/personal/festive/independence-day/independence_day_3.json.enc.json",
-      "thumbnail": "thumbnails/frames/personal/festive/independence-day/independence_day_3.png",
+      "thumbnail": "thumbnails/frames/personal/festive/independence-day/independence_day_3.webp",
       "size": 263302,
       "byteLength": 263302,
       "sha256": "a651ed4f936f38fa19f36affa86f7fb8b6de7fe8cca20fe432b48a4087f5d556",
@@ -1191,7 +1545,7 @@
       "originalFileName": "independence_day_4.json",
       "originalPath": "frames/personal/festive/independence-day/independence_day_4.json",
       "encryptedFile": "frames/personal/festive/independence-day/independence_day_4.json.enc.json",
-      "thumbnail": "thumbnails/frames/personal/festive/independence-day/independence_day_4.png",
+      "thumbnail": "thumbnails/frames/personal/festive/independence-day/independence_day_4.webp",
       "size": 276113,
       "byteLength": 276113,
       "sha256": "e521c1c7a74ab341fa0b0c0ca7b9024a836a7b9d00f52b6172ac0dbdcfe00e64",
@@ -1210,7 +1564,7 @@
       "originalFileName": "independence_day_5.json",
       "originalPath": "frames/personal/festive/independence-day/independence_day_5.json",
       "encryptedFile": "frames/personal/festive/independence-day/independence_day_5.json.enc.json",
-      "thumbnail": "thumbnails/frames/personal/festive/independence-day/independence_day_5.png",
+      "thumbnail": "thumbnails/frames/personal/festive/independence-day/independence_day_5.webp",
       "size": 651308,
       "byteLength": 651308,
       "sha256": "30165d08bd9d01e06112cf338311a31f70e96b7d26ab09be4cfd10f0da7fda7d",
@@ -1229,7 +1583,7 @@
       "originalFileName": "independence_day_6.json",
       "originalPath": "frames/personal/festive/independence-day/independence_day_6.json",
       "encryptedFile": "frames/personal/festive/independence-day/independence_day_6.json.enc.json",
-      "thumbnail": "thumbnails/frames/personal/festive/independence-day/independence_day_6.png",
+      "thumbnail": "thumbnails/frames/personal/festive/independence-day/independence_day_6.webp",
       "size": 253382,
       "byteLength": 253382,
       "sha256": "014e905d60584eeb2fcdb7de1d91a22cb2e25b67b492058e66e8b30510669b33",
@@ -1248,7 +1602,7 @@
       "originalFileName": "independence_day_7.json",
       "originalPath": "frames/personal/festive/independence-day/independence_day_7.json",
       "encryptedFile": "frames/personal/festive/independence-day/independence_day_7.json.enc.json",
-      "thumbnail": "thumbnails/frames/personal/festive/independence-day/independence_day_7.png",
+      "thumbnail": "thumbnails/frames/personal/festive/independence-day/independence_day_7.webp",
       "size": 371103,
       "byteLength": 371103,
       "sha256": "8d5b0ab21db580f7a57f0ac7c08c39541db393496c92afd71d29b996bf09caff",
@@ -1267,7 +1621,7 @@
       "originalFileName": "independence_day_8.json",
       "originalPath": "frames/personal/festive/independence-day/independence_day_8.json",
       "encryptedFile": "frames/personal/festive/independence-day/independence_day_8.json.enc.json",
-      "thumbnail": "thumbnails/frames/personal/festive/independence-day/independence_day_8.png",
+      "thumbnail": "thumbnails/frames/personal/festive/independence-day/independence_day_8.webp",
       "size": 21084,
       "byteLength": 21084,
       "sha256": "f4f0c77e024662d2583066d03b10ba833b9c01549544764ec444c7d45b3ec185",
@@ -1290,7 +1644,9 @@
       "size": 185140,
       "byteLength": 185140,
       "sha256": "018428a4f92fc27e9ac97b5eeb1246e4ff4edc59cd4ee607fafac4ce28f3838f",
-      "encryptedSize": 247348
+      "encryptedSize": 247348,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-makar-sankranti-frame00002",
@@ -1304,7 +1660,9 @@
       "size": 192300,
       "byteLength": 192300,
       "sha256": "f19ed5585384c1c5162541d0cefa7656ccc28e130b4b216aafb28b99de99befb",
-      "encryptedSize": 256894
+      "encryptedSize": 256894,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-makar-sankranti-frame00003",
@@ -1318,7 +1676,9 @@
       "size": 96206,
       "byteLength": 96206,
       "sha256": "f13fab1afe7391129af7e47eb7185c6fbe87276d497b0434d667b005783e2cca",
-      "encryptedSize": 128767
+      "encryptedSize": 128767,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-makar-sankranti-frame00004",
@@ -1332,7 +1692,9 @@
       "size": 169910,
       "byteLength": 169910,
       "sha256": "0d0349c5ba82e9f402168effb09782927dd44edd924c4a9bdcf543b2044a12d3",
-      "encryptedSize": 227041
+      "encryptedSize": 227041,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-makar-sankranti-frame00005",
@@ -1346,7 +1708,9 @@
       "size": 203748,
       "byteLength": 203748,
       "sha256": "5e7166c409cd1a6da9abf9c8c1a5685387f9b1bdc83135a2cdaa2857e0c3ab4b",
-      "encryptedSize": 272158
+      "encryptedSize": 272158,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-makar-sankranti-frame00006",
@@ -1360,7 +1724,9 @@
       "size": 281448,
       "byteLength": 281448,
       "sha256": "377e73c9042b7d700f763866786ddfff21bb1a3f3df39832a860ef375ce30553",
-      "encryptedSize": 375758
+      "encryptedSize": 375758,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-makar-sankranti-frame00007",
@@ -1374,7 +1740,9 @@
       "size": 132362,
       "byteLength": 132362,
       "sha256": "84e3ccc1fa81e2429412d0fef880c93c48f2fb665b3d460f921c7fb55a9a55ea",
-      "encryptedSize": 176977
+      "encryptedSize": 176977,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-makar-sankranti-frame00008",
@@ -1388,7 +1756,9 @@
       "size": 207992,
       "byteLength": 207992,
       "sha256": "1b879e0d40d61d2d94a9b0fbac6aaf60e8d8812ded866dca96156d0840e27e4b",
-      "encryptedSize": 277817
+      "encryptedSize": 277817,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-makar-sankranti-frame00009",
@@ -1402,7 +1772,9 @@
       "size": 60376,
       "byteLength": 60376,
       "sha256": "a5d2f391fe33230fb60ce4c7d79a048caed861e5cc6fb976fb87c973adff3a28",
-      "encryptedSize": 80994
+      "encryptedSize": 80994,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-makar-sankranti-frame00010",
@@ -1416,7 +1788,9 @@
       "size": 150876,
       "byteLength": 150876,
       "sha256": "7266232749ba978be312a5cb2817c9942c129eac3bb8cdcad7636a35e6a02129",
-      "encryptedSize": 201662
+      "encryptedSize": 201662,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-vatpornima-frame00001",
@@ -1430,7 +1804,9 @@
       "size": 286856,
       "byteLength": 286856,
       "sha256": "0edfd3550ddc0197cfe8caaf54d0f39580ad8ddad25ca773db286a5f0617165b",
-      "encryptedSize": 382964
+      "encryptedSize": 382964,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-vatpornima-frame00002",
@@ -1444,7 +1820,9 @@
       "size": 230394,
       "byteLength": 230394,
       "sha256": "71ab940da399e6008fb4ece23c5a2146886edfec940cfc4a0f9044f18c6bc5d5",
-      "encryptedSize": 307681
+      "encryptedSize": 307681,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-vatpornima-frame00003",
@@ -1458,7 +1836,9 @@
       "size": 209050,
       "byteLength": 209050,
       "sha256": "8212a59564a289cb031dabfc78b798d46c63c5185d6c469979f31e557d964e52",
-      "encryptedSize": 279223
+      "encryptedSize": 279223,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-vatpornima-frame00004",
@@ -1472,7 +1852,9 @@
       "size": 133280,
       "byteLength": 133280,
       "sha256": "8b55d496bdfe76bb427bf0fc942cb9221e5603f83003f687658115a96eac8e76",
-      "encryptedSize": 178196
+      "encryptedSize": 178196,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-vatpornima-frame00005",
@@ -1486,7 +1868,9 @@
       "size": 352826,
       "byteLength": 352826,
       "sha256": "e59f1e64841eb77b2090f0fb9cc6b5c77cd4a59ad860e57a03a01f0f6f4e7cc7",
-      "encryptedSize": 470924
+      "encryptedSize": 470924,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-vatpornima-frame00006",
@@ -1500,7 +1884,9 @@
       "size": 235058,
       "byteLength": 235058,
       "sha256": "458f76ed39f29e8e4ff4c3faae4e978ce358e92ec9a1920608caf25f93fb3e2d",
-      "encryptedSize": 313900
+      "encryptedSize": 313900,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-vatpornima-frame00007",
@@ -1514,7 +1900,9 @@
       "size": 314020,
       "byteLength": 314020,
       "sha256": "e1b17be987ff96dcd9122e6fbf7e562be4066349d5e81a9ecc589955b3d8739d",
-      "encryptedSize": 419183
+      "encryptedSize": 419183,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-vatpornima-frame00008",
@@ -1528,7 +1916,9 @@
       "size": 274854,
       "byteLength": 274854,
       "sha256": "72651295eec3644c8f126836329a508a64eb1570d61087bd9935f7b38c123535",
-      "encryptedSize": 366961
+      "encryptedSize": 366961,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-vatpornima-frame00009",
@@ -1542,7 +1932,9 @@
       "size": 179290,
       "byteLength": 179290,
       "sha256": "769e7f3eeb3ae58e7add0eb19c8b24036f2e71b344daa47f65eca76c2bfb5fe2",
-      "encryptedSize": 239543
+      "encryptedSize": 239543,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-vatpornima-frame00010",
@@ -1556,7 +1948,9 @@
       "size": 284210,
       "byteLength": 284210,
       "sha256": "8a631771d5ab2557cfdc995482a2788ab84377ee2722416fee547e954b06a95f",
-      "encryptedSize": 379436
+      "encryptedSize": 379436,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-vatpornima-frame00011",
@@ -1570,7 +1964,9 @@
       "size": 247772,
       "byteLength": 247772,
       "sha256": "274a3fda2e73a20afe2753c1b4b3dd8b8881b08dd344eacbb74482cfcd8dd60e",
-      "encryptedSize": 330852
+      "encryptedSize": 330852,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-vatpornima-frame00012",
@@ -1584,7 +1980,9 @@
       "size": 267716,
       "byteLength": 267716,
       "sha256": "062d1533e36d5584ad473de192ab9771442395b36e3ae8f29d29ba48c19b6db0",
-      "encryptedSize": 357444
+      "encryptedSize": 357444,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-vatpornima-frame00013",
@@ -1598,7 +1996,9 @@
       "size": 330188,
       "byteLength": 330188,
       "sha256": "dd5423c3f35e0f087381cbc93cb7db2596b791a1207bbb4f7b8062f4981e8fe8",
-      "encryptedSize": 440740
+      "encryptedSize": 440740,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-vatpornima-frame00014",
@@ -1612,7 +2012,9 @@
       "size": 271042,
       "byteLength": 271042,
       "sha256": "a3f8988946dac02e9ea5d3763752e0ca1c5dd5c2e741a7851cc4762d8a3e18c9",
-      "encryptedSize": 361879
+      "encryptedSize": 361879,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-vatpornima-frame00015",
@@ -1626,7 +2028,9 @@
       "size": 329562,
       "byteLength": 329562,
       "sha256": "15da213b6752ddf197585f8969d2637f530a3427e15b69168ea7266706c754f3",
-      "encryptedSize": 439905
+      "encryptedSize": 439905,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-vatpornima-frame00016",
@@ -1640,7 +2044,9 @@
       "size": 274894,
       "byteLength": 274894,
       "sha256": "01ea4f1979168badd1c67191eacf189f18c3bb986608e1b489f4dedf5cbd75e8",
-      "encryptedSize": 367015
+      "encryptedSize": 367015,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-vatpornima-frame00017",
@@ -1654,7 +2060,9 @@
       "size": 252836,
       "byteLength": 252836,
       "sha256": "627b489ad1573af47c62fe11a7e83fb1b0b5a80790d789476104a45827e9eed9",
-      "encryptedSize": 337604
+      "encryptedSize": 337604,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-vatpornima-frame00018",
@@ -1668,7 +2076,9 @@
       "size": 284660,
       "byteLength": 284660,
       "sha256": "5d097de190c6825ad703fac72b36b93be1015b047bac27a2ae6393ac1fd82179",
-      "encryptedSize": 380036
+      "encryptedSize": 380036,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-festive-vatpornima-frame00019",
@@ -1682,7 +2092,9 @@
       "size": 284660,
       "byteLength": 284660,
       "sha256": "5d097de190c6825ad703fac72b36b93be1015b047bac27a2ae6393ac1fd82179",
-      "encryptedSize": 380036
+      "encryptedSize": 380036,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-graduation-frame00001",
@@ -1696,7 +2108,9 @@
       "size": 128328,
       "byteLength": 128328,
       "sha256": "1e463e7f04fd41c220556c530f1380ecb2bb86607e1172183b7936704db381db",
-      "encryptedSize": 171585
+      "encryptedSize": 171585,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-graduation-frame00002",
@@ -1710,7 +2124,9 @@
       "size": 115930,
       "byteLength": 115930,
       "sha256": "e2a9bbd2e2c93fab6d7beef9ad97c296bedc72af93284238226792c5995a17c2",
-      "encryptedSize": 155055
+      "encryptedSize": 155055,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-graduation-frame00003",
@@ -1724,7 +2140,9 @@
       "size": 60458,
       "byteLength": 60458,
       "sha256": "e7809767ca10525567e753592cc09b4bd52dde393bb90da223d73f9e27667dee",
-      "encryptedSize": 81090
+      "encryptedSize": 81090,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-graduation-frame00004",
@@ -1738,7 +2156,9 @@
       "size": 173396,
       "byteLength": 173396,
       "sha256": "5657c019906cf29e778ae4bec31048cf43708911603274f45c3fe29a238c6f8a",
-      "encryptedSize": 231676
+      "encryptedSize": 231676,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-graduation-frame00005",
@@ -1752,7 +2172,9 @@
       "size": 128470,
       "byteLength": 128470,
       "sha256": "0ef64ec5d79a55462afa5b17f56dd4cf3353d3b031e4c97438e2c6abac928316",
-      "encryptedSize": 171775
+      "encryptedSize": 171775,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-graduation-frame00006",
@@ -1766,7 +2188,9 @@
       "size": 184470,
       "byteLength": 184470,
       "sha256": "c0250f33a195e160d9b5bb36bb3ee1511f4d20bcf58aad1a948745e28534e649",
-      "encryptedSize": 246441
+      "encryptedSize": 246441,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-graduation-frame00007",
@@ -1780,7 +2204,9 @@
       "size": 164104,
       "byteLength": 164104,
       "sha256": "b30441432d12f5d010a526ac353c956ee1cb5fa9528fbc483d345c05674e692a",
-      "encryptedSize": 219287
+      "encryptedSize": 219287,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-graduation-frame00008",
@@ -1794,7 +2220,9 @@
       "size": 185198,
       "byteLength": 185198,
       "sha256": "11cf5d05cd0799ccf700ad96ea0d38b3d5acdb196117443e449a6b706f6a1062",
-      "encryptedSize": 247412
+      "encryptedSize": 247412,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-graduation-frame00009",
@@ -1808,7 +2236,9 @@
       "size": 182124,
       "byteLength": 182124,
       "sha256": "2097b1e67d421b32fd0a0eeccbd884483891fa9689325ec5eba66519702c0deb",
-      "encryptedSize": 243313
+      "encryptedSize": 243313,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-graduation-frame00010",
@@ -1822,7 +2252,9 @@
       "size": 190306,
       "byteLength": 190306,
       "sha256": "c76509307bc1c7b3a861c3bad2cfa646b530616122c159023c5f5ebc568095e4",
-      "encryptedSize": 254223
+      "encryptedSize": 254223,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-graduation-frame00011",
@@ -1836,7 +2268,9 @@
       "size": 82476,
       "byteLength": 82476,
       "sha256": "2bedcc0ab38df28ff6542dc54f1bdbc29e683bc3c168e17a90e85d2c4a248b27",
-      "encryptedSize": 110447
+      "encryptedSize": 110447,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-newborn-frame00001",
@@ -1850,7 +2284,9 @@
       "size": 89578,
       "byteLength": 89578,
       "sha256": "5ca16e46733f1f62780e90ead5b8aa9c4c7252cfe4fc561b2c100b59c7cea404",
-      "encryptedSize": 119914
+      "encryptedSize": 119914,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-travel-frame00001",
@@ -1864,7 +2300,9 @@
       "size": 139238,
       "byteLength": 139238,
       "sha256": "0e97c11f3b8bcd31fc69bd4179b367f0b8bbd2e55646fea55e8768e93450ed62",
-      "encryptedSize": 186128
+      "encryptedSize": 186128,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "frames-personal-wedding-frame00001",
@@ -1878,7 +2316,9 @@
       "size": 137208,
       "byteLength": 137208,
       "sha256": "48d9c347c3ddc9be940e58710a019b16a77d7f4420dc5aca57519adacf9583b4",
-      "encryptedSize": 183422
+      "encryptedSize": 183422,
+      "width": 1081,
+      "height": 1920
     },
     {
       "id": "lottie",
@@ -1902,7 +2342,7 @@
       "originalFileName": "animated-tiger.json",
       "originalPath": "lottie/animated-tiger.json",
       "encryptedFile": "lottie/animated-tiger.json.enc.json",
-      "thumbnail": "thumbnails/lottie/animated-tiger.png",
+      "thumbnail": "thumbnails/lottie/animated-tiger.webp",
       "size": 5674572,
       "byteLength": 5674572,
       "sha256": "faaa949630c7560b955d94cfc74c7cba5d5bb3e6896d9336afeaf958bc850d3f",
@@ -1921,7 +2361,7 @@
       "originalFileName": "bat.json",
       "originalPath": "lottie/bat.json",
       "encryptedFile": "lottie/bat.json.enc.json",
-      "thumbnail": "thumbnails/lottie/bat.png",
+      "thumbnail": "thumbnails/lottie/bat.webp",
       "size": 33394,
       "byteLength": 33394,
       "sha256": "374dcb4f46c6552d5c4b9e15ac93c5c52de354f17cf72418143ef6148f034645",
@@ -1940,7 +2380,7 @@
       "originalFileName": "bee.json",
       "originalPath": "lottie/bee.json",
       "encryptedFile": "lottie/bee.json.enc.json",
-      "thumbnail": "thumbnails/lottie/bee.png",
+      "thumbnail": "thumbnails/lottie/bee.webp",
       "size": 482250,
       "byteLength": 482250,
       "sha256": "eb91da9a30513fb9a7afedd719af35fb9f3f554d5c44e14c617b8941ba8ddb38",
@@ -1959,7 +2399,7 @@
       "originalFileName": "bird.json",
       "originalPath": "lottie/bird.json",
       "encryptedFile": "lottie/bird.json.enc.json",
-      "thumbnail": "thumbnails/lottie/bird.png",
+      "thumbnail": "thumbnails/lottie/bird.webp",
       "size": 141824,
       "byteLength": 141824,
       "sha256": "0a97c63589d8080ef4ee681ef05c088c2572eafc18306d2618445835bc3302c0",
@@ -1978,7 +2418,7 @@
       "originalFileName": "blowfish.json",
       "originalPath": "lottie/blowfish.json",
       "encryptedFile": "lottie/blowfish.json.enc.json",
-      "thumbnail": "thumbnails/lottie/blowfish.png",
+      "thumbnail": "thumbnails/lottie/blowfish.webp",
       "size": 124208,
       "byteLength": 124208,
       "sha256": "7c1f5234cc19fa4e9ca9164faea5868be1977e2ba1463046cab40a63fa31d808",
@@ -1997,7 +2437,7 @@
       "originalFileName": "chipmunk.json",
       "originalPath": "lottie/chipmunk.json",
       "encryptedFile": "lottie/chipmunk.json.enc.json",
-      "thumbnail": "thumbnails/lottie/chipmunk.png",
+      "thumbnail": "thumbnails/lottie/chipmunk.webp",
       "size": 144799,
       "byteLength": 144799,
       "sha256": "d9fe5deb2eaa643e627a7aafdb9224b3a855bd346fa46a5f5b8382761b1f045d",
@@ -2016,7 +2456,7 @@
       "originalFileName": "cockroach.json",
       "originalPath": "lottie/cockroach.json",
       "encryptedFile": "lottie/cockroach.json.enc.json",
-      "thumbnail": "thumbnails/lottie/cockroach.png",
+      "thumbnail": "thumbnails/lottie/cockroach.webp",
       "size": 82405,
       "byteLength": 82405,
       "sha256": "281b382a33e6b806cd6a445418c41f6455ad4642bb85fdc64b2b0996d100cf7b",
@@ -2035,7 +2475,7 @@
       "originalFileName": "crab.json",
       "originalPath": "lottie/crab.json",
       "encryptedFile": "lottie/crab.json.enc.json",
-      "thumbnail": "thumbnails/lottie/crab.png",
+      "thumbnail": "thumbnails/lottie/crab.webp",
       "size": 160764,
       "byteLength": 160764,
       "sha256": "1ff26c30d95bc8ad32082e00ad25ac0ee1bb3c8368189745a4fba87812caa18e",
@@ -2054,7 +2494,7 @@
       "originalFileName": "cute-cat.json",
       "originalPath": "lottie/cute-cat.json",
       "encryptedFile": "lottie/cute-cat.json.enc.json",
-      "thumbnail": "thumbnails/lottie/cute-cat.png",
+      "thumbnail": "thumbnails/lottie/cute-cat.webp",
       "size": 83465,
       "byteLength": 83465,
       "sha256": "4dc80822c4a314a032bf1f8fbda1296bafbe025f09f49d8d68d14d00f2a9ee07",
@@ -2073,7 +2513,7 @@
       "originalFileName": "dinosaur.json",
       "originalPath": "lottie/dinosaur.json",
       "encryptedFile": "lottie/dinosaur.json.enc.json",
-      "thumbnail": "thumbnails/lottie/dinosaur.png",
+      "thumbnail": "thumbnails/lottie/dinosaur.webp",
       "size": 238651,
       "byteLength": 238651,
       "sha256": "6a0ad3b25044155aa66bbcbf9d974943ed8c582b50226c0bf8d6ba9522716746",
@@ -2092,7 +2532,7 @@
       "originalFileName": "dog.json",
       "originalPath": "lottie/dog.json",
       "encryptedFile": "lottie/dog.json.enc.json",
-      "thumbnail": "thumbnails/lottie/dog.png",
+      "thumbnail": "thumbnails/lottie/dog.webp",
       "size": 98235,
       "byteLength": 98235,
       "sha256": "dc99a89fcb53e31670e47764004a1643c88b54d607a709083818310015476aea",
@@ -2111,7 +2551,7 @@
       "originalFileName": "dolphin.json",
       "originalPath": "lottie/dolphin.json",
       "encryptedFile": "lottie/dolphin.json.enc.json",
-      "thumbnail": "thumbnails/lottie/dolphin.png",
+      "thumbnail": "thumbnails/lottie/dolphin.webp",
       "size": 81544,
       "byteLength": 81544,
       "sha256": "e26ab5e62c229e498033214d0576f994b35bedcda0326388dc6f9452b6c07f39",
@@ -2130,7 +2570,7 @@
       "originalFileName": "dragon.json",
       "originalPath": "lottie/dragon.json",
       "encryptedFile": "lottie/dragon.json.enc.json",
-      "thumbnail": "thumbnails/lottie/dragon.png",
+      "thumbnail": "thumbnails/lottie/dragon.webp",
       "size": 258884,
       "byteLength": 258884,
       "sha256": "7323f9903aba8c4a59f2cb10cf592642b3faa486a4cf9e99cfd7feecba7932e7",
@@ -2149,7 +2589,7 @@
       "originalFileName": "fire.json",
       "originalPath": "lottie/fire.json",
       "encryptedFile": "lottie/fire.json.enc.json",
-      "thumbnail": "thumbnails/lottie/fire.png",
+      "thumbnail": "thumbnails/lottie/fire.webp",
       "size": 29358,
       "byteLength": 29358,
       "sha256": "96199d8e8fea7d90196b95b9a9e56b13af43e3817efe037bd9aa1e5215579838",
@@ -2168,7 +2608,7 @@
       "originalFileName": "globe-showing-americas.json",
       "originalPath": "lottie/globe-showing-americas.json",
       "encryptedFile": "lottie/globe-showing-americas.json.enc.json",
-      "thumbnail": "thumbnails/lottie/globe-showing-americas.png",
+      "thumbnail": "thumbnails/lottie/globe-showing-americas.webp",
       "size": 192486,
       "byteLength": 192486,
       "sha256": "3ca412dd737b6afa39fc04e89a54156a5fb42cc0192d0aec93b70093a62b5de7",
@@ -2187,7 +2627,7 @@
       "originalFileName": "jellyfish.json",
       "originalPath": "lottie/jellyfish.json",
       "encryptedFile": "lottie/jellyfish.json.enc.json",
-      "thumbnail": "thumbnails/lottie/jellyfish.png",
+      "thumbnail": "thumbnails/lottie/jellyfish.webp",
       "size": 97671,
       "byteLength": 97671,
       "sha256": "e7cb989ff19ea1d77a094eec7c3dd0f2da0e9b05b949fb9e6e5987ec63714bd0",
@@ -2206,7 +2646,7 @@
       "originalFileName": "lady-bug.json",
       "originalPath": "lottie/lady-bug.json",
       "encryptedFile": "lottie/lady-bug.json.enc.json",
-      "thumbnail": "thumbnails/lottie/lady-bug.png",
+      "thumbnail": "thumbnails/lottie/lady-bug.webp",
       "size": 158159,
       "byteLength": 158159,
       "sha256": "b8ebfe67608ccfd679626016e6d11df56b34de121b424cc9ba28e72c07d9af0b",
@@ -2225,7 +2665,7 @@
       "originalFileName": "lizard.json",
       "originalPath": "lottie/lizard.json",
       "encryptedFile": "lottie/lizard.json.enc.json",
-      "thumbnail": "thumbnails/lottie/lizard.png",
+      "thumbnail": "thumbnails/lottie/lizard.webp",
       "size": 104721,
       "byteLength": 104721,
       "sha256": "708694fdfa104170d7f6986a38e33f074c37b4201633827b359d65276a4604f4",
@@ -2244,7 +2684,7 @@
       "originalFileName": "lobster.json",
       "originalPath": "lottie/lobster.json",
       "encryptedFile": "lottie/lobster.json.enc.json",
-      "thumbnail": "thumbnails/lottie/lobster.png",
+      "thumbnail": "thumbnails/lottie/lobster.webp",
       "size": 116289,
       "byteLength": 116289,
       "sha256": "761e3feb8b4c52ae62e99b5c40bde2a15133d6d52330139e364c810bfa31ffe4",
@@ -2263,7 +2703,7 @@
       "originalFileName": "rabbit.json",
       "originalPath": "lottie/rabbit.json",
       "encryptedFile": "lottie/rabbit.json.enc.json",
-      "thumbnail": "thumbnails/lottie/rabbit.png",
+      "thumbnail": "thumbnails/lottie/rabbit.webp",
       "size": 81000,
       "byteLength": 81000,
       "sha256": "9bd44687bc7c0a98a1557f1d725a30771197c99bc0649a9724e3f7348d6463db",
@@ -2282,7 +2722,7 @@
       "originalFileName": "rat.json",
       "originalPath": "lottie/rat.json",
       "encryptedFile": "lottie/rat.json.enc.json",
-      "thumbnail": "thumbnails/lottie/rat.png",
+      "thumbnail": "thumbnails/lottie/rat.webp",
       "size": 124290,
       "byteLength": 124290,
       "sha256": "be2bdad12da32192529863db3d719a0a2ba9b6404e47b5953c339e4a74a926dd",
@@ -2301,7 +2741,7 @@
       "originalFileName": "rocket-moving.json",
       "originalPath": "lottie/rocket-moving.json",
       "encryptedFile": "lottie/rocket-moving.json.enc.json",
-      "thumbnail": "thumbnails/lottie/rocket-moving.png",
+      "thumbnail": "thumbnails/lottie/rocket-moving.webp",
       "size": 126679,
       "byteLength": 126679,
       "sha256": "d37eaec65bb20c3ec31e2bfd5851f485701bb92bd6e001e5e3bf221791aa3b6a",
@@ -2320,7 +2760,7 @@
       "originalFileName": "rocket.json",
       "originalPath": "lottie/rocket.json",
       "encryptedFile": "lottie/rocket.json.enc.json",
-      "thumbnail": "thumbnails/lottie/rocket.png",
+      "thumbnail": "thumbnails/lottie/rocket.webp",
       "size": 81575,
       "byteLength": 81575,
       "sha256": "2b6daf24cee4de340073838a7d97d07c097f2d3919b676d0e4e5fed8a2f23453",
@@ -2339,7 +2779,7 @@
       "originalFileName": "rooster.json",
       "originalPath": "lottie/rooster.json",
       "encryptedFile": "lottie/rooster.json.enc.json",
-      "thumbnail": "thumbnails/lottie/rooster.png",
+      "thumbnail": "thumbnails/lottie/rooster.webp",
       "size": 88968,
       "byteLength": 88968,
       "sha256": "74a61914556b47ffa5c798527a913143a8498411f6532e2545ee0be8d442240c",
@@ -2358,7 +2798,7 @@
       "originalFileName": "shark.json",
       "originalPath": "lottie/shark.json",
       "encryptedFile": "lottie/shark.json.enc.json",
-      "thumbnail": "thumbnails/lottie/shark.png",
+      "thumbnail": "thumbnails/lottie/shark.webp",
       "size": 118243,
       "byteLength": 118243,
       "sha256": "842c2d7435e469e85708e37d2c7bf241990d3e55c57560d4b89217c12c22f874",
@@ -2377,7 +2817,7 @@
       "originalFileName": "trophy.json",
       "originalPath": "lottie/trophy.json",
       "encryptedFile": "lottie/trophy.json.enc.json",
-      "thumbnail": "thumbnails/lottie/trophy.png",
+      "thumbnail": "thumbnails/lottie/trophy.webp",
       "size": 79233,
       "byteLength": 79233,
       "sha256": "3270e7b560f539cb92b454e9e1405ccd21d2210f212d96384a7aef488ab09765",
@@ -2396,7 +2836,7 @@
       "originalFileName": "turtle.json",
       "originalPath": "lottie/turtle.json",
       "encryptedFile": "lottie/turtle.json.enc.json",
-      "thumbnail": "thumbnails/lottie/turtle.png",
+      "thumbnail": "thumbnails/lottie/turtle.webp",
       "size": 55887,
       "byteLength": 55887,
       "sha256": "a441cf9a8363c30ba82df8209b9d1b8f0a4a772fceac0b17bc181f09d966ef7d",
@@ -2415,11 +2855,13 @@
       "originalFileName": "arch-mask.png",
       "originalPath": "masks/arch-mask.png",
       "encryptedFile": "masks/arch-mask.png.enc.json",
-      "thumbnail": "thumbnails/masks/arch-mask.png",
+      "thumbnail": "thumbnails/masks/arch-mask.webp",
       "size": 67637,
       "byteLength": 67637,
       "sha256": "8e535cd5de534239752aada57fe7359b4d918f9fcc30a05273aa5410c18c5a02",
-      "encryptedSize": 90636
+      "encryptedSize": 90636,
+      "width": 1254,
+      "height": 1254
     },
     {
       "id": "masks-circle-frame-mask",
@@ -2429,11 +2871,13 @@
       "originalFileName": "circle-frame-mask.png",
       "originalPath": "masks/circle-frame-mask.png",
       "encryptedFile": "masks/circle-frame-mask.png.enc.json",
-      "thumbnail": "thumbnails/masks/circle-frame-mask.png",
+      "thumbnail": "thumbnails/masks/circle-frame-mask.webp",
       "size": 464245,
       "byteLength": 464245,
       "sha256": "8ecd3e0668d6f853907a97c20999ae01fe7d3256157ca9d37fbe427b5b947b24",
-      "encryptedSize": 619465
+      "encryptedSize": 619465,
+      "width": 1254,
+      "height": 1254
     },
     {
       "id": "masks-circle-mask",
@@ -2443,11 +2887,13 @@
       "originalFileName": "circle-mask.png",
       "originalPath": "masks/circle-mask.png",
       "encryptedFile": "masks/circle-mask.png.enc.json",
-      "thumbnail": "thumbnails/masks/circle-mask.png",
+      "thumbnail": "thumbnails/masks/circle-mask.webp",
       "size": 464245,
       "byteLength": 464245,
       "sha256": "8ecd3e0668d6f853907a97c20999ae01fe7d3256157ca9d37fbe427b5b947b24",
-      "encryptedSize": 619453
+      "encryptedSize": 619453,
+      "width": 1254,
+      "height": 1254
     },
     {
       "id": "masks-cloud-mask",
@@ -2457,11 +2903,13 @@
       "originalFileName": "cloud-mask.png",
       "originalPath": "masks/cloud-mask.png",
       "encryptedFile": "masks/cloud-mask.png.enc.json",
-      "thumbnail": "thumbnails/masks/cloud-mask.png",
+      "thumbnail": "thumbnails/masks/cloud-mask.webp",
       "size": 731919,
       "byteLength": 731919,
       "sha256": "0005d934bfbcd2ec9be74d9719c7bf403d4c7abe801ba689fb977e20d67b4974",
-      "encryptedSize": 976349
+      "encryptedSize": 976349,
+      "width": 1254,
+      "height": 1254
     },
     {
       "id": "masks-diamond-mask",
@@ -2471,11 +2919,13 @@
       "originalFileName": "diamond-mask.png",
       "originalPath": "masks/diamond-mask.png",
       "encryptedFile": "masks/diamond-mask.png.enc.json",
-      "thumbnail": "thumbnails/masks/diamond-mask.png",
+      "thumbnail": "thumbnails/masks/diamond-mask.webp",
       "size": 467779,
       "byteLength": 467779,
       "sha256": "4535d20b32f10337eaec9a569e7567cfd2b247ab6f860b42db64bd838df309a1",
-      "encryptedSize": 624167
+      "encryptedSize": 624167,
+      "width": 1254,
+      "height": 1254
     },
     {
       "id": "masks-flower-mask",
@@ -2485,11 +2935,13 @@
       "originalFileName": "flower-mask.png",
       "originalPath": "masks/flower-mask.png",
       "encryptedFile": "masks/flower-mask.png.enc.json",
-      "thumbnail": "thumbnails/masks/flower-mask.png",
+      "thumbnail": "thumbnails/masks/flower-mask.webp",
       "size": 549184,
       "byteLength": 549184,
       "sha256": "71901f60120d2cece7aa640b5e0efea73349e0270b851072070dff460b5b01c6",
-      "encryptedSize": 732705
+      "encryptedSize": 732705,
+      "width": 1254,
+      "height": 1254
     },
     {
       "id": "masks-heart-mask",
@@ -2499,11 +2951,13 @@
       "originalFileName": "heart-mask.png",
       "originalPath": "masks/heart-mask.png",
       "encryptedFile": "masks/heart-mask.png.enc.json",
-      "thumbnail": "thumbnails/masks/heart-mask.png",
+      "thumbnail": "thumbnails/masks/heart-mask.webp",
       "size": 738434,
       "byteLength": 738434,
       "sha256": "afd0b4e03d44ea77b3602520b9190d281ba965c9f5590aad8a9c38dc64d573bc",
-      "encryptedSize": 985036
+      "encryptedSize": 985036,
+      "width": 1254,
+      "height": 1254
     },
     {
       "id": "masks-rectangle-mask",
@@ -2513,11 +2967,13 @@
       "originalFileName": "rectangle-mask.png",
       "originalPath": "masks/rectangle-mask.png",
       "encryptedFile": "masks/rectangle-mask.png.enc.json",
-      "thumbnail": "thumbnails/masks/rectangle-mask.png",
+      "thumbnail": "thumbnails/masks/rectangle-mask.webp",
       "size": 409972,
       "byteLength": 409972,
       "sha256": "8b770e0ce0c4854913ed942b4251cd3d2a9c0de90b6ee6fb6950514d70974563",
-      "encryptedSize": 547095
+      "encryptedSize": 547095,
+      "width": 1254,
+      "height": 1254
     },
     {
       "id": "masks-square-mask",
@@ -2527,11 +2983,13 @@
       "originalFileName": "square-mask.png",
       "originalPath": "masks/square-mask.png",
       "encryptedFile": "masks/square-mask.png.enc.json",
-      "thumbnail": "thumbnails/masks/square-mask.png",
+      "thumbnail": "thumbnails/masks/square-mask.webp",
       "size": 382129,
       "byteLength": 382129,
       "sha256": "c1232e8e0e9dd0495ba4add19fe9d6599117743bb8dd08f65b659c2167816df7",
-      "encryptedSize": 509965
+      "encryptedSize": 509965,
+      "width": 1254,
+      "height": 1254
     },
     {
       "id": "masks-star-mask",
@@ -2541,11 +2999,13 @@
       "originalFileName": "star-mask.png",
       "originalPath": "masks/star-mask.png",
       "encryptedFile": "masks/star-mask.png.enc.json",
-      "thumbnail": "thumbnails/masks/star-mask.png",
+      "thumbnail": "thumbnails/masks/star-mask.webp",
       "size": 476120,
       "byteLength": 476120,
       "sha256": "36883673cd9a5c5043a4135c31926d938492a6bb0c4649f291f9e4d21b5ec376",
-      "encryptedSize": 635282
+      "encryptedSize": 635282,
+      "width": 1254,
+      "height": 1254
     },
     {
       "id": "music",
@@ -2877,11 +3337,13 @@
       "originalFileName": "sticker00001.png",
       "originalPath": "stickers/vatpornima/sticker00001.png",
       "encryptedFile": "stickers/vatpornima/sticker00001.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00001.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00001.webp",
       "size": 166779,
       "byteLength": 166779,
       "sha256": "229b4a299664bc88592d80b3fc437ee91d085f97924509bb2a5e61f9687dc1f3",
-      "encryptedSize": 222847
+      "encryptedSize": 222847,
+      "width": 296,
+      "height": 324
     },
     {
       "id": "stickers-vatpornima-sticker00002",
@@ -2891,11 +3353,13 @@
       "originalFileName": "sticker00002.png",
       "originalPath": "stickers/vatpornima/sticker00002.png",
       "encryptedFile": "stickers/vatpornima/sticker00002.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00002.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00002.webp",
       "size": 119761,
       "byteLength": 119761,
       "sha256": "2e0dc7f325ad50211cc5b5ec9c4401660532695f788578f9b239d12ab4de91d0",
-      "encryptedSize": 160157
+      "encryptedSize": 160157,
+      "width": 304,
+      "height": 324
     },
     {
       "id": "stickers-vatpornima-sticker00003",
@@ -2905,11 +3369,13 @@
       "originalFileName": "sticker00003.png",
       "originalPath": "stickers/vatpornima/sticker00003.png",
       "encryptedFile": "stickers/vatpornima/sticker00003.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00003.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00003.webp",
       "size": 126039,
       "byteLength": 126039,
       "sha256": "b8c4f2e9b492d5b05d3814cb6dacb697c87c7f41dd8bea110ef00662fcaaae59",
-      "encryptedSize": 168527
+      "encryptedSize": 168527,
+      "width": 296,
+      "height": 324
     },
     {
       "id": "stickers-vatpornima-sticker00004",
@@ -2919,11 +3385,13 @@
       "originalFileName": "sticker00004.png",
       "originalPath": "stickers/vatpornima/sticker00004.png",
       "encryptedFile": "stickers/vatpornima/sticker00004.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00004.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00004.webp",
       "size": 122188,
       "byteLength": 122188,
       "sha256": "46c69ad791e016938f938d726d2aab9e059b45bea00ffdf7bee93446c08e38b5",
-      "encryptedSize": 163393
+      "encryptedSize": 163393,
+      "width": 289,
+      "height": 324
     },
     {
       "id": "stickers-vatpornima-sticker00005",
@@ -2933,11 +3401,13 @@
       "originalFileName": "sticker00005.png",
       "originalPath": "stickers/vatpornima/sticker00005.png",
       "encryptedFile": "stickers/vatpornima/sticker00005.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00005.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00005.webp",
       "size": 99739,
       "byteLength": 99739,
       "sha256": "c7206580f122567d686eca1bf4fdea55b6271088f27fff46ee2efb34d482f283",
-      "encryptedSize": 133459
+      "encryptedSize": 133459,
+      "width": 300,
+      "height": 324
     },
     {
       "id": "stickers-vatpornima-sticker00006",
@@ -2947,11 +3417,13 @@
       "originalFileName": "sticker00006.png",
       "originalPath": "stickers/vatpornima/sticker00006.png",
       "encryptedFile": "stickers/vatpornima/sticker00006.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00006.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00006.webp",
       "size": 124026,
       "byteLength": 124026,
       "sha256": "b35a917bdd1eb2143b2b5107e5d8919277b632273dddddc0751afb98125ac38f",
-      "encryptedSize": 165843
+      "encryptedSize": 165843,
+      "width": 296,
+      "height": 332
     },
     {
       "id": "stickers-vatpornima-sticker00007",
@@ -2961,11 +3433,13 @@
       "originalFileName": "sticker00007.png",
       "originalPath": "stickers/vatpornima/sticker00007.png",
       "encryptedFile": "stickers/vatpornima/sticker00007.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00007.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00007.webp",
       "size": 161433,
       "byteLength": 161433,
       "sha256": "7cb58d6279f4ef96b43a270343bdd55b6e4fe684bc1b30ff3781a77d97bcfce4",
-      "encryptedSize": 215719
+      "encryptedSize": 215719,
+      "width": 304,
+      "height": 332
     },
     {
       "id": "stickers-vatpornima-sticker00008",
@@ -2975,11 +3449,13 @@
       "originalFileName": "sticker00008.png",
       "originalPath": "stickers/vatpornima/sticker00008.png",
       "encryptedFile": "stickers/vatpornima/sticker00008.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00008.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00008.webp",
       "size": 163769,
       "byteLength": 163769,
       "sha256": "3e4dae7ea7dd3599eb3eed0d631bf0f1e3c25cfc0a3e997d62d4bc1f1cdec604",
-      "encryptedSize": 218834
+      "encryptedSize": 218834,
+      "width": 296,
+      "height": 332
     },
     {
       "id": "stickers-vatpornima-sticker00009",
@@ -2989,11 +3465,13 @@
       "originalFileName": "sticker00009.png",
       "originalPath": "stickers/vatpornima/sticker00009.png",
       "encryptedFile": "stickers/vatpornima/sticker00009.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00009.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00009.webp",
       "size": 132920,
       "byteLength": 132920,
       "sha256": "2306530275fb773d9245fbb4ee9dae3cf67e9f355df4010ec62d539f03b7021e",
-      "encryptedSize": 177702
+      "encryptedSize": 177702,
+      "width": 289,
+      "height": 332
     },
     {
       "id": "stickers-vatpornima-sticker00010",
@@ -3003,11 +3481,13 @@
       "originalFileName": "sticker00010.png",
       "originalPath": "stickers/vatpornima/sticker00010.png",
       "encryptedFile": "stickers/vatpornima/sticker00010.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00010.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00010.webp",
       "size": 146603,
       "byteLength": 146603,
       "sha256": "b614ef879f0a113677dee9e8406d28b568dc787b8782c3cf8f88c1c29cf2604e",
-      "encryptedSize": 195946
+      "encryptedSize": 195946,
+      "width": 300,
+      "height": 332
     },
     {
       "id": "stickers-vatpornima-sticker00011",
@@ -3017,11 +3497,13 @@
       "originalFileName": "sticker00011.png",
       "originalPath": "stickers/vatpornima/sticker00011.png",
       "encryptedFile": "stickers/vatpornima/sticker00011.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00011.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00011.webp",
       "size": 144726,
       "byteLength": 144726,
       "sha256": "eed307d33de24ae0e2509c146b889c788b37a8cbbf9da5375c895b3c5137b7bd",
-      "encryptedSize": 193443
+      "encryptedSize": 193443,
+      "width": 296,
+      "height": 321
     },
     {
       "id": "stickers-vatpornima-sticker00012",
@@ -3031,11 +3513,13 @@
       "originalFileName": "sticker00012.png",
       "originalPath": "stickers/vatpornima/sticker00012.png",
       "encryptedFile": "stickers/vatpornima/sticker00012.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00012.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00012.webp",
       "size": 155776,
       "byteLength": 155776,
       "sha256": "799e19e0de0c8bd9e7dddc2adef148b231ece14493be4fc7587312f39e165081",
-      "encryptedSize": 208177
+      "encryptedSize": 208177,
+      "width": 304,
+      "height": 321
     },
     {
       "id": "stickers-vatpornima-sticker00013",
@@ -3045,11 +3529,13 @@
       "originalFileName": "sticker00013.png",
       "originalPath": "stickers/vatpornima/sticker00013.png",
       "encryptedFile": "stickers/vatpornima/sticker00013.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00013.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00013.webp",
       "size": 131691,
       "byteLength": 131691,
       "sha256": "9108276e32dd65fce00e0b4097a4cfe726a464fb6bbf558e53f8e50dbe4cd047",
-      "encryptedSize": 176063
+      "encryptedSize": 176063,
+      "width": 296,
+      "height": 321
     },
     {
       "id": "stickers-vatpornima-sticker00014",
@@ -3059,11 +3545,13 @@
       "originalFileName": "sticker00014.png",
       "originalPath": "stickers/vatpornima/sticker00014.png",
       "encryptedFile": "stickers/vatpornima/sticker00014.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00014.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00014.webp",
       "size": 117283,
       "byteLength": 117283,
       "sha256": "23dd5f3f498b991967d6803b23c5a220428f6420e6b434995fae0944a1bd8976",
-      "encryptedSize": 156853
+      "encryptedSize": 156853,
+      "width": 289,
+      "height": 321
     },
     {
       "id": "stickers-vatpornima-sticker00015",
@@ -3073,11 +3561,13 @@
       "originalFileName": "sticker00015.png",
       "originalPath": "stickers/vatpornima/sticker00015.png",
       "encryptedFile": "stickers/vatpornima/sticker00015.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00015.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00015.webp",
       "size": 74624,
       "byteLength": 74624,
       "sha256": "6661216890bd6d31764511500a0ef93949150b51935f0ee4b93f68256b2cae89",
-      "encryptedSize": 99972
+      "encryptedSize": 99972,
+      "width": 300,
+      "height": 321
     },
     {
       "id": "stickers-vatpornima-sticker00016",
@@ -3087,11 +3577,13 @@
       "originalFileName": "sticker00016.png",
       "originalPath": "stickers/vatpornima/sticker00016.png",
       "encryptedFile": "stickers/vatpornima/sticker00016.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00016.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00016.webp",
       "size": 195660,
       "byteLength": 195660,
       "sha256": "1cd826e5b77d586e88025080df11b5b0241d8ed7e665662cf782ce5419440583",
-      "encryptedSize": 261355
+      "encryptedSize": 261355,
+      "width": 400,
+      "height": 428
     },
     {
       "id": "stickers-vatpornima-sticker00017",
@@ -3101,11 +3593,13 @@
       "originalFileName": "sticker00017.png",
       "originalPath": "stickers/vatpornima/sticker00017.png",
       "encryptedFile": "stickers/vatpornima/sticker00017.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00017.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00017.webp",
       "size": 179914,
       "byteLength": 179914,
       "sha256": "cb0d6e4606de17ad0d96b4dea2f017efd23d42470609cc3a833cc98aa9cd9cff",
-      "encryptedSize": 240361
+      "encryptedSize": 240361,
+      "width": 447,
+      "height": 428
     },
     {
       "id": "stickers-vatpornima-sticker00018",
@@ -3115,11 +3609,13 @@
       "originalFileName": "sticker00018.png",
       "originalPath": "stickers/vatpornima/sticker00018.png",
       "encryptedFile": "stickers/vatpornima/sticker00018.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00018.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00018.webp",
       "size": 230021,
       "byteLength": 230021,
       "sha256": "7e708e0c5bef92563cd8a6cef57cb1fd0a8400207336cda6d37a4534387da3b5",
-      "encryptedSize": 307170
+      "encryptedSize": 307170,
+      "width": 405,
+      "height": 428
     },
     {
       "id": "stickers-vatpornima-sticker00019",
@@ -3129,11 +3625,13 @@
       "originalFileName": "sticker00019.png",
       "originalPath": "stickers/vatpornima/sticker00019.png",
       "encryptedFile": "stickers/vatpornima/sticker00019.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00019.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00019.webp",
       "size": 211264,
       "byteLength": 211264,
       "sha256": "2e8d656cf8f261ac54b8e32a15c87b95b3c616493df8e18324b1bfaca7c35d94",
-      "encryptedSize": 282161
+      "encryptedSize": 282161,
+      "width": 401,
+      "height": 418
     },
     {
       "id": "stickers-vatpornima-sticker00020",
@@ -3143,11 +3641,13 @@
       "originalFileName": "sticker00020.png",
       "originalPath": "stickers/vatpornima/sticker00020.png",
       "encryptedFile": "stickers/vatpornima/sticker00020.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00020.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00020.webp",
       "size": 97228,
       "byteLength": 97228,
       "sha256": "8577ab6dbed2329ef155f89bb5e287a0a7d7535c4f79d35ad1f4ab0b19891535",
-      "encryptedSize": 130111
+      "encryptedSize": 130111,
+      "width": 404,
+      "height": 418
     },
     {
       "id": "stickers-vatpornima-sticker00021",
@@ -3157,11 +3657,13 @@
       "originalFileName": "sticker00021.png",
       "originalPath": "stickers/vatpornima/sticker00021.png",
       "encryptedFile": "stickers/vatpornima/sticker00021.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00021.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00021.webp",
       "size": 193729,
       "byteLength": 193729,
       "sha256": "075cbf6020b0ef09d9f77d78347966935148bf9fe1a891e95e6e913cf0148842",
-      "encryptedSize": 258781
+      "encryptedSize": 258781,
+      "width": 444,
+      "height": 418
     },
     {
       "id": "stickers-vatpornima-sticker00022",
@@ -3171,11 +3673,13 @@
       "originalFileName": "sticker00022.png",
       "originalPath": "stickers/vatpornima/sticker00022.png",
       "encryptedFile": "stickers/vatpornima/sticker00022.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00022.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00022.webp",
       "size": 234977,
       "byteLength": 234977,
       "sha256": "31e3057b7b87438efd7b7b2f9e52571555529617fea1cdc0eaad553044dd0f69",
-      "encryptedSize": 313778
+      "encryptedSize": 313778,
+      "width": 401,
+      "height": 401
     },
     {
       "id": "stickers-vatpornima-sticker00023",
@@ -3185,11 +3689,13 @@
       "originalFileName": "sticker00023.png",
       "originalPath": "stickers/vatpornima/sticker00023.png",
       "encryptedFile": "stickers/vatpornima/sticker00023.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00023.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00023.webp",
       "size": 204155,
       "byteLength": 204155,
       "sha256": "037eefc7b2ac662104da3fea218b7d3fbe8064acd2cbe811cba160832714079c",
-      "encryptedSize": 272682
+      "encryptedSize": 272682,
+      "width": 404,
+      "height": 401
     },
     {
       "id": "stickers-vatpornima-sticker00024",
@@ -3199,11 +3705,13 @@
       "originalFileName": "sticker00024.png",
       "originalPath": "stickers/vatpornima/sticker00024.png",
       "encryptedFile": "stickers/vatpornima/sticker00024.png.enc.json",
-      "thumbnail": "thumbnails/stickers/vatpornima/sticker00024.png",
+      "thumbnail": "thumbnails/stickers/vatpornima/sticker00024.webp",
       "size": 122534,
       "byteLength": 122534,
       "sha256": "cb3e02cf43986162b1257e2b60f1b3bd9430ff6bf28b5ddf2939c2c302cd42ef",
-      "encryptedSize": 163854
+      "encryptedSize": 163854,
+      "width": 405,
+      "height": 401
     },
     {
       "id": "video-intro",
