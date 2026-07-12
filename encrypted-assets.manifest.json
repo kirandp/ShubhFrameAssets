@@ -1581,25 +1581,6 @@
       "outPoint": 888
     },
     {
-      "id": "frames-personal-festive-independence-day-independence-day-7",
-      "name": "independence_day_7",
-      "type": "lottie",
-      "mimeType": "application/json",
-      "originalFileName": "independence_day_7.json",
-      "originalPath": "frames/personal/festive/independence-day/independence_day_7.json",
-      "encryptedFile": "frames/personal/festive/independence-day/independence_day_7.json.enc.json",
-      "thumbnail": "thumbnails/frames/personal/festive/independence-day/independence_day_7.webp",
-      "size": 371103,
-      "byteLength": 371103,
-      "sha256": "8d5b0ab21db580f7a57f0ac7c08c39541db393496c92afd71d29b996bf09caff",
-      "encryptedSize": 495321,
-      "width": 1080,
-      "height": 1920,
-      "frameRate": 100,
-      "inPoint": 0,
-      "outPoint": 1200
-    },
-    {
       "id": "frames-personal-festive-makar-sankranti-frame00001",
       "name": "frame00001",
       "type": "image",
