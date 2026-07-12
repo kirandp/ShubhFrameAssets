@@ -1467,20 +1467,6 @@
       "outPoint": 325
     },
     {
-      "id": "frames-personal-festive-independence-day",
-      "name": ".DS_Store",
-      "type": "file",
-      "mimeType": "application/octet-stream",
-      "originalFileName": ".DS_Store",
-      "originalPath": "frames/personal/festive/independence-day/.DS_Store",
-      "encryptedFile": "frames/personal/festive/independence-day/.DS_Store.enc.json",
-      "thumbnail": null,
-      "size": 6148,
-      "byteLength": 6148,
-      "sha256": "5f117e4395ae2f2acfc8cb07da79d993e95b0469092c38f38722c28d54f647d5",
-      "encryptedSize": 8691
-    },
-    {
       "id": "frames-personal-festive-independence-day-independence-day-1",
       "name": "independence_day_1",
       "type": "lottie",
@@ -1612,25 +1598,6 @@
       "frameRate": 100,
       "inPoint": 0,
       "outPoint": 1200
-    },
-    {
-      "id": "frames-personal-festive-independence-day-independence-day-8",
-      "name": "independence_day_8",
-      "type": "lottie",
-      "mimeType": "application/json",
-      "originalFileName": "independence_day_8.json",
-      "originalPath": "frames/personal/festive/independence-day/independence_day_8.json",
-      "encryptedFile": "frames/personal/festive/independence-day/independence_day_8.json.enc.json",
-      "thumbnail": "thumbnails/frames/personal/festive/independence-day/independence_day_8.webp",
-      "size": 21084,
-      "byteLength": 21084,
-      "sha256": "f4f0c77e024662d2583066d03b10ba833b9c01549544764ec444c7d45b3ec185",
-      "encryptedSize": 28627,
-      "width": 1080,
-      "height": 1920,
-      "frameRate": 100,
-      "inPoint": 0,
-      "outPoint": 705
     },
     {
       "id": "frames-personal-festive-makar-sankranti-frame00001",
