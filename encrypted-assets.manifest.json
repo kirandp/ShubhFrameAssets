@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-07-09T16:17:55.344Z",
+  "generatedAt": "2026-07-19T03:52:11.236Z",
   "root": ".",
   "encryption": {
     "algorithm": "AES-256-GCM",
@@ -18,6 +18,7 @@
     "audio",
     "video",
     "effect",
+    "message",
     "json",
     "file"
   ],
@@ -238,34 +239,6 @@
           "svg-particles"
         ]
       }
-    },
-    {
-      "id": "frames",
-      "name": ".DS_Store",
-      "type": "file",
-      "mimeType": "application/octet-stream",
-      "originalFileName": ".DS_Store",
-      "originalPath": "frames/.DS_Store",
-      "encryptedFile": "frames/.DS_Store.enc.json",
-      "thumbnail": null,
-      "size": 14340,
-      "byteLength": 14340,
-      "sha256": "71d2fe952efe08e90021273990e126688be5f5d9680f2917c4d93d23f371a1c1",
-      "encryptedSize": 19581
-    },
-    {
-      "id": "frames-business",
-      "name": ".DS_Store",
-      "type": "file",
-      "mimeType": "application/octet-stream",
-      "originalFileName": ".DS_Store",
-      "originalPath": "frames/business/.DS_Store",
-      "encryptedFile": "frames/business/.DS_Store.enc.json",
-      "thumbnail": null,
-      "size": 8196,
-      "byteLength": 8196,
-      "sha256": "4fdc1e6b91dc1aacad369cad57ad80455aa490a2b7074c282fe06c104e2e2e7e",
-      "encryptedSize": 11396
     },
     {
       "id": "frames-business-automotive-frame00001",
@@ -700,20 +673,6 @@
       "height": 1672
     },
     {
-      "id": "frames-lottie",
-      "name": ".DS_Store",
-      "type": "file",
-      "mimeType": "application/octet-stream",
-      "originalFileName": ".DS_Store",
-      "originalPath": "frames/lottie/.DS_Store",
-      "encryptedFile": "frames/lottie/.DS_Store.enc.json",
-      "thumbnail": null,
-      "size": 6148,
-      "byteLength": 6148,
-      "sha256": "07729ddb9eddeafabcd1604218196c3c464e537463d317d53f301006aeddc85b",
-      "encryptedSize": 8664
-    },
-    {
       "id": "frames-lottie-lottieeffect-1",
       "name": "LottieEffect-1",
       "type": "lottie",
@@ -750,20 +709,6 @@
       "frameRate": 100,
       "inPoint": 0,
       "outPoint": 400
-    },
-    {
-      "id": "frames-personal",
-      "name": ".DS_Store",
-      "type": "file",
-      "mimeType": "application/octet-stream",
-      "originalFileName": ".DS_Store",
-      "originalPath": "frames/personal/.DS_Store",
-      "encryptedFile": "frames/personal/.DS_Store.enc.json",
-      "thumbnail": null,
-      "size": 10244,
-      "byteLength": 10244,
-      "sha256": "3b15f4e1aa30a9eeedb906c515817f412072fc01abd87f5fc3722ab2a0ebeec6",
-      "encryptedSize": 14129
     },
     {
       "id": "frames-personal-anniversary-frame00001",
@@ -1358,20 +1303,6 @@
       "height": 1920
     },
     {
-      "id": "frames-personal-festive",
-      "name": ".DS_Store",
-      "type": "file",
-      "mimeType": "application/octet-stream",
-      "originalFileName": ".DS_Store",
-      "originalPath": "frames/personal/festive/.DS_Store",
-      "encryptedFile": "frames/personal/festive/.DS_Store.enc.json",
-      "thumbnail": null,
-      "size": 10244,
-      "byteLength": 10244,
-      "sha256": "f1c0f7bb851cc1c0f79a7005d0e37acdba544ab6844cae541ee19e93b674d0ce",
-      "encryptedSize": 14137
-    },
-    {
       "id": "frames-personal-festive-ashadhi-ekadashi-ashaadhi-ekadashi-1",
       "name": "ashaadhi-ekadashi-1",
       "type": "lottie",
@@ -1465,20 +1396,6 @@
       "frameRate": 100,
       "inPoint": 0,
       "outPoint": 325
-    },
-    {
-      "id": "frames-personal-festive-independence-day",
-      "name": ".DS_Store",
-      "type": "file",
-      "mimeType": "application/octet-stream",
-      "originalFileName": ".DS_Store",
-      "originalPath": "frames/personal/festive/independence-day/.DS_Store",
-      "encryptedFile": "frames/personal/festive/independence-day/.DS_Store.enc.json",
-      "thumbnail": null,
-      "size": 6148,
-      "byteLength": 6148,
-      "sha256": "5f117e4395ae2f2acfc8cb07da79d993e95b0469092c38f38722c28d54f647d5",
-      "encryptedSize": 8691
     },
     {
       "id": "frames-personal-festive-independence-day-independence-day-1",
@@ -2321,20 +2238,6 @@
       "height": 1920
     },
     {
-      "id": "lottie",
-      "name": ".DS_Store",
-      "type": "file",
-      "mimeType": "application/octet-stream",
-      "originalFileName": ".DS_Store",
-      "originalPath": "lottie/.DS_Store",
-      "encryptedFile": "lottie/.DS_Store.enc.json",
-      "thumbnail": null,
-      "size": 6148,
-      "byteLength": 6148,
-      "sha256": "d65165279105ca6773180500688df4bdc69a2c7b771752f0a46ef120b7fd8ec3",
-      "encryptedSize": 8657
-    },
-    {
       "id": "lottie-animated-tiger",
       "name": "animated-tiger",
       "type": "lottie",
@@ -3008,18 +2911,82 @@
       "height": 1254
     },
     {
-      "id": "music",
-      "name": ".DS_Store",
-      "type": "file",
-      "mimeType": "application/octet-stream",
-      "originalFileName": ".DS_Store",
-      "originalPath": "music/.DS_Store",
-      "encryptedFile": "music/.DS_Store.enc.json",
+      "id": "message-english-personal-birthday",
+      "name": "birthday",
+      "type": "message",
+      "mimeType": "application/json",
+      "originalFileName": "birthday.json",
+      "originalPath": "message/english/personal/birthday.json",
+      "encryptedFile": "message/english/personal/birthday.json.enc.json",
       "thumbnail": null,
-      "size": 10244,
-      "byteLength": 10244,
-      "sha256": "877a5b645f30e2cd1b39000ec29f3e2dff7997fca18642109d5644fc685b85b5",
-      "encryptedSize": 14119
+      "size": 13947,
+      "byteLength": 13947,
+      "sha256": "f79c9584ad5a8480e6939dba02591b173f26089fa89ffcb45b0f33ef1285b082",
+      "encryptedSize": 19075,
+      "messageLanguage": "english",
+      "messageCategory": "personal",
+      "messageSubcategory": "birthday",
+      "messagePath": "english/personal/birthday.json",
+      "messageCount": 100,
+      "metadata": {
+        "messageLanguage": "english",
+        "messageCategory": "personal",
+        "messageSubcategory": "birthday",
+        "messagePath": "english/personal/birthday.json",
+        "messageCount": 100
+      }
+    },
+    {
+      "id": "message-hindi-personal-birthday",
+      "name": "birthday",
+      "type": "message",
+      "mimeType": "application/json",
+      "originalFileName": "birthday.json",
+      "originalPath": "message/hindi/personal/birthday.json",
+      "encryptedFile": "message/hindi/personal/birthday.json.enc.json",
+      "thumbnail": null,
+      "size": 28705,
+      "byteLength": 28705,
+      "sha256": "8045e35697b1a5f34475e4c681ac232b2f172e8b94f91aed3b2743dba6da25db",
+      "encryptedSize": 38751,
+      "messageLanguage": "hindi",
+      "messageCategory": "personal",
+      "messageSubcategory": "birthday",
+      "messagePath": "hindi/personal/birthday.json",
+      "messageCount": 100,
+      "metadata": {
+        "messageLanguage": "hindi",
+        "messageCategory": "personal",
+        "messageSubcategory": "birthday",
+        "messagePath": "hindi/personal/birthday.json",
+        "messageCount": 100
+      }
+    },
+    {
+      "id": "message-marathi-personal-birthday",
+      "name": "birthday",
+      "type": "message",
+      "mimeType": "application/json",
+      "originalFileName": "birthday.json",
+      "originalPath": "message/marathi/personal/birthday.json",
+      "encryptedFile": "message/marathi/personal/birthday.json.enc.json",
+      "thumbnail": null,
+      "size": 31987,
+      "byteLength": 31987,
+      "sha256": "91dbbac3d0fdad80f2d07d1528f2d9f12ab113e69a9edb47e5495bce6f157eda",
+      "encryptedSize": 43129,
+      "messageLanguage": "marathi",
+      "messageCategory": "personal",
+      "messageSubcategory": "birthday",
+      "messagePath": "marathi/personal/birthday.json",
+      "messageCount": 100,
+      "metadata": {
+        "messageLanguage": "marathi",
+        "messageCategory": "personal",
+        "messageSubcategory": "birthday",
+        "messagePath": "marathi/personal/birthday.json",
+        "messageCount": 100
+      }
     },
     {
       "id": "music-01-monk-turner-fascinoma-its-your-birthday-chosic-com",
