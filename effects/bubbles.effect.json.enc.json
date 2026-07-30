@@ -1,0 +1,16 @@
+{
+  "algorithm": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 150000,
+  "encoding": "base64url",
+  "salt": "ftCIt0Y0Md6wniva28o-BQ",
+  "iv": "UTc4HZrIbLj9mYn7",
+  "authTag": "-jO3YnvylB7cMAo27NepRQ",
+  "data": "c9dF07By-r-VL5OcWzpzO0o1_m7lG3I6CC1nrbO2LKZ5dWwd-WhIP3TiFh-l9J5Lqq9lu9XEPDtSZMjo4NI-2pljDI-kx4P2hkM3p9JvrECi-_vBR-I2HWlrcPnnYQ2lOEUo03z5QH6-as6Up6gx7xCe5HJo-Gmlcm-CB_Q2erCExKxZ-gZiVX4Xbx6neGfx-JEYk_O--j6PWitGeDDhy9bXd68QtCDTgGkXp41NflyGrOaZ2cBAVzAyYuzRfYliOroah4Ohx9UDsqkJjVOdGWhP5htu4pFuyVSY8n638u6FRy4r1nxzXzKSoiLk9M4PDsil7JyafIhuDh2BhTL6TRnV11NFWXAbtIbH2NS8zHnPQUMgRH2bjTBD5AOTqEq3QXk10i4Dv3mzyYbC6znRnNt9S_4I1Ahf0-5k7CU7EL9-W7hS6UZr2p7m2mw6H2GpiQJNVAYXCJICJsQwFOmC8e8CkGSzbPeKjnCYq_yaExbcqaQ3KlRp_58MkiMptdsxTI2nxV2BMwRK9BzgWy7AayyOrXN7CnwuO9K5CpEPVHh3q_L1vvF0nK-eEqo9GFD5hrhc4fYgIYkWmebuudYlcY1nHiAExYqTtdDQcgSZvlGIlhbh-Id0t8FxyKwbMSfiynNYjRIOpkhH3njVnNBOy3HGqtYkbdTRBHaWd7klLJssTDTTodsDlqWqznFceTzs5QgysKEbtjNTuuVwRSvYDbZoFE_VJ6wNzbk305YUDhi-9vAUWf9vMBIAD_RfMGZ_pbqItwqqs7k5pMrQsRxJOu7py7l3UdgSM3DFLAHLwoPLrc1Ei2YtxdaHtNTd7tDHEte8-Jx1p2GOGz3L1kSaVheoUKPZdzAw2Lkxed20A5RRcCQQf1kbxEHcGmAEBYj-CXDTq5jZYWrAWROJXWa8Zx29Jj_YM2sxNMbB1Gu1kbJ3htCCOi8OeargpfybnyUBqnUkLNQVYRyQdZz3RttAqdcJJp8asFORzZM1vILDx_LffDuhbpOZtOsPBD1jyY-b_D3oDknkuqKCUBU61KPbpWMuIrAfCuf4g95bavHWVrYDe6-inxzWRSA-I4lftgUKljrkWddfjvHVJNzRZImduF57TDhDLRQP7dZm5fTuZFyaluEOPafn4aCCEqN4Az86RFoTq5QkBWfUqvqqQe28uHCI9JoDETKDb6nWFg6TC8nVJP4Ye9_2hxkRAoFG8yFk",
+  "sha256": "878bb16c00be47a06511381d6904c22197a03619ea73fbf0ad1cd2dd06765fd9",
+  "originalFileName": "bubbles.effect.json",
+  "originalPath": "effects/bubbles.effect.json",
+  "mimeType": "application/json",
+  "size": 912,
+  "byteLength": 912
+}

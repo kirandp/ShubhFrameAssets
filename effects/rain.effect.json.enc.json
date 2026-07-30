@@ -1,0 +1,16 @@
+{
+  "algorithm": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 150000,
+  "encoding": "base64url",
+  "salt": "CBeQmkp8l-TIzvs4qKbkSQ",
+  "iv": "AxcLMJkEPwSfQh-f",
+  "authTag": "dFQdazKyT1m9pi1u7QbLhg",
+  "data": "ra1j46gNoIxjKD4lIoWwqAeuYreboifUmO2Rp_mLJCM68PYAh41St-QEU35YIMp3zZ6RVnz2utiepQT-FR-TSx_btSoF6uZIUAqYgj928jAD_LzGuESwsK5yloN0-jRp_U9B-0VzGucttAXnEMST1YMKXNIDA0IxV2ouCWQEH7pDa_JRZlNI5R0jyiUgx_t0frC13WOiimnwRVjA_-Iuy7WGGxSuucma3D2WSgjhfcaZjUCcIqlLvBOvsZVxLwGWf4wb-Stnv3Efz6mPlaB3Uw7RWCEKk76MBb0CuavLFk_gekTmv5iojjFrjzkkw6lPHdji6p9d8nY89prAQF8fy-cm3TgIH_soYTeG9kaVEOdQ2BW8t8bOp0kkyuPVVU1ciuuzIGtlJ4-0kuF1iFCmASeKLG7VxNlaBB-5uLR2WRTIBnaHMNUOaGddsS4NDn7X0XIaKYSB_fQv0CbrC87D14pKS3Spgd2uHLlv2ORzNnjaUBhj0jFtkSVxITWt0KXcQcCAY4eIio5fketASqK0c91W_9Etm6qsF_85PW5ow-Ft9BCGb1m_cBnMz1r-tYDt9uhz6Qv7L67yYYypF0WQNyX18ulMeKZEEjoZfOAqk478eNSC717PV1ftxmMrqCtzG9002DRAZMPHZDjvmuXpSf-kDuphZJNnRihLQXwdCcpD1lhLufjsZbWeZR38mZYNUYIjOVXz-XbBKA5VR-8Stqed9UR0puvito-W7OOJOXG9dUlhCy66rqLyubIR9w16_pilTz76Dx-fUxcSjd8s8ecwgaj31ZWy5q5K5GYSVe5v2LxzKqh_PCxJpwngd5VDDFut57vNYTfm6l45fgyMrLSG_8682zvQaMyMFD8nGvnX23eaxHd_7X0QrjQQNv_lwhPczl3RgpoWSqyeGWH0jriD-utMWinZYWnCAcyVo8TUYy6IjvECnzzZ6gbcSSWeRUgPHsAooKHSjDjtyn1V_s1eMLWN1lD42SAnB0Vs6KO0mt49BO0ubZuW_kMXYEmZ9FtLolwZVlGKXnTTJnmKLDtSfWndsXEji48i_ELO0WI8kwyiE_sJk6I6RF_CkrHja7EMhIHhtlA8hPz4ySjqJl6Okp8UtCNYvlLxWXDORj5dBO857Rdh_L-sXup5qp5p4Kc2MqEaXvZJ8RcUZFYF0WzvgVTgvd74oN7sdPhdoqr19ABNrRTBXJWWyr88dAO8XD65B8ccQbUZa1aHfZSgmalN",
+  "sha256": "6856ba85adea72595f2f857f75cc5de22d462f726cea492e491a40bfa7ffde18",
+  "originalFileName": "rain.effect.json",
+  "originalPath": "effects/rain.effect.json",
+  "mimeType": "application/json",
+  "size": 930,
+  "byteLength": 930
+}

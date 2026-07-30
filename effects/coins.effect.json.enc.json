@@ -1,0 +1,16 @@
+{
+  "algorithm": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 150000,
+  "encoding": "base64url",
+  "salt": "clDU7-DIto4cUjW54VE4yg",
+  "iv": "RwOCtNnRRmpP6WQP",
+  "authTag": "_GUijLtFZuA1zovGpXkHTQ",
+  "data": "IhF-6Y_EcUoCw4ApBXEM1C4m1mqYcgTMnmCPguDBQyexEzuCgX-rgX0_QEK2VS6PYwtvXLXne9yDAu4lLPjqKnPVXX4q5KuA8OFfFBj0ZeEo_z9dquvv8ZgQC8Y-6o8WFxEG2WjBZOe3Zsm54K9G0hU2f8mzEmJBXp36cTZDFSdsEVsBB5lc8MVrJCQIBIrhLUahISkvAHmCfbWB9SNX6EiGurXriD_8TRU4s1Lv6PYjKxfEBpYwcD-AoomFHHpDyLRzG78-dBSFbevNks_ZIIi2uc3zXdq4jwcPvr5txqd-r-XGhNwRextqoYuAGRnxO0I2t-F26OejC2QTX4fuNDtDemv1D-OdcmkaWdfjreEqsVFlqdeEQxSsSycgXkZAiSAHUfmusHNtszJjOnWXPJ5V8EpNU5X0mAqa6Rovc4nh8CD4FaeWgsPG2MZly8Y5rRpPjpjzpXXd6hQR9aDZpdSSB2kX8xgIzV-c_8eGE3q6Toq40jaqNMQO1xzIuANG6F8UB8oUlUmLz4mkUXydvKdNsOSMm3Bq6x4B65B1-h4Kak9vV6e_xq6TkUJbBdBm7-qd2vRoAkTnKLsapzy8GhXSfP8ttHukMVshxm3ONFvQhhZA7KYyklnvA_oxl-NbBaJYYafepob4L7jHOBABWAnq1q_19YgDIejZ9746xNAEyZwvF1RGLSXqqxRn2Um-jZd4OkhfM2iWRVybw3uKpoljvTe05yixFjq-S3hc3gR25OpOOvydb7SEFqxSo_DAIie9D1ktPO0UKOsh90xFPBzjHi805ZX7EDfEKbdi8I5QPntfTiFMAs_ezVl6VdjqWQ8ssEeCKqQ6mAtpUGrrFvFZpUvpStOir8KI85tyomC1uhejhHT82RCHoDpQ8xwmq2dNUdChSmueVeH08GB4zUwIE1tWNIrHCibZ8wOWvibr6TwxvXhmKm_fJpzTQnwdM1R-YpcRfs7t_UcpPhhKRmbGajcdCXVW8GBAWIZhBCPe1q8Mh67WOM9_I71B-K14r_uritLcaVo5cQscVNWsioAdohCK3IIGNfswd_NG5TP7iU5I2_1sseJY5hLFbqVWhsi4hbLiwC45-Xp7iw9RFAk6VCqeOUdF50wVFiL0G5pyPalkiF4qvkfYwJG4AwcqVfVCpAToExNYFLvGiTqQXf9AxiSDr2rbagtbQp0ar_GItA_f53rvM2D_hP9rSMKWEebeEre6itnwts9X-aD1Dqp4OZuDhRcy1EDsxos",
+  "sha256": "9e23be812ea718db2232024fe4abfe653f2878723ff46140157b6f1a24a3ded1",
+  "originalFileName": "coins.effect.json",
+  "originalPath": "effects/coins.effect.json",
+  "mimeType": "application/json",
+  "size": 941,
+  "byteLength": 941
+}

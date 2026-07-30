@@ -1,0 +1,16 @@
+{
+  "algorithm": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 150000,
+  "encoding": "base64url",
+  "salt": "tunawre32Q1odu9T-AEE4g",
+  "iv": "Mp_suTKFfr4IIdR8",
+  "authTag": "Xix8C3keHV1kq6_WCgpZoQ",
+  "data": "GgzutEBnj8q0bqEXAzgoiGboo4By1K5VF52XPE4G9r1xfwWOyOeRDkGRR-WdPswBTUmnLzpmxw_-bohvldjoEteawDaf2EnIiiWZMWFzVUD2wXujxxWTGv2HI3bzY9iLF2sjuUgEiejLxxBC65OzaCiSsbkP-R-2-tzadTxHobOJhKeZKas8r_4MUprxk-McB5Visphgste7VHoHmCYll-cu_ZaQ_dW5Ugs_lhqWU65jg9lWBWvbazQzP8HsPS58wwntVXPjmGehh122M7Wdyrfa6TtrdmF4zKBj9ubqnesF_0eWLsIE-ZzBU8jqis3azDQbz-GelvEhxnVUVzllxjNHQjj-KBcuap2HGjRxa1wAGXZitOMAVIIZw9ksFvYyAqbDbhX_MRFxrA4CPUYr12fnZwSm4Vyic9ZTBqKIiHEF4C92eXJqw4tc_IRl7tamBEoIATqK1e0HBEgfvA9EFT99bfjNP9m4Dg1HzlO6h8thGy5UDHYgRvTRiJkF7IpxqYajdgOcmC3nUmG7gFgy_mH73Vc80quK6BqPKkPKHAtO3ltbGD8reD4pdTkxfu23vI4MX75wn1Mm8rAiNzPQw6_FdAhr3zUD1iAEDgB4MgBn-XlH1XLHhIY_Ci5_bY2p_FNN4aT66wSn00eXY3duCbF7HyEQJeq8KUmnwXnskapbBlhmkXmgwbhjEzSzoM2ujAgxBM9pA_9-F0TAuyYiCZaLBHEj5KIB5LtCOy2qesH3D37ackpHymQEcg3v6oDvV86giOvGBgAkKfdgp1wVd8_ig2sy7kAv76pCHFOxqGkC72GZAOSKa4aYqaaH38npvJvtYcNLeqttmg1Gkr-ujybCxbYFJ-0JyMjR9t_jNZXvddLSBFlEAqumLFIiBhU1C32f1_etrwX_abtu0LF8Mw7mbyDCBG4p6ILFJEVKhGXUQSCfO_1ZPMrKea1QW3b9JC2pO5MLruFcxCknEr_UvIFizoBbeac7YDnW1I2SfMYcjIJSeO4AXSF57SsqxdLmrUc7IFg8pvxZxXi2GzfGCML-3STs2tVppNASc05uQBVbTPXlApNzn3dNiKdg-z9ILfj57_NJYAw6l1Iqs4AwUgJrVmXWqcZ8Ij1ignIJRdqNP4mMMuWnunKsgw",
+  "sha256": "c078eb64de69b156ae8a3ca33f229fad2c9fc7f618e253f670ed86aae6bce613",
+  "originalFileName": "lightning.effect.json",
+  "originalPath": "effects/lightning.effect.json",
+  "mimeType": "application/json",
+  "size": 859,
+  "byteLength": 859
+}

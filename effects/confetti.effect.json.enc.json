@@ -1,0 +1,16 @@
+{
+  "algorithm": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 150000,
+  "encoding": "base64url",
+  "salt": "xX81hiyXWBO-bww7pmTJ2Q",
+  "iv": "6-XnpWL-vetnK3PV",
+  "authTag": "9NmUgZUsfvvCpfm2-hmokA",
+  "data": "uSxfxNOzsuyZfcihiL931aZT24N82JXDMHQgkRpNJr--PWYqtqHcPA7d8deu_sFnJgV0M2V-tUknulOzZi346uoQxM73jm-CpzL3CzcClsvqEOv2ymRGEWSo2Ggukw_s-85UlKxn3-j7yW6FupuvFgkT6_wmBUWXeJQ7H4J_lvmZ6UdKrQeoQUWqtvQc2oG9cKvzT7Ku20QdwPvDaFDVglmoXNRT0lY4Ok0AWdpNqYYJBDmvOvskISFoGq4xOosDJDD4Ed_P1bSMEyGBdc1kKgC3B_opQFzrgxCQbv51YdGdLzB8fZvZEqNhyRtj79mcWKWsx32t5GDCoV6j-bRDlJCEdzh7kRv17kUtz9O3YWw-p8qTD06eh_HAM3Nzawh-lvB-CYOjYZ3_J8DaqZuhnuTBXJHScVxNlCNHAbkFqbeOJiSRtKEktaomqPG5D-x0A9-WjQJXSPZ8JWHCCinHE33z_ZgFhZuj8y7-f5QFcagOfqzHQvIhghJGwTI04Cw3ahRFiOlqNItuzltDTeKE7fOOuq-XPtQxD61y0qzsqFuUA_Z5Njc_3zNuJ9dFoHzBy__eSpsaRkGWgpvjrVNY7A21i4rLSSrRRlH3m4fyQch98qvnx0uH-OBLQjl_5cu4onzX-jn49j_YRywj2PmuSMPPaz_m2RT2-WHNERblpYybrUJUcd4zqzv0cfIx28Jce6YG9VWK9Sf--YvwvwsU2Z7O_VBzgCigR4vNrzBiyiye0BfWYe3ekfAxRCyve72ZG6wtWVyuY22RmM-AbwCTbaOlGVIu0oSjo5-8BiJ_oYQe3LEfT2qy2wjEFmDH-b8-3jw4eprre93VMfNsgtXt8j9oO__yDLAsgs1roP-DQif7HJLZSJENcy_Upvaw3UZMYd4d54XictraGtFSwqAyvqWHcKWdp8qK6ONFp_MtcZJCZycnPcWmGErVKyS96U5-v8Ow9ggzZUlkpSObLg--SD-13xubnJTBKUBys31gisst3PzRYm1xPOe9oBrLixeWB8f5nn6TgdGFrMXfJT5GD4r1InFl8-ZvAT7o49FHQm1vuFuAFaMQqsSQZoTLADWzcupLHIb8p3vMRTF4w9MRh7-cRQsx8upDichhwHcCoTVMxZ3U_8YD3CUiRS4o6SlOcmLxDSz2WB774BV9DR1A4rY3tflxVyzkdBlhEhVwaAgRgWAbCBPVn_wV8Ds0q0dKF2jogbRgL4YbRw7MC0dqVkcaY5NUVYlU93bE4SEC24_65K3Rke-MgsrvohhJ4bk",
+  "sha256": "ad3f9ef24647ea9776fbae0c1970b51bebde24ffecad03a379dcab3f6d097828",
+  "originalFileName": "confetti.effect.json",
+  "originalPath": "effects/confetti.effect.json",
+  "mimeType": "application/json",
+  "size": 959,
+  "byteLength": 959
+}

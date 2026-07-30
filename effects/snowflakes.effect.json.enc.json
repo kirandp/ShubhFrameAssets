@@ -1,0 +1,16 @@
+{
+  "algorithm": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 150000,
+  "encoding": "base64url",
+  "salt": "0T6wQFcHki7sFJ8y720WWg",
+  "iv": "tEKKPUf5422bIyti",
+  "authTag": "XHKPW01vFcv8QT1Ql44pLg",
+  "data": "PRR-RdepieLfBfjEffQL5SI2UohdGyAPlSHAxZyC2dhZx0ElBM0K-6inkXA06xkguqGdFo0ae-ux4yuuc-80-SKG6L8CvSvLvdcEVO99WH1qiowy3s4i4OAnx0Q9urtxy2a_WoOqOZBTT7NlmegHyd1Hl2b9Nk2imDy1LrLqD-xcIgJa8cWHJZn0YaeRTSzbYTUdD_bA6FI_KcJkE7-ReoZ28Gz1kxnl8sV9AruiOfC2kngBa8ymBJb3Wpd3Ueiy3EflPflvRkn-e2RufIx54IuSGdFuuHwA3u8Enhy7GQNrWe5n-zU78Rmbmcyv0uJYnIuMMfbfQZ7QMfzUYUljLw378fVZIXi3fLaeJdZ5mgHZZ3YVO_AzEwXlrBv3eQ5str34mPtnHYi-7qPvw1TnKsMeF-HKFnPvRN7NMfoWikqXvcKQxTFmQx3xJewBiy2g52hbieAD8i3HkoQbvVrA7UgKZOL8SZ_JU8f5F9SBHD7iBpJtZmNGr4l2Ej-HfdEcDoMAr-iUUcVIk5A0eA2Yjl2oZCO9p-Huj81MKNHPZtIqm9uwiniRuPanNa5pxE1npxy5xpIWmncp1zBX_3O8oXrsCDwBPFtyl7bm6XXaMNCTimdLEico5NKfPR7U6FMTcfUh7Xd7_U5Bq-yhFMM1RRHTpgtovfWf2RG0yXBGq6eWaLdv2mTtsJPZaVwBchaVyDxDB-KdLjYBbLh5BLNEJ9MbopLXGwaFzZylRdkZkPqhjxmwdYDWrX_Y5jwqHswCZbxU0jCloZFBOkxXNKnxE-UN94kyHRgrTa9vwNxhO8JqIN-HpX_rNxZYMO3r84R43Xf4jt2o5leRozTRycPsjsv5MwTA6uqxlnPaXxDqfh_dVezooQdGpGQvMccmHObLb3lJ9AcPPrwoKMstB_x2BctmLmi26E_gPRdXD9lQ2b3BIaZfUT9AOuOPogma2aB2aluRcBJDFq0uqwLaQ6xUfbf-hKh78t4gmNcVfb1JNygJAZYWSSt-DZIic_KkfppiHfwp6_6tlSDYw59jJzTWOBTwjROBBLJ_jeJ0dZGAKh9nYGzGFbNaMTBjtGDbCSDgcjSsQwptxCAVwYyb0eM-LE06utCO2u5Z2kLb_k8dWS_vdCEaaXFhWyc40MgfLIpY_Y9GySWKaTxSzikor_cQ8XgwycTfrkXKpaflEldFOGfCDpUtrFOWMrLE1Ki8PvHOgEwnE9UoxtpsBnpN4lZjWi6RKGE",
+  "sha256": "ab7f4810f6f7a88aca9752939af8bfc3d7fdb128b36aab76d89b499b49ecf178",
+  "originalFileName": "snowflakes.effect.json",
+  "originalPath": "effects/snowflakes.effect.json",
+  "mimeType": "application/json",
+  "size": 932,
+  "byteLength": 932
+}

@@ -1,0 +1,16 @@
+{
+  "algorithm": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 150000,
+  "encoding": "base64url",
+  "salt": "fedRUJXd3_NImNDa4ujOyw",
+  "iv": "ZfUlPQKIBtfv2L-5",
+  "authTag": "s37BF78Bvv0KaSMJw5Y1iw",
+  "data": "dQ9m7ujahDBqLQVsjm35IBvVyzskVqWvYYGkG6gLH5qZdoQK1_apKn26nzdVy7dNlRmbNb_qerm84yPorf_9tkLQZ-pvqotI94Wcewob4EzZ_mhkxaTIIeDp1u2JMXviw_ADqD4ANHJdPx5sqb2XMi1cufWOL9gM14JhCGu8ieI9nNAbTBNrtuVMQ8SIjNUga_rq3ea9qNr6fTYY5jBU9bYT-dzkPRJSPgFl7W3eQmYXOKWWNtelEE3BrXScYp8ZtGpB-T7oXXZ9ySQPNKEycJtqT2KvR52BEaYwxDkA2jIsRJs0zmJjOH6_8alAMWzjsNNEk9rBQHVG_x75GebsGOhZa7hZCRf7-cq55lwy_yG427vlM0vBMgzohAFwJoc_wY_piFQeeCdl5Jt9N9FIvKU9KmLc18BqfDgKh3bV0M7AWr-3sglRq-IdnU8B-yYnDCeK4VzwtoKjSJaC4jM8tMpHICspG3LVD2Zh8S8D1JsO0Ct_F8aFSDk3FwOetm_xEf6XtXw2482aGDgNNL6T7rk0tfhEO9EqFWxeEUVGwU1hsAv7tbP901TDMr_0vYreF2WjY34wjosSUYqMufAnQxNMRlZDLnhCbL25SAEJuvjKM7KXM_oDpn7PslKV2oL7YZkUJ3kjW6_H2MQ9C8KpXLtEnqrAnPsIIZ16Q0TxPEJCI5UhcYI9XwK2t-0Pq0hFVqFVRQ0yF19h26Gv7UhdQ4AAG5MxhJvQW9zASPL5FcUtesJB4YoUDU74fOsdWjq-joOdcUUatEkGEDHRNjtT_g4T6Y_PODb2zFH-AO-Df-qSVHo6d7kiwv3zSO9O7zRJZaaqAezkTfOkjHSH97sZGmjqS1NZWddtAu1WbsXkdQSXlkEkjsJckjl_XmDbYsIu7boZx-K0Gn1iVAzHh-CMTflWiofGI9oa6C2vDKZdAQbVh1dtfWuttSdgJQlY_82_CdcvuuLKPTmbptzVRTtAkI69Ix0JJWURcvjBffVO5pkJ2FdjYI91OV9rBoQwtyJpxR_2VucHMEuf4Izhnux2XkSsxnuAj6xkvAPo6pDwf-fkoVSNxeZB6sW8xpdL5ICVh1Dy6ti_DQABIOClTkpqWWUn9F1NE-ji43Y9qNH6YjQxjUqad-eDdjoOloq3vyNO32h4IheW5pQc2K8TLjyTBHW2HEWAfybfphWkdO-vyV4ognFXOXJnNhJtWv5Rj1XgtPLic92EdP-WtqTBONSkj1nRr1mZH4ivpVm6mI9YfyZYj204D4dp_hsJzsrwMe2NsFa34F3BAf2bpG2TtG6-Ns_mmLpniiBgkPUbR18nmx3uRdO4nBUVHXVggiIMJvAjkAQD8BPUVzKFHg",
+  "sha256": "f9ce4ab8f2aeaa641c82eabb14f6828e97d92adf040bc5477ba9231f2ff6be92",
+  "originalFileName": "musicalNotes.effect.json",
+  "originalPath": "effects/musicalNotes.effect.json",
+  "mimeType": "application/json",
+  "size": 1018,
+  "byteLength": 1018
+}

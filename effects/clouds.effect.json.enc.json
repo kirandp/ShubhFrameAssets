@@ -1,0 +1,16 @@
+{
+  "algorithm": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 150000,
+  "encoding": "base64url",
+  "salt": "p1ZMTvota-e5Y2kzCTu6hw",
+  "iv": "jQEVyjqbGRhguux7",
+  "authTag": "i8DW-O7WyiZmEocdAbjRAg",
+  "data": "68CzasnhudXrBDv5bpylHvLuq8H4AztLTrAlfENht6p7InV1ROhoQ4bbeCFHMHKgiOZLLEuW8vVIz2Boc0pXppKGoyjjm9kxreeAKGN_hC4Xf87OtCipDsjE2w8lsPHRV3wH9iA-S0PZSY7jwmgm9I4_6B_1fn4C0zhMbPaNVmxNseiMawBA0mDGFJvi2ONwP4BxG7xnnqaI1OxG9qR5eyhXYJgLDCG2RsfuMiog5VmRiTKHsLAsrk8L8Uxw7gZYNzJp5oUVeE8j21Q1cGraZH0bZL6xuBZf89xga7uzGPyfQHmuVAML3p6mK0dLun9qcfq_reN3Rv1US8OctrvMNFXxdRxIMe6tzvzLoTM58D92Z2zaUUJSnEiMxSFdC2RK10YiJOJkmRG_XloyyG28VN_pVRkHq_TvhHGiBMg3ZC6COqEkxlRpgvjMbZt0vhD4G-Bf_hU3etEahFmf8SWkKNO_nyuMW4UNLk0KqMqImIwvJ8QWp6lrbOqFzDIGpl6oBlxmckRkbZrLeUC4fh1DcCEeULDYz0cyTtzd4gWccYNuceBOwDk9RNKrfIxA7JhTnpqWVHBj8ALaCU0d8872eZnJviuCKMJyiIajNVk5atNbav8tpIOJ7MjFsQPqX7yVIq6DC2YKspktVHwxb0NYkNRL5aXGxvm_l1SWZvtPO7G6KiwyJA2iuhrmwVfSfnfhLgtUqOy5UqrMc9YXT6JwVCkQViGcoCZRCzuvr7b0uUYQZLcqbwCAP4ZI9iOEf5P3luBKpM83XPH9RIhlyL_sr-jZSsk1jCcBXOa99uU2A3LLb46VBNxBJ1ENm_R-z5-nX-g4GXFkCEAhdlQ0dgKaNzVdYK8PGDfePpVZC8CAjSdjnCL_moiwzxd1xz34wKPCy_z6PHs84aRezw1mn0HumsCosvzBPo1ReF71h29ROdLL8vPYxCECwVdyXkPk9x8Fqa3ssb35QGuVXcBgkMULQLl6NczOCfwO6jPhZWluCeexzskjM8-wAfnyZI4hoGfkqbzyL2M7t5NPyNfpNeubHKJh7H2BPCtHlrX-CEPWAvPRhlL-eCZfhsm8q1dRukWfB9fSsw1D5oelOo_vCQvTk28l7J7cTDwzqZ-koDDgikTLRUfTnRLKQ5suJxsOfupW8-7PBa-aeaWGDcNwvN8td8I2oyA9sUjTlBrFzL_wzrAmJP4",
+  "sha256": "1fd14bdd49c2fc36cc6eda77fee5cc1665b6507aeaf020bb2fada5df7d7f818d",
+  "originalFileName": "clouds.effect.json",
+  "originalPath": "effects/clouds.effect.json",
+  "mimeType": "application/json",
+  "size": 899,
+  "byteLength": 899
+}

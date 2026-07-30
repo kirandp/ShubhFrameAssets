@@ -1,0 +1,16 @@
+{
+  "algorithm": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 150000,
+  "encoding": "base64url",
+  "salt": "41snayH1cmyZcDBVU8d_Cg",
+  "iv": "T-RwoqD1cCFTkHxv",
+  "authTag": "oR9Y3GQR6YzQUNxG3IGs5w",
+  "data": "9T4LBkMWNCjw_f_aOo2SmKPLL6sfqTB00wmKOG5g74JTXZh-Z9E18H0THoMwxJVbHdEt0zCgpSb5tCyVYPexCq3UJrsjwndiUyqfFgJNoUNRrmSBEVZBAu63vRvL0ZTlpy0CMGeoxv-yhEHzwveM4cyEokrqa_y44BtTQnqjTvb3RvMZp_XhrvxSNADAUg7CDfGs9_zm33vMqZUPDKYdqaXaCVL2TK-pQGPRDdEAnYg1YXqCs-f4tcsEdtLBPROgzXDVImpZTd_SjMrx69mq4HQ8plO9ym-66yjlWjRttCGpFXw0ZcQvEulBJs-gWq9PIN_vBManRsuPIqkJvane8gdk_Yl_2s_LayPXDIMOvcOqowPlD3GLivT4TI3ZQ0j5tkkXUbfiVoiCFnJ_FoEQ0SZgdyFu4wxYaTsIglQBeMGMFrIq12d7-2rNQiRDcQLOqYbBHpXkw1_jku1S8ILBzK6-6SkBAGi9j6JAYsm4ymIXGVT-tqPvoo4KXvP9a1o6p_yFPfaGumZto5oHef1HeaEZ3ANxo_3_MIcQcHd_pV0R5L0a-PGN267l8vdNkvUgVZhDJ6obpTuSTGDM0kYhfHm7aS7dr7FzumJo2efzww2iPW6HDiP0QTCL4xFgvHWOQMGWlOSXrNpdbwREkISTMDjVOviUAbJ06HtwOWKoDW1xcmmT2yQVcvs4BxAkKb7TSoZ846hwkwjjfmsqNM8DDfQgssOT5vnHUsTCwBfPm56Mw8zdgd2x3zFslICIUBETHQtCu4rUGCLW8K9cfQh6eM0_63MnO7M67tm48CjCl8nZfpdWP0SnSOiPBw2fPA4oMJP6Udg36Ugp2BKJi2Pw5WZidsqH8nXIjW5GNzX5HBJLcDjHDKTGYLUItsjQ7sgfJblzZ4ZnGw79soO0ci0rhxXYV0VfNt8bKfiaYhfJ0DA19nWzaGlUeEemDKhHDZlJHGSFSAM8nlZUMeM2rY8yKLGz42erx9uGrLxV4Ty_UBwDBbIf-JENEKGkH3TfocksQXGcq9ACdWAsrV0EVRf9hJfIctBzDIADtXxsT8B4oC90obg6wcZMHW2IlZ_8RUW7qcoAUIuTtaWfrRV093ndOzFpyYspbtwySH_ViNaNI6jS1J1GP2z5g6T-C_kkPK7M0oS26tmtO2aXSgAWR1zgmMX5JogJcZbINfDZkMHcso0P0sqU5OjlujkLwvglEaV_BZhL0KBIRAwkj0DYr1IXoRiR-oU",
+  "sha256": "e5769fde732b101e95a5e9d763326da84469683427930f3f96fba76a043c6b00",
+  "originalFileName": "kites.effect.json",
+  "originalPath": "effects/kites.effect.json",
+  "mimeType": "application/json",
+  "size": 932,
+  "byteLength": 932
+}

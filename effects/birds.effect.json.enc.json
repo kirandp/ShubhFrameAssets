@@ -1,0 +1,16 @@
+{
+  "algorithm": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 150000,
+  "encoding": "base64url",
+  "salt": "bcbxhvlvOJNRYuVmp3RFig",
+  "iv": "GwcPcUu8oEttF3ld",
+  "authTag": "F8nw6FIT-0bGXJ_964X2og",
+  "data": "fwOVByuMqNzuGwMAWpqSLa7BZk6DeKd_ncVKRXkUfA8N55ajZnACNuD-P23DOwTo1IxO7RFNXVaE0xyRVPDhE7gdz7EO9oOg1YxXeWg-PlmHZqAPwUieprTyxLKOnEKz9SosyOY7V89i6WxgPL3Sfzt7NZum2NxlIkAI7vqEO0QlwhQVHcfGrqrXKNALIFR1xXwsB7zlEnaWXqy6GfABHwWx7vR-vSOkZZR92H3iIG4_1qGv2i9ialrf4qk9mYtdQYrLvIIR5TU2_d-LvKDQroJPVkSj0GA5cwXKxaHpvK48M0zVdoztPSo6gx8jP3-T1w5SlhEW64V5sRAg_x6zhgs6BLTDWJAG94nhOoi_Apz2Xy9pdFXkMo3s1am8mIz759hIRgiIuuqRr8e9s0-jN6uaTno3_7lMImRTN39KdTD2x4JnWA1KEdi1Q0kQYkN7rpFzmIrHO_Vf9PayffvHQ0Wfzc9bfqT9zrT03YfX461o63r7wjxWri9-tzS9-uunszeOWjuTSUZMF2LFLLhlqs3vrY44hzmqt-xrVY4Hn2syK7ddZee2jO7DoH4YqUzRAiwSGgBwyQawHYSsGNjv3Obw9DwYQv_vWb4CBjas-R4LUCUnU__-sqXlSU8763ywb2SpylWgunlGhfnuMRc2106os_r6pjMCQfUmGwSqLUse1MGvpfejjFZlMOuxr9y0OK-CspN8D4EvQp11Vi4Y7YXSHLarHAdTNK4Mp_snLzI6uVSKACmYR18wQJhLtW4mY-xkGgy00oWRdXNk1JVWAvBjbqyFraonk8VbfQI3fP4pJ9Q1cqYUCy01pu3sxkYTvdwGmonTR5Xj3vHzPoea8n4W4d3FvacOK9iAUlJ_KRWZDYpgZOqmb8O7W8ZHsZhx1aGMOLM3FK9A8md03HevVNNaF2rxUt_YeQjrG5vvudN9mCujPiSQHAHeu-9zOl45iHFrYEiUy4bkKDO0nQM7oiK5RjkbaW7sdyXYGkqw2KknHpTP1dIxMjRwWyLTqnPdDctL6kHmyoKfCmTgDmYc0UyxAvhosGVZxdDFa5H4pH_UM9qMAIOSafFGBd26YzzJZebf06nR9gI6Bz8MizrZCMqHklWuILkSgCskE1KvpIwHc1HLuK3T",
+  "sha256": "9de12551f437fb6adddfd095317f34645039d4e997a37048ed6a8078619b6102",
+  "originalFileName": "birds.effect.json",
+  "originalPath": "effects/birds.effect.json",
+  "mimeType": "application/json",
+  "size": 855,
+  "byteLength": 855
+}

@@ -1,0 +1,16 @@
+{
+  "algorithm": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 150000,
+  "encoding": "base64url",
+  "salt": "25ViKkwPmFP7M9XYeRLntg",
+  "iv": "zESO-gVAzyhdApb6",
+  "authTag": "vs17NEW2ZXKO7Ym3sj-k2w",
+  "data": "KtF_raRWyFCs6lVdMYG7E7tQ-RF6o9xoNhg3vXbUKyhzM5RXAbxR-UYXhr36Sri4HqwYqc7GAkudXIctvpL82V9EXmZEkPL9LT0J0l2HrzVw3RmpkWk7p_yPsb3iXmUP70TQoSIT2Ot2PCkPnGNyZEposCilaEwWuBhfxjYqGmfwFWiyegGHO_cGE9ysddoDs1LKakPNqiv-uAQ5PHdIOU-hm0mvGthwGz3NoRDW7TSpl2hyGapf1uEjt3CfFBdEcmmz3F3b2kQClf3vWSExmjMC8iFpyUSZXqqEJnOm3cElRKXbWuhVZUavDB3i1i2t6ozrEqY6K5K9_gJLfcbaA_QiPjYMVlLpWKxkFuzmEv2nVYT9CSrlHfZdLjgZqReFkRkb7rf4Az5FU8YXqN2EcKNeo0Ws-2RoBmlzC2Dewzgh6ig8gWb5Gf6XhvIrzRBzfufpvA0aBWnM8NkiRYBSS3G7k4bculv1S5EIEojiPIyBdqDF2B66sqOh_M2fsFQHXzFSjJfBB9FaNtFxXTe3NfxpKQOJ4WOZFcdeL96-WbMDoAw8SOoN5GqXZ21MuQtTUUAzEneiRvYK3gaZ4BtGGsu8G5GOgQEKtfWPm4bNJmogz5Uxo-RVd3kO5Atgz7Odz2hXhNcumrWs5qCfhWyMbN3Wgz4GNgKkrq8NfPSArDHhu73B9VMY1IIKGMr2Fx4hblvMqCFPWuzZTpUnVfZkXF2nlojq04LbzImmKEIXfSmUoW4GLyTdcJe6DVM9qjFCDiw_t45eQX-baNQxRuJJC1teLfr9AKSzuNie9a2rGdqTbIMAeWCkqkmfsHKCYfa8_LHWaytouksMNVfqT3LNztLCN9TCvuVpv8J2GHLQe7xgLQd6MaUfcWkzhSu-3ryeLNTowjVQ0BuRvXSgymAweeIh56vrlKB8ACkFmsD6O7xxzJ-c1Uj3oRXp_BsuoEUMTS5UHfLKb_tEAbGW3qgvzsZVgwcZdaVc5zlXzN0C3e4NopwJQgwzYfOjTcpT1e-DQQqO5npV0D8Ggnj7ZtoshZ_m9I8vGT1F3zaOKvt5fU4YzKsWfv4LLfl9T7vnDP-CVF5p-fjoYz0F1ykBmveU65NeXlEYmbJuNbMcDoptA2D2dVG2nEi6a6BLYJL4NHS2WhhrgX1g3FJ-Ql-pJMPsw30mbwlX7ZOMrSBcRcYydAsEIEltmljnFLGgQ2QHO6wCkQE2FobLECkaBHU07HlAArn6U2u5oWtNihCANFv1mHDAFufyksvu05IS1NcE5CkSOcTJHzDHaHrA3yo7JF1nAdpA",
+  "sha256": "110cec9b455db942bb45e5b8512d73aa5ed92c09816d586de023360383121697",
+  "originalFileName": "paperPlanes.effect.json",
+  "originalPath": "effects/paperPlanes.effect.json",
+  "mimeType": "application/json",
+  "size": 978,
+  "byteLength": 978
+}

@@ -1,0 +1,16 @@
+{
+  "algorithm": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 150000,
+  "encoding": "base64url",
+  "salt": "G6hVBRcpEkdnAMXV304MhA",
+  "iv": "kPENnddfqSM3fmiT",
+  "authTag": "dzvUGWsad-gUuSOGbH_C7g",
+  "data": "JQhqiE13xH3rSQWigudCjp025Syv1-xO61Cdac4Tsp276pSYng1zyLVt7MTTmhvCxYEeLZ7XYYAUdRMf3Fvnea8_9YqImDlmq9H8IQzY6p4GCYBBxvUnRkT4hhhSsWSpYirkO8b2FvUA9dtckvLTm08dPljfrvbfSsEvuXb52BmBfXRy27XKRYcpL1CpGHTtqAy9qfBMZaGv6MQ_pjoyR2vLT_OYzix_Or5xthGkSvK7GxZ_iitFVWRXo5-fppqHdX9Nk6F7SoEhSkjjMp9GGn_pl_LtTZFqrCv8zr9zTLdCTNOpQ3CuZePVKwmInOe35p8skmI2gqm6aJsFoupiwlk1kXF2ADbx39bBx3LTkIexZfOsCK8RcvEzgHuYXLxrHL0WPFp5eBGzrgvobwLbOQ0t-N_Wdq569UEwVnC8Gal95KEjBoPTNuwWHopk5DtFrbuhBdqCCd63bzRy1fl5Qd3uS7Go1T7lP0805k20r03Rh5w5if3doS-dbZZFvgrxGY7XggdzpOtcwnJVpm85TTHNYqKq7w4xLu7z6-qaobDJXX3SjFhhHlnNzYfm4ZcxriE5pOOM-SAx6VtmwuMl3tctIc7s2cVSJZ3zlCZAszRk4Fy_2OEuqhYDdO1GPsv7tY7Shcr6oy-6uXnO1c8VQvzW2N__fC3fWt_VSQXT52cSUJk-Lpy7uRqpYMQ25SMJ_eFyTD4U0YyYzoyj7A6vS2g1JF74EaYb77tlPxa2QXBK2mOvc1-NK8U2kFPBrmx3s0Tg_FNeRMSA3MLkCFJL5j1AZPyXQanLbJvXiFgl2r7RRBC-zLUCPYTRDykBmGWFudLEX2QtBvoGrbdLx5NfsXdJuMtl2hAWCIOQFoVSHSfR-A-wAxTG_v01aERoGQhQROSgf4FH98kQ-LOgXug-OQ2Hi5lZ4TcRm55RXAJp4-96HExIzFujdmTqdNSMODXDPiUWFOBV19iOqnKKnpUeOaKNlez6SC2xxXvWGWOxH_3o-GAq4JssQNarO_2tWaeDLwFQzOjFOdMft__pJ5by0bfM2eyLt2n-BTt0wlhyFA_xUYu2P758LEuHmJwyAPJmNEwNpXJ_UPzfTkWC55FPPyEnZq169f5P1KFDD6Naw9fHeIGpRKrNR1G5SDkVjWwgA5JRDlUgqvAjlsDYTMIk7Glw3CT8sUtAMRo57L5kjFf0gdu52pM4IXm8OcT6Pfm46MZ5oLChB6SOCoDK4QepG8GaZSIcHu-nlGOZX7ekWrFVmsIDRt3V93_rWCi114997gluxUf6U1gt2lsvmQRj-zjMbbXVwT4",
+  "sha256": "c724a2a3cd46c893fe53cdfd7e14ca2b43723fe801def5d0bb9f89c77b8e3087",
+  "originalFileName": "aeroplanes.effect.json",
+  "originalPath": "effects/aeroplanes.effect.json",
+  "mimeType": "application/json",
+  "size": 983,
+  "byteLength": 983
+}
