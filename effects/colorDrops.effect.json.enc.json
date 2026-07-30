@@ -1,0 +1,16 @@
+{
+  "algorithm": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 150000,
+  "encoding": "base64url",
+  "salt": "gGeEi8IBEkKspvTMFnnD-w",
+  "iv": "U4I_mjhemdSfUNNd",
+  "authTag": "5icqdQcc8GcdLogDLaB_-A",
+  "data": "Iln0KsITu3MlxvsJAM2spF9MYATLokty1JG1i-eec3SUVK3aScGzzd1johpMAERuRJ34Si5Do3QnAL1wGNOUeU_fskI0kDU5kuPrbLboYcCl4YxQokSL3MAijrNWcUWTqpocTgng0Q6XZSikGAvfGdDJNJAhE1bj0Vw3HNAh4zRJJ6bg59ZglgI95iRLgq0i5Ss6a2HbnPIkS3TLpbBc2J7nbe9EHKlv3YCUEqbds4YiXKXGnZNyn3X4ewa14UB4i-NlX0Cas-sjURwbxNBNbdDPxpAn3TYkj7jGc6GmVstSqQIxiZNDqTLWQ6cstMqJ5HepSdP58zGkPk1QUlc66ffJ3HV73b8xtJ2V0RW5QWpTn11josOlXDopU1uVW7zyjsh-NnxgT56gPnsJ6qqu2IgPHGTlcNYx908xqGF0EB7Om0xoTsTAxMylyytZPwwXL_8o4jIT0YE97o6zm1_2sQUqQXON0vB2Bqml_5add3AKuo7gy-u9aJxbQs4ssgsKz_A6lGBYMSr_4RExs0IqWMwmcvkPdDhbSPKVS-9xh6591O3M80eY5QhFwoMBtM2NmNCxkgVJG1eoLo7ZvHR3uSBMZRTNo0tfvcu2khiQALASoYk8A_b0mmi76eVcQ3OH4_jLJee2qYU7TqERmIw9CJI9q6l-NUM_TZGkxgeb_c0xnpsw_89xfsIZaFts39_p85Wxr5a-8z20I7q5d3Cufv00qJVe2GzWIhbPD3KYsNS1yvANaRcAug1YmQb-tY0rvWehxOiECQN-kL1R2dRiGZDCMhykLIwje3X4uIp-8fqQN_qxj-XJqcmdVEExF6RWjDeK_mRqSeMXW5wNmJYgpqUirZTN3S0Pgz93d_9rBzL4d9iVHE6Q6fUtTl98xG6ELNVv7ZmsmYgITRR6loeZvU-3WMbHZrxGpyjb69azSABCeXY7_O0zx3_nPeJJ9dunIddGhuU14lrNf4MkU0I50rDgwbInFHonc7PBgcP5zPHLSGp93jRg9LiK77APs_An9Fj__Vwn1Bb53En78_V6AbiwnwkeW-fkFw2ISneGjI5Iu-YZQsEfRFpeVb0D4vmzS_9WDb9aeRPegZRNZNEobm0_yyJDX0_Sbq80CKYSmfmdC_NiCMv91mnL8FsPAfYmOPh6DJTbZPMlaqEsEPZMsosM1S8sXxedTtmbdF0vtUPR_GQFWVJaiZtQ8mjI5ce8u6LBJRqhP80SDRvWF3XjHSwHTq7RY8-IAG_LbpMsyLmLiqqhnZt1h0xYUCWqd4DUYB-qdGJIX8xjYiQUikf-9npHqaU",
+  "sha256": "78020e4b805dbbc58140d3cf4eba8551a5032c99729a07f00d1b9b136d4e6f46",
+  "originalFileName": "colorDrops.effect.json",
+  "originalPath": "effects/colorDrops.effect.json",
+  "mimeType": "application/json",
+  "size": 980,
+  "byteLength": 980
+}

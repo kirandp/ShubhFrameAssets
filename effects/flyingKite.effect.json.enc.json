@@ -1,0 +1,16 @@
+{
+  "algorithm": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 150000,
+  "encoding": "base64url",
+  "salt": "EC57gM5ur8Bp_jE1bCOD4A",
+  "iv": "etXc1rFBLkeenvIy",
+  "authTag": "qMg69c9hRWzGoprtSgTn2w",
+  "data": "22iwzR5SGKsbNF_VH5J1QWYJCBrZV0Z1A4pwah3zGPDSkS210gi3Cz_3m6Ia384vNoadrNPg7Z8ffHGoHSMytF2pX6CRDtbTmxpzImqLW1cyv_ESu5E82G2m1rEZ7xVhEmFDrpWfjib6lhNxe1DICWx9x_-CHAS_0bYwnM0jtSpQBjxbDFqNzN1FrWmEUGgWPMJg4hCHT3JVHexvEEqk1yoLuMJhlsPr0Vu19-ijjbVAJCwC397Z8ayPqPsdBJPynDT2OrXokzRuOlkiXkzWZWEGy8OCPdMmIALgDuk-CBPp2uFgOEPX9zHRT3gHAvMG-KKNr93r1kZrAJ2yGsGJiMejAkC4cgYAFVNOY-HWajCk6BsDIKOg4xcSY5ss5JhCOmxFHFYt0ik3QBe543gPHvs0xahrcc1M6gJcEtlcWA_wUvlnZzZ_f7ZLUdleO8sJaDTGQh-67OpI-jHnA1F31uZDH-7Rds0tnWMFVsCIEzO5mKyBVmmsmoFUzqsHixyVllf1MKWGbtLYe4HM62Q011Iq1MIAWyc_EPy0R-kQlNCuh8r1U_s7KzsLFezTX9ovUK2Y3X4fR-dxDCThFxUgfx9GdSHuXRYLyu-oLQMYm8WQGDRHvfQ_hglGB3D05GYjtyny_T33PvL2ZVhi1P2Vv30j3oCmfjnjUjglVQy9bgB-66KdCaYBhw52tHqfyREoTDw0TTDMAW5AilDKeHK3tTjtMmsUsCsh5lNnhh6vJrIGvZX1Us03kCGcD7vygVnxniQiaDXeYqh40BOYvN7lLU9XrXYK9-SUAWk86m9HGvDCVaNJc0bWzykX_jBF-o9ZsoQUrCc5KOSBXpHVpG7IpBoBocdSl8OMp96HMYyKH7rzwlzJ3374i_JJBDzO3OQUCdXrr4t8TW4-5-fbif6yAgB4psa203xZdrwg4VHaiSC0dNShWuOeg9NhA7Sj0nYWmXXAIbg4Bw-hiA5bbMbNOfRtsK5zNePRI9qsGjN0PPfUnE0kdEk3-6itDJn_a-IUS_f-3gYKF26lr5KH_yXz-UMQhWU1z4k9q2JrCMHGEc3-j-4a-noCr5ZjvR2Q0iMuTYRBYnU10W6smW5gWMmN7T15EkLus9T_Ig2iitMIP4ldNMumFQabnu0lF31JUzF9_wd_8oexaNC-a77XsHLrcJbf18KDHzKStW86wVJdGTiViHsJ7EXkzVEVL-AlJNF5nl8tOVkA8S-VwwuzMoWEzGIsWbvA_WI3hUrh_1n107amxi2UM8wzvpVriY64KSmkQeL4SejzkpyM7LlEK4QfNeNNfmd_L7HiJuhL9eHYwESXZ0Ywxh44nwV42W0JoswRosCoLC9ik50FdDvScVKsij8frMmokNX0zXoa0sk97YrYYDV-YKxF6Aysr5YB",
+  "sha256": "9106dd46cb89d74b4f2692bb13fbe54f18c4c92f0e1ed6f574571349b606e6a3",
+  "originalFileName": "flyingKite.effect.json",
+  "originalPath": "effects/flyingKite.effect.json",
+  "mimeType": "application/json",
+  "size": 1053,
+  "byteLength": 1053
+}

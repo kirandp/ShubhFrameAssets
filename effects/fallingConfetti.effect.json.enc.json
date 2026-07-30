@@ -1,0 +1,16 @@
+{
+  "algorithm": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 150000,
+  "encoding": "base64url",
+  "salt": "1Kqjzt2md4OLVS7evxZCNw",
+  "iv": "M3J41qGJ-mbL9a9n",
+  "authTag": "Ubzgw7U7Iz-FJQgrcXz9pA",
+  "data": "1dHmB1AjZeT3qEb2vz0jCPSMR1lnqzC8f66PChMWYm2V7cKn2iJtrdYeNvVJkuFe0uK8tiED93NNltZ9LNyt0Cif93USqNkETDLvDJLz2eTjcrJ6pOa5SnapJutQJRyz1-IzBL1xSAR03Jq8rmLTo4F0cltB1soLlMgQGDtQ1I7IBFq1A8mG6tma8mawCa8I65cmWvZRs_KM8BTnSWahpfLcEd2aCQP9Ka7Pfp6cI5IWAnzVC9-CEqzru8QRIbyKh1T6Hqqc5D5TcQYEsK6tCfgM1jKGSoU39sgPL4PED3q5UupEXVKFYgUKlzCuF2UMrCp76qPxL1AzCRHhNYNwn78heAGvpMbJgxhAIhydz4NKeTDuEOzy5qjItGmbD5tj5X22IiZLsBulz7PaxtkGXS0cRaKTwQ3ti8Q1GGCMlahjbK4-oNjBEqp7Kl9GV9_mscdSgSwFBrl_bI1A2mpD--wHX5ItLm6d-WJl4llPyB0LDrKf5xiHu7icR91oYcarlSyQzxpv_qMkJZ1tQrKExod8v82RlTkX63iWKyToHi5gCBld4ANuO7eeichE-OgMIEdxzu4QoJJuKZR5YktZ738rlVZLSX6bh0G4Q9qwogjNvttdqCLQWBdCE8cXx4nPx-tUA6nTam193L2BavQU7qx6jY39kadXU3HtdD-x_61mPDxIZffYrt_ksmlF5A3Qsb_45XQK-pSD3kAd3pQkB6Bnn033Um-ooG1DB4RRpgZlWzRZN1zBihRG-XiCQ75IndTFXZItK1TfK-Kxrur6Y2R6OGSSnRtqP2zIEXQdleICY1GcDBxEp7hCLHitxyYwLIayEYK40zXSZ5F6L5Z7ZR6Cl45HafWI_HiUnJc8xNfWo-0cQNh5zPFZSRAa0vFwLySyWzuv9VKW4M6ZybYQCRvnMs70vdIexj-F7WH3Pwnp5h1VX_M2v4n7JIJ6KYE5_1VGQ9pdAoQI-gu0PxY5wYcmBgGlmW5Mo3f1-P25a5QF3Er_tQai6WX38AR-mVSmzKmL49pRPBVh5tyWTB2I9_B77_kUKf4H66jloTd8C1F21Hi0IwG8lQvvQ-iNWPdRGZL585jVVTUp4rgJljgpAxkO0mANnlqXf-OZui2DgvsILL3QEiA0SXBuuSEyOghhNpsV2XOxA2QCckIrz-vqcMH9A-agpNco4Ln8a1CIVP0jwKkz9VIC6l82CLD-gi-pALPbbuJSLzy5boC2c3Wvj0ar2lH1Yqxkfty9JbxFaUYcfFJx1gBArEnXY1m0lyeQxSgaj_gu1qh1DqyoZKqREOVAgLmP5D1ZHJt7FMXIOVdfnDLyqx1Hb1hykdT0XSyv2ndeSCRjiyZiZjW1DRGdKkDZ-Xvo_4Iwxq3JtQaf9kTZPGdIuUeS6H6PO237B5Hto8Y7Nhj-G_KXy4196isshR1LizdXjvBsQISHthPxx_9H95EC5UwqUQm5tzowaXQ",
+  "sha256": "b09df60758e9603d0e6c027ae99d8c0bf3befb188c3b962d8432a8cda0ce731b",
+  "originalFileName": "fallingConfetti.effect.json",
+  "originalPath": "effects/fallingConfetti.effect.json",
+  "mimeType": "application/json",
+  "size": 1103,
+  "byteLength": 1103
+}
