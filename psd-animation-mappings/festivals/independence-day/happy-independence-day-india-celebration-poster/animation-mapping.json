@@ -1,0 +1,84 @@
+{
+  "id": "happy-independence-day-india-celebration-poster",
+  "title": "Layered PSD Independence Day poster",
+  "encryptedPsdPath": "psd/festivals/independence-day/happy-independence-day-india-celebration-poster/c277ee94-99c9-4340-98e8-443b4c11ca8a.psd.enc.json",
+  "excludedLayers": [
+    "BACKGROUND",
+    "Text/Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+    "Read More"
+  ],
+  "animationPrompt": "Animate the exact pre-extracted transparent layers from the configured Independence Day PSD asset. Preserve the original pixels, proportions, spelling, colors and relative composition. Keep the PSD background, Lorem Ipsum paragraph, Read More button and button border excluded. Anchor both original ribbon groups and use only a slow 1.5 percent scale breathing motion. Rotate the original Ashoka Chakra clockwise through one slow turn over 20 seconds. Apply independent gentle pendulum sway below 2 degrees to the two hanging-flag groups. Fade the original HAPPY INDEPENDENCE DAY title in over 1.8 seconds with less than 10 pixels of upward travel, reveal the original 15TH AUGUST date after the title, and keep the lower tricolor design nearly stationary. Never regenerate, redraw, upscale, background-remove, warp or distort a PSD layer. Keep all unused pixels transparent so the selected user image remains visible.",
+  "layers": [
+    {
+      "id": "psd_independence_lower_tricolor",
+      "label": "Lower tricolor design",
+      "outputFile": "lower-tricolor.png",
+      "selectors": [{ "path": "Design/Design" }],
+      "motionPreset": "psd_lower_tricolor_hold",
+      "zIndex": 450
+    },
+    {
+      "id": "psd_independence_ribbon_left",
+      "label": "Left tricolor ribbon",
+      "outputFile": "ribbon-left.png",
+      "selectors": [{ "path": "Ribbon/Ribbon", "occurrence": 1 }],
+      "motionPreset": "psd_ribbon_left_breathe",
+      "zIndex": 520
+    },
+    {
+      "id": "psd_independence_ribbon_right",
+      "label": "Right tricolor ribbon",
+      "outputFile": "ribbon-right.png",
+      "selectors": [{ "path": "Ribbon/Ribbon", "occurrence": 0 }],
+      "motionPreset": "psd_ribbon_right_breathe",
+      "zIndex": 521
+    },
+    {
+      "id": "psd_independence_bunting_left",
+      "label": "Left hanging flags",
+      "outputFile": "bunting-left.png",
+      "selectors": [{ "path": "Flag/Flag 1" }],
+      "motionPreset": "psd_bunting_sway_left",
+      "zIndex": 600
+    },
+    {
+      "id": "psd_independence_bunting_right",
+      "label": "Right hanging flags",
+      "outputFile": "bunting-right.png",
+      "selectors": [{ "path": "Flag/Flag 2" }],
+      "motionPreset": "psd_bunting_sway_right",
+      "zIndex": 601
+    },
+    {
+      "id": "psd_independence_title",
+      "label": "Happy Independence Day title",
+      "outputFile": "title.png",
+      "selectors": [
+        { "path": "Text/Independence" },
+        { "path": "Text/happy" },
+        { "path": "Text/Day" }
+      ],
+      "motionPreset": "psd_title_reveal",
+      "zIndex": 700
+    },
+    {
+      "id": "psd_independence_date",
+      "label": "15th August date",
+      "outputFile": "date.png",
+      "selectors": [{ "path": "Text/15th August" }],
+      "motionPreset": "psd_date_reveal",
+      "zIndex": 710
+    },
+    {
+      "id": "psd_independence_chakra",
+      "label": "Ashoka Chakra",
+      "outputFile": "ashoka-chakra.png",
+      "selectors": [
+        { "path": "Design/Ellipse 1" },
+        { "path": "Design/Shape 7" }
+      ],
+      "motionPreset": "psd_chakra_rotate",
+      "zIndex": 760
+    }
+  ]
+}
