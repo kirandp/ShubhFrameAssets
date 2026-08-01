@@ -1,0 +1,96 @@
+name: Extract encrypted PSD animation layers
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - "psd/**/*.psd.enc.json"
+      - "psd-animation-mappings/**/*.json"
+      - "encrypted-assets.manifest.json"
+      - "scripts/extract-encrypted-psds.mjs"
+      - "scripts/extract-psd-animation-layers.mjs"
+      - "scripts/decrypt-assets-updated-v4.mjs"
+      - ".github/workflows/extract-psd-layers.yml"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: Re-extract configured PSDs even when hashes are unchanged
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: extract-psd-layers-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout ShubhFrameAssets
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          persist-credentials: true
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Verify decryption secret
+        env:
+          ASSET_DECRYPTION_KEY: ${{ secrets.ASSET_DECRYPTION_KEY }}
+        run: |
+          if [ -z "$ASSET_DECRYPTION_KEY" ]; then
+            echo "Repository secret ASSET_DECRYPTION_KEY is not configured."
+            exit 1
+          fi
+
+      - name: Install PSD parser dependencies
+        run: npm install --no-save --no-audit --no-fund ag-psd @napi-rs/canvas
+
+      - name: Decrypt and extract configured PSDs
+        id: extract
+        env:
+          ASSET_DECRYPTION_KEY: ${{ secrets.ASSET_DECRYPTION_KEY }}
+        run: |
+          FORCE_ARG=""
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.force }}" = "true" ]; then
+            FORCE_ARG="--force"
+          fi
+
+          node scripts/extract-encrypted-psds.mjs \
+            --repo-root . \
+            --manifest ./encrypted-assets.manifest.json \
+            --decrypt-script ./scripts/decrypt-assets-updated-v4.mjs \
+            --extract-script ./scripts/extract-psd-animation-layers.mjs \
+            --github-repository "${{ github.repository }}" \
+            --github-ref "${{ github.ref_name }}" \
+            $FORCE_ARG
+
+      - name: Commit generated transparent layers
+        run: |
+          git config user.name "shubhframe-psd-bot"
+          git config user.email "shubhframe-psd-bot@users.noreply.github.com"
+          git add -A -- ':(glob)psd/**/extracted/**'
+
+          if git diff --cached --quiet; then
+            echo "No extracted PSD changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: extract PSD animation layers [skip ci]"
+          git push
+
+      - name: Extraction summary
+        run: |
+          echo "Processed: ${{ steps.extract.outputs.processed }}"
+          echo "Already current: ${{ steps.extract.outputs.skipped }}"
+          echo "Without animation mapping: ${{ steps.extract.outputs.unconfigured }}"
