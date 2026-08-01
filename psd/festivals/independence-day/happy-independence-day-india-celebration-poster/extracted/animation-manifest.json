@@ -1,0 +1,262 @@
+{
+  "schema": "shubhframe.psd-animation-assets.v1",
+  "version": 2,
+  "assetId": "happy-independence-day-india-celebration-poster",
+  "title": "Layered PSD Independence Day poster",
+  "createdAt": "2026-08-01T09:40:20.399Z",
+  "source": {
+    "originalFile": "c277ee94-99c9-4340-98e8-443b4c11ca8a.psd",
+    "sha256": "14f14af5578ffc6f0c679db2e10b3cc57c336d7e460c853525bf505e90ba0ce2",
+    "width": 1754,
+    "height": 2480,
+    "encryptedPsdPath": "psd/festivals/independence-day/happy-independence-day-india-celebration-poster/c277ee94-99c9-4340-98e8-443b4c11ca8a.psd.enc.json"
+  },
+  "mapping": {
+    "file": "animation-mapping.json",
+    "sha256": "c043b40e7a81b151c9f7feec5339b5378beabcbd28ea004aecc2351b9f7e1be2"
+  },
+  "transparentBackground": true,
+  "excludedLayers": [
+    "BACKGROUND",
+    "Text/Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+    "Read More"
+  ],
+  "animationPrompt": "Animate the exact pre-extracted transparent layers from the configured Independence Day PSD asset. Preserve the original pixels, proportions, spelling, colors and relative composition. Keep the PSD background, Lorem Ipsum paragraph, Read More button and button border excluded. Anchor both original ribbon groups and use only a slow 1.5 percent scale breathing motion. Rotate the original Ashoka Chakra clockwise through one slow turn over 20 seconds. Apply independent gentle pendulum sway below 2 degrees to the two hanging-flag groups. Fade the original HAPPY INDEPENDENCE DAY title in over 1.8 seconds with less than 10 pixels of upward travel, reveal the original 15TH AUGUST date after the title, and keep the lower tricolor design nearly stationary. Never regenerate, redraw, upscale, background-remove, warp or distort a PSD layer. Keep all unused pixels transparent so the selected user image remains visible.",
+  "layers": [
+    {
+      "id": "psd_independence_lower_tricolor",
+      "label": "Lower tricolor design",
+      "file": "lower-tricolor.png",
+      "url": "https://raw.githubusercontent.com/kirandp/ShubhFrameAssets/master/psd/festivals/independence-day/happy-independence-day-india-celebration-poster/extracted/lower-tricolor.png",
+      "mimeType": "image/png",
+      "bytes": 382809,
+      "sha256": "f2dc3b20006357767c23bd63576a0511591cf8838a0f7aedbe1beaac66d31a0e",
+      "width": 1754,
+      "height": 700,
+      "sourceBounds": {
+        "x": 0,
+        "y": 1434,
+        "width": 1754,
+        "height": 700
+      },
+      "normalizedCenter": {
+        "x": 0.5,
+        "y": 0.7193548387096774
+      },
+      "motionPreset": "psd_lower_tricolor_hold",
+      "zIndex": 450,
+      "selectors": [
+        {
+          "path": "Design/Design"
+        }
+      ]
+    },
+    {
+      "id": "psd_independence_ribbon_left",
+      "label": "Left tricolor ribbon",
+      "file": "ribbon-left.png",
+      "url": "https://raw.githubusercontent.com/kirandp/ShubhFrameAssets/master/psd/festivals/independence-day/happy-independence-day-india-celebration-poster/extracted/ribbon-left.png",
+      "mimeType": "image/png",
+      "bytes": 134728,
+      "sha256": "5a5e93325cc6f536d0c55456409570716f76dbc0bdb46092118299ddff458dea",
+      "width": 747,
+      "height": 707,
+      "sourceBounds": {
+        "x": 0,
+        "y": 817,
+        "width": 747,
+        "height": 707
+      },
+      "normalizedCenter": {
+        "x": 0.2129418472063854,
+        "y": 0.4719758064516129
+      },
+      "motionPreset": "psd_ribbon_left_breathe",
+      "zIndex": 520,
+      "selectors": [
+        {
+          "path": "Ribbon/Ribbon",
+          "occurrence": 1
+        }
+      ]
+    },
+    {
+      "id": "psd_independence_ribbon_right",
+      "label": "Right tricolor ribbon",
+      "file": "ribbon-right.png",
+      "url": "https://raw.githubusercontent.com/kirandp/ShubhFrameAssets/master/psd/festivals/independence-day/happy-independence-day-india-celebration-poster/extracted/ribbon-right.png",
+      "mimeType": "image/png",
+      "bytes": 147437,
+      "sha256": "936311774e0e5d56b43d1e21fe9ca1163869ba62007773fa90d46cf76823f7cb",
+      "width": 810,
+      "height": 741,
+      "sourceBounds": {
+        "x": 944,
+        "y": 783,
+        "width": 810,
+        "height": 741
+      },
+      "normalizedCenter": {
+        "x": 0.7690992018244014,
+        "y": 0.4651209677419355
+      },
+      "motionPreset": "psd_ribbon_right_breathe",
+      "zIndex": 521,
+      "selectors": [
+        {
+          "path": "Ribbon/Ribbon",
+          "occurrence": 0
+        }
+      ]
+    },
+    {
+      "id": "psd_independence_bunting_left",
+      "label": "Left hanging flags",
+      "file": "bunting-left.png",
+      "url": "https://raw.githubusercontent.com/kirandp/ShubhFrameAssets/master/psd/festivals/independence-day/happy-independence-day-india-celebration-poster/extracted/bunting-left.png",
+      "mimeType": "image/png",
+      "bytes": 24679,
+      "sha256": "7ec89e308b5805132145ee9aeb509935c94f87fcf7bad249cae6b1cd32020586",
+      "width": 994,
+      "height": 257,
+      "sourceBounds": {
+        "x": 0,
+        "y": 0,
+        "width": 994,
+        "height": 257
+      },
+      "normalizedCenter": {
+        "x": 0.28335233751425315,
+        "y": 0.051814516129032255
+      },
+      "motionPreset": "psd_bunting_sway_left",
+      "zIndex": 600,
+      "selectors": [
+        {
+          "path": "Flag/Flag 1"
+        }
+      ]
+    },
+    {
+      "id": "psd_independence_bunting_right",
+      "label": "Right hanging flags",
+      "file": "bunting-right.png",
+      "url": "https://raw.githubusercontent.com/kirandp/ShubhFrameAssets/master/psd/festivals/independence-day/happy-independence-day-india-celebration-poster/extracted/bunting-right.png",
+      "mimeType": "image/png",
+      "bytes": 24287,
+      "sha256": "4cae803eb368a84043ada922172d3e6a9a9dfc4aee3ef1b7f48b502a4bebfad7",
+      "width": 537,
+      "height": 429,
+      "sourceBounds": {
+        "x": 1217,
+        "y": 0,
+        "width": 537,
+        "height": 429
+      },
+      "normalizedCenter": {
+        "x": 0.8469213226909921,
+        "y": 0.08649193548387096
+      },
+      "motionPreset": "psd_bunting_sway_right",
+      "zIndex": 601,
+      "selectors": [
+        {
+          "path": "Flag/Flag 2"
+        }
+      ]
+    },
+    {
+      "id": "psd_independence_title",
+      "label": "Happy Independence Day title",
+      "file": "title.png",
+      "url": "https://raw.githubusercontent.com/kirandp/ShubhFrameAssets/master/psd/festivals/independence-day/happy-independence-day-india-celebration-poster/extracted/title.png",
+      "mimeType": "image/png",
+      "bytes": 47588,
+      "sha256": "475f931ed4b6428d2933d4485d779d3d7dfd7028b4d23f6a6f78f2dcd79eb8b3",
+      "width": 1267,
+      "height": 334,
+      "sourceBounds": {
+        "x": 215,
+        "y": 434,
+        "width": 1267,
+        "height": 334
+      },
+      "normalizedCenter": {
+        "x": 0.48375142531356896,
+        "y": 0.24233870967741936
+      },
+      "motionPreset": "psd_title_reveal",
+      "zIndex": 700,
+      "selectors": [
+        {
+          "path": "Text/Independence"
+        },
+        {
+          "path": "Text/happy"
+        },
+        {
+          "path": "Text/Day"
+        }
+      ]
+    },
+    {
+      "id": "psd_independence_date",
+      "label": "15th August date",
+      "file": "date.png",
+      "url": "https://raw.githubusercontent.com/kirandp/ShubhFrameAssets/master/psd/festivals/independence-day/happy-independence-day-india-celebration-poster/extracted/date.png",
+      "mimeType": "image/png",
+      "bytes": 11232,
+      "sha256": "1377e46a2f6cbde808ac2e39a3c638e1c8d8f9af9f971c37b9e39afc0b4817c2",
+      "width": 487,
+      "height": 222,
+      "sourceBounds": {
+        "x": 617,
+        "y": 1751,
+        "width": 487,
+        "height": 222
+      },
+      "normalizedCenter": {
+        "x": 0.4905929304446978,
+        "y": 0.7508064516129033
+      },
+      "motionPreset": "psd_date_reveal",
+      "zIndex": 710,
+      "selectors": [
+        {
+          "path": "Text/15th August"
+        }
+      ]
+    },
+    {
+      "id": "psd_independence_chakra",
+      "label": "Ashoka Chakra",
+      "file": "ashoka-chakra.png",
+      "url": "https://raw.githubusercontent.com/kirandp/ShubhFrameAssets/master/psd/festivals/independence-day/happy-independence-day-india-celebration-poster/extracted/ashoka-chakra.png",
+      "mimeType": "image/png",
+      "bytes": 273977,
+      "sha256": "d77a492ea1c2fc3b303d58c2b93f2b03d84d5aacb8631675037d2bc98837903b",
+      "width": 759,
+      "height": 759,
+      "sourceBounds": {
+        "x": 497,
+        "y": 888,
+        "width": 759,
+        "height": 759
+      },
+      "normalizedCenter": {
+        "x": 0.499714937286203,
+        "y": 0.5110887096774194
+      },
+      "motionPreset": "psd_chakra_rotate",
+      "zIndex": 760,
+      "selectors": [
+        {
+          "path": "Design/Ellipse 1"
+        },
+        {
+          "path": "Design/Shape 7"
+        }
+      ]
+    }
+  ]
+}
