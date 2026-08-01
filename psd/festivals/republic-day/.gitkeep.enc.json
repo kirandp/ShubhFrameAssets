@@ -1,0 +1,16 @@
+{
+  "algorithm": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 150000,
+  "encoding": "base64url",
+  "salt": "b7nDVUgUe8_s42u464szpQ",
+  "iv": "sZYRB7WTuT7MoxB4",
+  "authTag": "JXy51vXwkrsOpQCGpg5cXA",
+  "data": "",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "originalFileName": ".gitkeep",
+  "originalPath": "psd/festivals/republic-day/.gitkeep",
+  "mimeType": "application/octet-stream",
+  "size": 0,
+  "byteLength": 0
+}

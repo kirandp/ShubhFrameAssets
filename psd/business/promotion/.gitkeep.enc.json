@@ -1,0 +1,16 @@
+{
+  "algorithm": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 150000,
+  "encoding": "base64url",
+  "salt": "VoWgmQPr8aNAvo6HJ85Byg",
+  "iv": "CiPDzdshcOEghSlI",
+  "authTag": "aGFm4Vg7BBqdlgUoJlvnNA",
+  "data": "",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "originalFileName": ".gitkeep",
+  "originalPath": "psd/business/promotion/.gitkeep",
+  "mimeType": "application/octet-stream",
+  "size": 0,
+  "byteLength": 0
+}

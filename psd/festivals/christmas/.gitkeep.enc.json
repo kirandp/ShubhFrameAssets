@@ -1,0 +1,16 @@
+{
+  "algorithm": "AES-256-GCM",
+  "kdf": "PBKDF2-SHA256",
+  "iterations": 150000,
+  "encoding": "base64url",
+  "salt": "egKFnol6lmbArUecF8FYnQ",
+  "iv": "MtGEfzU_au3WzlyX",
+  "authTag": "8JZ8Wcodfsyxpkrr9L8fOA",
+  "data": "",
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "originalFileName": ".gitkeep",
+  "originalPath": "psd/festivals/christmas/.gitkeep",
+  "mimeType": "application/octet-stream",
+  "size": 0,
+  "byteLength": 0
+}
