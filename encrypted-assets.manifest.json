@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-08-01T07:45:07.495Z",
+  "generatedAt": "2026-08-01T11:45:31.541Z",
   "root": ".",
   "encryption": {
     "algorithm": "AES-256-GCM",
@@ -6883,10 +6883,10 @@
       "originalPath": "psd/festivals/independence-day/.DS_Store",
       "encryptedFile": "psd/festivals/independence-day/.DS_Store.enc.json",
       "thumbnail": null,
-      "size": 8196,
-      "byteLength": 8196,
-      "sha256": "21f03190b03779985342651e66240b70a9b168c587597bfa9f31f210c1244c40",
-      "encryptedSize": 11411
+      "size": 10244,
+      "byteLength": 10244,
+      "sha256": "a3a4dda66f20111e7cc11d33520a59c3020a9f783b31a8969e00e4f9a27fe76f",
+      "encryptedSize": 14144
     },
     {
       "id": "psd-festivals-independence-day",
@@ -6927,10 +6927,40 @@
       "originalPath": "psd/festivals/independence-day/happy-independence-day-india-celebration-poster/c277ee94-99c9-4340-98e8-443b4c11ca8a.psd",
       "encryptedFile": "psd/festivals/independence-day/happy-independence-day-india-celebration-poster/c277ee94-99c9-4340-98e8-443b4c11ca8a.psd.enc.json",
       "thumbnail": null,
-      "size": 13790444,
-      "byteLength": 13790444,
-      "sha256": "14f14af5578ffc6f0c679db2e10b3cc57c336d7e460c853525bf505e90ba0ce2",
-      "encryptedSize": 18387861
+      "size": 8358906,
+      "byteLength": 8358906,
+      "sha256": "e577a4444afb24d1153c4e9a8c926262f1cbee9a89b342dfab0c34fe7c2bb6c3",
+      "encryptedSize": 11145808
+    },
+    {
+      "id": "psd-festivals-independence-day-india-independence-day-celebration-post-04edf643-7792-435b-85f1-a96afe3b9e82",
+      "name": "04edf643-7792-435b-85f1-a96afe3b9e82",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "originalFileName": "04edf643-7792-435b-85f1-a96afe3b9e82.jpg",
+      "originalPath": "psd/festivals/independence-day/india-independence-day-celebration-post/04edf643-7792-435b-85f1-a96afe3b9e82.jpg",
+      "encryptedFile": "psd/festivals/independence-day/india-independence-day-celebration-post/04edf643-7792-435b-85f1-a96afe3b9e82.jpg.enc.json",
+      "thumbnail": "thumbnails/psd/festivals/independence-day/india-independence-day-celebration-post/04edf643-7792-435b-85f1-a96afe3b9e82.webp",
+      "size": 7387900,
+      "byteLength": 7387900,
+      "sha256": "45963d3148153daf516b2018888cd84bc2338455e29412ac3860cb375d78649f",
+      "encryptedSize": 9851111,
+      "width": 8000,
+      "height": 8000
+    },
+    {
+      "id": "psd-festivals-independence-day-india-independence-day-celebration-post-04edf643-7792-435b-85f1-a96afe3b9e82",
+      "name": "04edf643-7792-435b-85f1-a96afe3b9e82",
+      "type": "design",
+      "mimeType": "image/vnd.adobe.photoshop",
+      "originalFileName": "04edf643-7792-435b-85f1-a96afe3b9e82.psd",
+      "originalPath": "psd/festivals/independence-day/india-independence-day-celebration-post/04edf643-7792-435b-85f1-a96afe3b9e82.psd",
+      "encryptedFile": "psd/festivals/independence-day/india-independence-day-celebration-post/04edf643-7792-435b-85f1-a96afe3b9e82.psd.enc.json",
+      "thumbnail": null,
+      "size": 28406930,
+      "byteLength": 28406930,
+      "sha256": "a4e5c4de2366d1d46784bc722bb99d2f88e10b3037b9f459bdb3611f59631aa7",
+      "encryptedSize": 37876501
     },
     {
       "id": "psd-festivals-navratri",
