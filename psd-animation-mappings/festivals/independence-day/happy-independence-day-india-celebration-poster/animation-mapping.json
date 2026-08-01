@@ -7,7 +7,7 @@
     "Text/Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
     "Read More"
   ],
-  "animationPrompt": "Animate the exact pre-extracted transparent layers from the configured Independence Day PSD asset. Preserve the original pixels, proportions, spelling, colors and relative composition. Keep the PSD background, Lorem Ipsum paragraph, Read More button and button border excluded. Anchor both original ribbon groups and use only a slow 1.5 percent scale breathing motion. Rotate the original Ashoka Chakra clockwise through one slow turn over 20 seconds. Apply independent gentle pendulum sway below 2 degrees to the two hanging-flag groups. Fade the original HAPPY INDEPENDENCE DAY title in over 1.8 seconds with less than 10 pixels of upward travel, reveal the original 15TH AUGUST date after the title, and keep the lower tricolor design nearly stationary. Never regenerate, redraw, upscale, background-remove, warp or distort a PSD layer. Keep all unused pixels transparent so the selected user image remains visible.",
+  "animationPrompt": "Animate the exact pre-extracted transparent layers from the configured Independence Day PSD asset. Preserve the original pixels, proportions, spelling and colors. Keep the PSD background, Lorem Ipsum paragraph, Read More button and button border excluded. Combine the original left and right ribbon groups into one transparent full-width ribbon-combined image so both halves retain their exact Photoshop alignment. Place and animate this combined ribbon in the lower third below the face with a slow seamless floating sway. Place the Ashoka Chakra over the combined ribbon below the face and rotate it clockwise through one slow turn over 20 seconds. Keep the lower tricolor stripe edge-to-edge and move it farther toward the bottom. Animate both top hanging-flag decorations with clearly visible independent sway, bob and subtle scale breathing. Fade the original HAPPY INDEPENDENCE DAY title in gently and reveal the original 15TH AUGUST date near the bottom. Never regenerate, redraw, upscale, background-remove, warp or distort a PSD layer. Keep unused pixels transparent so the selected user image remains visible.",
   "layers": [
     {
       "id": "psd_independence_lower_tricolor",
@@ -18,19 +18,14 @@
       "zIndex": 450
     },
     {
-      "id": "psd_independence_ribbon_left",
-      "label": "Left tricolor ribbon",
-      "outputFile": "ribbon-left.png",
-      "selectors": [{ "path": "Ribbon/Ribbon", "occurrence": 1 }],
-      "motionPreset": "psd_ribbon_left_breathe",
-      "zIndex": 520
-    },
-    {
-      "id": "psd_independence_ribbon_right",
-      "label": "Right tricolor ribbon",
-      "outputFile": "ribbon-right.png",
-      "selectors": [{ "path": "Ribbon/Ribbon", "occurrence": 0 }],
-      "motionPreset": "psd_ribbon_right_breathe",
+      "id": "psd_independence_ribbon_combined",
+      "label": "Combined tricolor ribbon",
+      "outputFile": "ribbon-combined.png",
+      "selectors": [
+        { "path": "Ribbon/Ribbon", "occurrence": 1 },
+        { "path": "Ribbon/Ribbon", "occurrence": 0 }
+      ],
+      "motionPreset": "psd_ribbon_combined_flow",
       "zIndex": 521
     },
     {
