@@ -8,12 +8,6 @@
     "iterations": 150000,
     "encoding": "base64url"
   },
-  "subcategories": [
-    {
-      "path": "frames/personal/festive/ashadhi-ekadashi",
-      "exclude": true
-    }
-  ],
   "thumbnail": {
     "width": 360,
     "lottieFramePercent": 0.3
