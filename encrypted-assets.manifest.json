@@ -22,15 +22,13 @@
     "design",
     "json",
     "file"
-  ],
-  {
+  ],  
   "subcategories": [
     {
       "id": "personal_ashadhi_ekadashi",
       "exclude": true
     }
-  ]
-}
+  ],
   "assets": [
     {
       "id": "effects-aeroplanes-effect",
