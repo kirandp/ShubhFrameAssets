@@ -8,6 +8,12 @@
     "iterations": 150000,
     "encoding": "base64url"
   },
+  "subcategories": [
+    {
+      "path": "frames/personal/birthday",
+      "exclude": true
+    }
+  ],
   "thumbnail": {
     "width": 360,
     "lottieFramePercent": 0.3
